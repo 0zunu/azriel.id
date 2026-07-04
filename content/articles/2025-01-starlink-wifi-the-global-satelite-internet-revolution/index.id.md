@@ -2,7 +2,7 @@
 title: "Starlink WiFi: Revolusi Internet Satelit Global"
 summary: "Starlink adalah layanan internet berbasis satelit yang dikembangkan oleh SpaceX, perusahaan teknologi luar angkasa milik Elon Musk. Proyek ini bertujuan untuk menyediakan akses internet berkecepatan tinggi dan latensi rendah ke seluruh dunia, termasuk daerah terpencil yang sulit dijangkau oleh infrastruktur internet tradisional."
 description: "Starlink adalah layanan internet berbasis satelit yang dikembangkan oleh SpaceX, perusahaan teknologi luar angkasa milik Elon Musk. Proyek ini bertujuan untuk menyediakan akses internet berkecepatan tinggi dan latensi rendah ke seluruh dunia, termasuk daerah terpencil yang sulit dijangkau oleh infrastruktur internet tradisional."
-tags: ["starlink", "internet", "satelit", "tech"]
+tags: ["starlink", "internet", "satellite", "tech"]
 date: 2025-01-25T05:02:50+07:00
 draft: false
 ---

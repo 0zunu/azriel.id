@@ -3,7 +3,7 @@ title: "Enterprise Resource Planning #08: Studi Kasus Penerapan ERP dengan Mengg
 summary: "Studi kasus tentang penerapan sistem ERP dengan menggunakan metode Object-Oriented Analysis and Design (OOAD)."
 description: "Studi kasus tentang penerapan sistem ERP dengan menggunakan metode Object-Oriented Analysis and Design (OOAD)."
 categories: ["Enterprise Resource Planning"]
-tags: ["ERP", "Studi Kasus", "OOAD", "Penerapan ERP"]
+tags: ["ERP", "Case Study", "OOAD", "ERP Implementation"]
 series: ["Chapters on ERP"]
 series_order: 8
 date: 2026-04-08T02:30:30+07:00
