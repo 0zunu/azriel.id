@@ -9,10 +9,10 @@ tags:
     "ERD",
     "Entity",
     "Relationship",
-    "Atribut",
-    "Kardinalitas",
+    "Attribute",
+    "Cardinality",
     "Participation Constraint",
-    "Indicator Tipe",
+    "Type Indicator",
     "Logical Record Structured",
     "ERD Creation Steps",
   ]
