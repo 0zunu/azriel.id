@@ -1,0 +1,8 @@
+{
+    "name": "Sulivan Sukri",
+    "image" : "images/authors/sukri.png",
+    "bio": "Full Stack Web Developer",
+    "social": [
+        { "email": "mailto:juliusulee@gmail.com" }
+    ]
+}

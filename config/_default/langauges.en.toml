@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Azriel Fidzlie"
+
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "images/logo.png"
+  secondaryLogo = "images/secondary-logo.png"
+  copyright = "© { year } Azriel Fidzlie. All rights reserved."
+
+[params.author]
+  name = "Azriel Fidzlie, S.Kom"
+  headline = "Always Learning New Things"
+  image = "images/authors/azriel.jpg"
+  imageQuality = 96
+  bio = "Always Learning New Things"
+  links = [
+    { facebook = "https://facebook.com/ulee.undead" },
+    { twitter = "https://twitter.com/0zunu_" },
+    { instagram = "https://instagram.com/mas.ulee" },
+    { youtube = "https://www.youtube.com/@O_zunu/" },
+    { github = "https://github.com/0zunu" },
+    { linkedin = "https://www.linkedin.com/in/azriel-fidzlie" },
+    { email = "mailto:fidzlieazriel@gmail.com" },
+  ]

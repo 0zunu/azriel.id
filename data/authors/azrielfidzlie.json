@@ -1,0 +1,14 @@
+{
+    "name": "Azriel Fidzlie, S.Kom",
+    "image" : "images/authors/azriel.jpg",
+    "bio": "Always Learning New Things",
+    "social": [
+        { "facebook": "https://facebook.com/ulee.undead" },
+        { "twitter": "https://twitter.com/0zunu_" },
+        { "instagram": "https://instagram.com/mas.ulee" },
+        { "youtube": "https://www.youtube.com/@O_zunu/" },
+        { "github": "https://github.com/0zunu" },
+        { "linkedin": "https://www.linkedin.com/in/azriel-fidzlie" },
+        { "email": "mailto:fidzlieazriel@gmail.com" }
+    ]
+}

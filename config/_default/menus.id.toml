@@ -1,0 +1,134 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  pre = "briefcase"
+  name = "Portfolio"
+  weight = 10
+  pageRef = "portfolio"
+
+[[main]]
+  pre = "user-account"
+  name = "Tentang"
+  weight = 20
+  pageRef = "about"
+
+[[main]]
+  pre = "notebook"
+  name = "Lampiran"
+  parent = "Tentang"
+  weight = 20
+  pageRef = "resume"
+
+[[main]]
+  pre = "newspaper-clipping"
+  name = "Artikel"
+  weight = 40
+  pageRef = "articles"
+
+# =====================Belajar======================
+
+[[main]]
+  pre = "graduation-cap"
+  name = "Belajar"
+  weight = 50
+  pageRef = "study"
+
+[[main]]
+  pre = "neural-network"
+  name = "Cisco Packet Tracer"
+  parent = "Belajar"
+  weight = 50
+  pageRef = "study/cisco"
+  
+[[main]]
+  pre = "source-code"
+  name = "Computer Programming"
+  parent = "Belajar"
+  weight = 50
+  pageRef = "study/programming"
+
+[[main]]
+  pre = "erp"
+  name = "Enterprise Resource Planning"
+  parent = "Belajar"
+  weight = 50
+  pageRef = "study/erp"
+
+[[main]]
+  pre = "router-stroke-rounded"
+  name = "Mikrotik Fundamental"
+  parent = "Belajar"
+  weight = 50
+  pageRef = "study/mikrotik"
+  
+# =====================Lainnya======================
+
+[[main]]
+  pre = "option"
+  name = "Lainnya"
+  weight = 60
+  pageRef = "others"
+
+[[main]]
+  pre = "images-square"
+  name = "Galeri"
+  parent = "Lainnya"
+  weight = 60
+  pageRef = "others/gallery"
+
+[[main]]
+  pre = "status"
+  name = "Status"
+  parent = "Lainnya"
+  weight = 60
+  url = "https://status.azriel.id/history/azriel-id"
+
+# =====================Penutup======================
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/0zunu"
+  weight = 65
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/0zunu_"
+  weight = 70
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20
+
+[[footer]]
+   name = "Authors"
+   pageRef = "authors"
+   weight = 30
+
+[[footer]]
+  name = ""
+  pre = "rss"
+  url = "index.xml"
+  weight = 40

@@ -1,0 +1,8 @@
+[build]
+  command = "hugo --gc --minify -b https://www.azriel.id"
+  publish = "public"
+
+[build.environment]
+HUGO_VERSION = "0.160.1"
+HUGO_THEMESDIR = "themes"
+HUGO_THEME = "blowfish"
