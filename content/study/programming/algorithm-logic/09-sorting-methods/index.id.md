@@ -4,7 +4,7 @@ summary: "Proses pengaturan sederetan data ke dalam suatu urutan atau susunan ur
 description: "Proses pengaturan sederetan data ke dalam suatu urutan atau susunan urutan tertentu. Data yang diurutkan dapat berupa data bilangan, data karakter maupun data string (Sitorus, 2015)."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "sorting methods"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 9
 date: 2026-04-25T05:02:50+07:00
 draft: false

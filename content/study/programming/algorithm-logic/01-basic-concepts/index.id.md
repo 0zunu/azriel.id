@@ -4,7 +4,7 @@ summary: "Tutorial lengkap tentang logika dan algoritma untuk pemula yang akan m
 description: "Tutorial lengkap tentang logika dan algoritma untuk pemula yang akan membantu Anda memahami dasar-dasar logika dan algoritma serta cara membuat solusi masalah."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "logic", "algorithm"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 1
 date: 2026-04-17T05:02:50+07:00
 draft: false

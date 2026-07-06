@@ -1,10 +1,10 @@
 ---
-title: "Logic and Algorithms #06: Recursive Structures"
+title: "Algorithm and Logic #06: Recursive Structures"
 summary: "A recursive structure is a concept where a function calls itself to solve a problem."
 description: "A recursive structure is a concept where a function calls itself to solve a problem."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "recursive structures"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 6
 date: 2026-04-22T05:02:50+07:00
 draft: false

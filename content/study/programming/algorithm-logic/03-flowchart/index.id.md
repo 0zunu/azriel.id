@@ -4,7 +4,7 @@ summary: "Flowchart adalah representasi grafis dari algoritma yang menggunakan s
 description: "Flowchart adalah representasi grafis dari algoritma yang menggunakan simbol-simbol untuk menunjukkan langkah-langkah dalam pemecahan masalah."
 categories: ["Algorithm Logic"]
 tags: ["learning", "coding", "algorithm", "logic", "flowchart"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 3
 date: 2026-04-19T05:02:50+07:00
 draft: false

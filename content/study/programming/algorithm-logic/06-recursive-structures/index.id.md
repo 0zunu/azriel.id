@@ -4,7 +4,7 @@ summary: "Struktur rekursif adalah konsep di mana sebuah fungsi memanggil diriny
 description: "Struktur rekursif adalah konsep di mana sebuah fungsi memanggil dirinya sendiri untuk menyelesaikan suatu masalah."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "recursive structures"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 6
 date: 2026-04-22T05:02:50+07:00
 draft: false

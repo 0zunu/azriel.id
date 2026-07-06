@@ -4,7 +4,7 @@ summary: "Teknik dalam memilih dan menyeleksi sebuah elemen dari beberapa elemen
 description: "Teknik dalam memilih dan menyeleksi sebuah elemen dari beberapa elemen yang ada."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "searching", "analysis"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 10
 date: 2026-04-26T05:02:50+07:00
 math: true

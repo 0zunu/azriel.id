@@ -11,7 +11,7 @@ tags:
     "Integrity Constraints",
     "Database Schema",
   ]
-series: ["Database Systems Chapters"]
+series: ["Database System Chapters"]
 series_order: 2
 date: 2026-06-21T05:02:50+07:00
 draft: false

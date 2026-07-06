@@ -12,7 +12,7 @@ tags:
     "algorithm concept",
     "data concept",
   ]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 2
 date: 2026-04-18T05:02:50+07:00
 draft: false

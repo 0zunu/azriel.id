@@ -4,7 +4,7 @@ summary: "Sistem basis data berkaitan penting dalam pengembangan bidang rekayasa
 description: "Sistem basis data berkaitan penting dalam pengembangan bidang rekayasa perangkat lunak, dan database menjadi kerangka kerja yang mendasari sistem informasi dan secara mendasar merubah cara banyak organisasi beroperasi."
 categories: ["Database Systems"]
 tags: ["DBMS", "DDL", "DML"]
-series: ["Database Systems Chapters"]
+series: ["Database System Chapters"]
 series_order: 1
 date: 2026-06-20T05:02:50+07:00
 draft: false

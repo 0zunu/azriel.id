@@ -1,10 +1,10 @@
 ---
-title: "Logic and Algorithms #01: Basic Concepts"
+title: "Algorithm and Logic #01: Basic Concepts"
 summary: "A complete tutorial on logic and algorithms for beginners that will help you understand the basics of logic and algorithms as well as how to create problem solutions."
 description: "A complete tutorial on logic and algorithms for beginners that will help you understand the basics of logic and algorithms as well as how to create problem solutions."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "logic", "algorithm"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 1
 date: 2026-04-17T05:02:50+07:00
 draft: false

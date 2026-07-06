@@ -4,7 +4,7 @@ summary: "Metode Divide and Conquer adalah pendekatan dalam pemecahan masalah ya
 description: "Metode Divide and Conquer adalah pendekatan dalam pemecahan masalah yang membagi masalah menjadi bagian-bagian kecil, menyelesaikan masing-masing bagian, lalu menggabungkan hasilnya."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "divide and conquer"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 8
 date: 2026-04-24T05:02:50+07:00
 draft: false

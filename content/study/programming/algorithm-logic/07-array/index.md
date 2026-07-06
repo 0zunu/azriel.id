@@ -1,10 +1,10 @@
 ---
-title: "Logic and Algorithms #07: Array"
+title: "Algorithm and Logic #07: Array"
 summary: "An array is a data structure used to store multiple values in a single variable."
 description: "An array is a data structure used to store multiple values in a single variable."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "array"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 7
 date: 2026-04-23T05:02:50+07:00
 draft: false

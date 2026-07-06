@@ -4,7 +4,7 @@ summary: "Database systems are critically important in the development of softwa
 description: "Database systems are critically important in the development of software engineering, and databases serve as the foundation for information systems and fundamentally change how many organizations operate."
 categories: ["Database Systems"]
 tags: ["DBMS", "DDL", "DML"]
-series: ["Database Systems Chapters"]
+series: ["Database System Chapters"]
 series_order: 1
 date: 2026-06-20T05:02:50+07:00
 draft: false

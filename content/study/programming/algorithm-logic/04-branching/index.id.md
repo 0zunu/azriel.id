@@ -4,7 +4,7 @@ summary: "Branching adalah struktur kontrol yang memungkinkan program untuk memb
 description: "Branching adalah struktur kontrol yang memungkinkan program untuk membuat keputusan berdasarkan kondisi tertentu."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "branching"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 4
 date: 2026-04-20T05:02:50+07:00
 draft: false

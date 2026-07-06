@@ -15,7 +15,7 @@ tags:
     "UML",
     "ER Diagram",
   ]
-series: ["Database Systems Chapters"]
+series: ["Database System Chapters"]
 series_order: 3
 date: 2026-06-22T05:02:50+07:00
 draft: false

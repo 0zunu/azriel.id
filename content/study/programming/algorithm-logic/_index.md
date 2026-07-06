@@ -1,5 +1,5 @@
 ---
-title: "Logic and Algorithms"
+title: "Algorithms and Logic"
 summary: "Learn Logic and Algorithms for Beginners."
 type: "programming"
 tags: ["logic", "algorithms", "beginners"]

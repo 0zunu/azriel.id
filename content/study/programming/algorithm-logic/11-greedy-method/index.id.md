@@ -4,7 +4,7 @@ summary: "Greedy diambil dari bahasa inggris berarti rakus, tamak, loba, serakah
 description: "Greedy diambil dari bahasa inggris berarti rakus, tamak, loba, serakah."
 categories: ["Algorithm Logic"]
 tags: ["greedy", "logic", "algorithm", "greedy-algorithm", "greedy-method"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 11
 date: 2026-04-27T05:02:50+07:00
 math: true

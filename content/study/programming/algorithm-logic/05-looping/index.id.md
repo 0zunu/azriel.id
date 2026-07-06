@@ -4,7 +4,7 @@ summary: "Looping adalah struktur kontrol yang memungkinkan program untuk mengul
 description: "Looping adalah struktur kontrol yang memungkinkan program untuk mengulangi eksekusi sebuah blok kode selama kondisi tertentu terpenuhi."
 categories: ["Algorithm Logic"]
 tags: ["learn", "coding", "algorithms", "logic", "looping"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 5
 date: 2026-04-21T05:02:50+07:00
 draft: false

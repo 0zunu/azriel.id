@@ -4,7 +4,7 @@ summary: "Graph merupakan cabang matematika yang dapat diterapkan dalam kehidupa
 description: "Graph merupakan cabang matematika yang dapat diterapkan dalam kehidupan sehari-hari, teori graph dapat memecahkan banyak masalah yang ada (Ramadhan et al., 2018)."
 categories: ["Algorithm Logic"]
 tags: ["graph", "logic", "algorithm", "greedy-algorithm", "greedy-method"]
-series: ["Logic and Algorithms Chapters"]
+series: ["Algorithm and Logic Chapters"]
 series_order: 12
 date: 2026-04-28T05:02:50+07:00
 math: true
