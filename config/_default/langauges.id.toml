@@ -1,6 +1,6 @@
 disabled = false
-languageCode = "id"
-languageName = "Bahasa Indonesia"
+locale = "id"
+label = "Bahasa Indonesia"
 weight = 2
 title = "Azriel Fidzlie"
 
