@@ -18,7 +18,7 @@ tags:
   ]
 series: ["Database System Chapters"]
 series_order: 4
-date: 2026-06-23T05:02:50+07:00
+date: 2026-07-04T05:02:50+07:00
 draft: false
 ---
 

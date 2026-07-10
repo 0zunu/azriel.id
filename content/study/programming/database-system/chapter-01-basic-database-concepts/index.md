@@ -6,7 +6,7 @@ categories: ["Database Systems"]
 tags: ["DBMS", "DDL", "DML"]
 series: ["Database System Chapters"]
 series_order: 1
-date: 2026-06-20T05:02:50+07:00
+date: 2026-07-01T05:02:50+07:00
 draft: false
 ---
 
