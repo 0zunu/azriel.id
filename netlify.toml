@@ -3,6 +3,6 @@
   publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.163.3"
+HUGO_VERSION = "0.164.0"
 HUGO_THEMESDIR = "themes"
 HUGO_THEME = "blowfish"
