@@ -5,6 +5,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/23fed9f0-3a15-438f-ac0a-819790f160de/deploy-status)](https://app.netlify.com/projects/azriel-personal-web/deploys)
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
+[![GitHub](https://img.shields.io/github/license/0zunu/azriel.id)](https://github.com/0zunu/azriel.id/blob/master/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/0zunu/azriel.id)
 [![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/1222741498/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md)
 
