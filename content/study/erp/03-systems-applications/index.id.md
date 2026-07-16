@@ -12,7 +12,6 @@ tags:
     "Customer Relationship Management",
     "CRM",
     "Human Resources",
-    "HR",
     "Information Systems",
     "Business Management",
     "Information Technology",
