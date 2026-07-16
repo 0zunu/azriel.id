@@ -91,7 +91,7 @@
   name = "Status"
   parent = "Others"
   weight = 60
-  url = "https://status.azriel.id/history/azriel-id"
+  url = "https://status.azriel.id"
 
 # =====================Penutup======================
 
@@ -123,9 +123,9 @@
   weight = 20
 
 [[footer]]
-   name = "Authors"
-   pageRef = "authors"
-   weight = 30
+  name = "Authors"
+  pageRef = "authors"
+  weight = 30
 
 [[footer]]
   name = ""
