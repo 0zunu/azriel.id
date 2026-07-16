@@ -48,4 +48,4 @@ showShareLinks: false
     alt="QR Code"
     >}}
 
-For business inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/azriel-fidzlie) or send me a message on [Instagram](https://instagram.com/mas.ulee). You can also find me on various major social media platforms.
+For business inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/azriel-fidzlie) or send me a message on [Telegram](https://t.me/mas_ulee). You can also find me on various major social media platforms.

@@ -48,4 +48,4 @@ showShareLinks: false
     alt="QR Code"
     >}}
 
-Untuk pertanyaan bisnis, silakan hubungi saya di [LinkedIn](https://www.linkedin.com/in/azriel-fidzlie) atau kirim pesan kepada saya di [Instagram](https://instagram.com/mas.ulee). Anda juga dapat menemukan saya di berbagai platform media sosial utama.
+Untuk pertanyaan bisnis, silakan hubungi saya di [LinkedIn](https://www.linkedin.com/in/azriel-fidzlie) atau kirim pesan kepada saya di [Telegram](https://t.me/mas_ulee). Anda juga dapat menemukan saya di berbagai platform media sosial utama.
