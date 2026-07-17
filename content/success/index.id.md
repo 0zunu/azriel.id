@@ -27,4 +27,4 @@ Terima kasih telah menghubungi saya. Pesan Anda telah berhasil dikirim.
 
 Saya akan membalas pesan Anda sesegera mungkin.
 
-{{< button href="/id/contact/" >}}Kembali ke formulir kontak{{< /button >}}
+{{< button href="/contact/" >}}Kembali ke formulir kontak{{< /button >}}

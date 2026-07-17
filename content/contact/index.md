@@ -27,7 +27,7 @@ showShareLinks: false
 
 Please use the form below if you would like to contact me about my work.
 
-<form name="contact" action="/contact/success" method="POST" data-netlify="true">
+<form name="contact" action="/success" method="POST" data-netlify="true">
 <div class="mb-4">
     <label class="block text-gray-700 text-sm font-bold mb-2" for="name">
     Your name
