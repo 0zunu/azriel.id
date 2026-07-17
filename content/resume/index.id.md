@@ -15,6 +15,7 @@ showDateUpdated: true
 showDate: true
 date: 2025-04-28
 lastmod: 2026-07-17
+showComments: false
 showHeadingAnchors: false
 showPagination: false
 showReadingTime: false
