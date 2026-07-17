@@ -30,6 +30,13 @@
   pageRef = "resume"
 
 [[main]]
+  pre = "mail"
+  name = "Kontak"
+  parent = "Tentang"
+  weight = 35
+  pageRef = "contact"
+
+[[main]]
   pre = "newspaper-clipping"
   name = "Artikel"
   weight = 40
