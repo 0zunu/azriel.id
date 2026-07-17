@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Kontak"
 draft: false
 description: "Silakan gunakan formulir di bawah ini jika Anda ingin menghubungi saya terkait pekerjaan saya."
 type: "page"
@@ -48,7 +48,7 @@ Silakan gunakan formulir di bawah ini jika Anda ingin menghubungi saya terkait p
 </div>
 <button type="submit">
 {{< button>}}
-Send
+Kirim
 {{< /button >}}
 </button>
 </form>
