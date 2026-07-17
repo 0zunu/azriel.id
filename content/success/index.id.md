@@ -28,3 +28,16 @@ Terima kasih telah menghubungi saya. Pesan Anda telah berhasil dikirim.
 Saya akan membalas pesan Anda sesegera mungkin.
 
 {{< button href="/contact/" >}}Kembali ke formulir kontak{{< /button >}}
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const allowed = sessionStorage.getItem('contact-success-access');
+
+  if (allowed !== 'true') {
+    window.location.replace('/contact/');
+    return;
+  }
+
+  sessionStorage.removeItem('contact-success-access');
+});
+</script>

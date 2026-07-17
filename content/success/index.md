@@ -28,3 +28,16 @@ Thank you for reaching out. Your message has been sent successfully.
 I will get back to you as soon as possible.
 
 {{< button href="/contact/" >}}Back to contact form{{< /button >}}
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const allowed = sessionStorage.getItem('contact-success-access');
+
+  if (allowed !== 'true') {
+    window.location.replace('/contact/');
+    return;
+  }
+
+  sessionStorage.removeItem('contact-success-access');
+});
+</script>
