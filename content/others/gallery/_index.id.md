@@ -27,9 +27,9 @@ Koleksi jepretan foto yang diambil secara random, sebagai media penyalur hobi fo
 
 {{< gallery >}}
 
-{{< figure src="/photos/coffee.jpeg" caption="Coffee" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
-{{< figure src="/photos/tower.jpeg" caption="Tower" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
-{{< figure src="/photos/gedung.jpeg" caption="Building" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
-{{< figure src="/photos/moon.jpeg" caption="Moon" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
+{{< figure src="/photos/coffee.jpeg" caption="Kopi" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
+{{< figure src="/photos/tower.jpeg" caption="Menara" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
+{{< figure src="/photos/gedung.jpeg" caption="Gedung" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
+{{< figure src="/photos/moon.jpeg" caption="Bulan" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
 
 {{< /gallery >}}
