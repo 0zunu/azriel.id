@@ -14,6 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 lastmod: 2025-04-28T12:00:00+07:00
+showComments: false
 showHeadingAnchors: false
 showPagination: false
 showReadingTime: false
@@ -48,4 +49,4 @@ showShareLinks: false
     alt="QR Code"
     >}}
 
-Untuk pertanyaan bisnis, silakan hubungi saya di [LinkedIn](https://www.linkedin.com/in/azriel-fidzlie) atau kirim pesan kepada saya di [Telegram](https://t.me/mas_ulee). Anda juga dapat menemukan saya di berbagai platform media sosial utama.
+Untuk pertanyaan bisnis, silakan hubungi saya di [Kontak](contact) atau kirim pesan kepada saya di [Telegram](https://t.me/mas_ulee). Anda juga dapat menemukan saya di berbagai platform media sosial utama.
