@@ -1,0 +1,30 @@
+---
+title: "Pesan terkirim"
+draft: false
+description: "Pesan Anda telah berhasil dikirim."
+type: "page"
+layoutBackgroundHeaderSpace: false
+showViews: false
+showLikes: false
+showSummary: false
+sharingLinks: false
+showTaxonomies: false
+showWordCount: false
+showHeadingAnchors: false
+showDate: false
+showDateUpdated: false
+showComments: false
+showPagination: false
+showReadingTime: false
+showRelatedContent: false
+showTableOfContents: false
+showRelated: false
+showAuthor: false
+showShareLinks: false
+---
+
+Terima kasih telah menghubungi saya. Pesan Anda telah berhasil dikirim.
+
+Saya akan membalas pesan Anda sesegera mungkin.
+
+{{< button href="/id/contact/" >}}Kembali ke formulir kontak{{< /button >}}
