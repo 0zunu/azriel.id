@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-07-17
+lastmod: 2026-07-21
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -46,12 +46,20 @@ Microsoft Office (word, excel & point), Google Workspace (document, spreadsheet,
 
 Assisted in displaying materials for broadcast programs, monitoring during pre-production and post-production, operating VMix, and assisting with coverage.
 
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/tvri-nasional.png" />
+{{< /gallery >}}
+
 <p><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="police" header="Korps Brimob Polri" badge="February 2020 - March 2020" subheader="Administration Staff internship" >}}
 
 Performed hardware maintenance, created letter numbering, drafted zebra operation task letters, and Sending assignment letters.
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/brimob.webp" />
+{{< /gallery >}}
 
 <p><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
 {{< /timelineItem >}}
@@ -64,11 +72,15 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 
 {{< timeline >}}
 
-{{< timelineItem icon="graduation-cap" header="Universitas Bina Sarana Informatika" badge="February 2022 - March 2026" subheader="Information Systems" >}}
+{{< timelineItem icon="graduation-cap" header="Universitas Bina Sarana Informatika" badge="March 2022 - February 2026" subheader="Information Systems" >}}
 
 Relevant courses in Project Management and Web Programming.
 
 <p><b>{{< icon "award" >}} Thesis on “Implementation of the SMKN 34 Jakarta Online Examination System”.</b></p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/ubsi.png" />
+{{< /gallery >}}
 
 {{< /timelineItem >}}
 
@@ -77,6 +89,10 @@ Relevant courses in Project Management and Web Programming.
 Mastering Cisco Packet Tracer and Mikrotik.
 
 <p><b>{{< icon "award" >}} Internship Certificate (Field Work Practice as Administration Staff at Korps Brimob Regiment III).</b></p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/hb.png" />
+{{< /gallery >}}
 
 {{< /timelineItem >}}
 
@@ -144,9 +160,10 @@ Industrial Work Practice Certificate (PRAKERIN) Dual System Education (PSG) obta
 
 ## Languages
 
-Indonesian (Native), English (Beginner)
+- Indonesian (Native)
+- English (Beginner)
 
-## Download
+## Download CV
 
 You can view my resume on FlowCV or directly download the PDF file.
 

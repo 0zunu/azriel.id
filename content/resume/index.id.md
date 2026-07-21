@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-07-17
+lastmod: 2026-07-21
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -46,12 +46,20 @@ Microsoft Office (Word, Excel & PowerPoint), Google Workspace (Dokumen, Spreadsh
 
 Membantu program acara untuk menampilkan materi, Monitoring selama pra-produksi dan pasca-produksi, Mengoperasikan VMix, dan Membantu Liputan.
 
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/tvri-nasional.png" />
+{{< /gallery >}}
+
 <p><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="police" header="Korps Brimob Polri" badge="Februari 2020 - Maret 2020" subheader="Magang Staff Administrasi" >}}
 
 Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat tugas operasi zebra, dan Mengirim surat tugas.
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/brimob.webp" />
+{{< /gallery >}}
 
 <p><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
 {{< /timelineItem >}}
@@ -64,11 +72,15 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 
 {{< timeline >}}
 
-{{< timelineItem icon="graduation-cap" header="Universitas Bina Sarana Informatika" badge="Februari 2022 - Maret 2026" subheader="Sistem Informasi" >}}
+{{< timelineItem icon="graduation-cap" header="Universitas Bina Sarana Informatika" badge="Maret 2022 - Februari 2026" subheader="Sistem Informasi" >}}
 
 Mata kuliah terkait di bidang Manajemen Proyek dan Pemrograman Web.
 
 <p><b>{{< icon "award" >}} Tesis tentang “Implementasi Sistem Ujian Daring SMKN 34 Jakarta”.</b></p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/ubsi.png" />
+{{< /gallery >}}
 
 {{< /timelineItem >}}
 
@@ -77,6 +89,10 @@ Mata kuliah terkait di bidang Manajemen Proyek dan Pemrograman Web.
 Menguasai Cisco Packet Tracer dan Mikrotik.
 
 <p><b>{{< icon "award" >}} Sertifikat PKL (Praktek Kerja Lapangan sebagai Staff Administrasi di Korps Brimob Resimen III).</b></p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/hb.png" />
+{{< /gallery >}}
 
 {{< /timelineItem >}}
 
@@ -144,9 +160,10 @@ Sertifikat Praktek Kerja Industri (PRAKERIN) Pendidikan Sistem Ganda (PSG) yang 
 
 ## Bahasa
 
-Indonesia (Penutur Asli), Inggris (Pemula)
+- Indonesia (Penutur Asli)
+- Inggris (Pemula)
 
-## Unduh
+## Unduh CV
 
 Anda dapat melihat resume saya di FlowCV atau langsung mengunduh file PDF-nya.
 
