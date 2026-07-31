@@ -309,14 +309,14 @@ Label juga boleh multi baris
 Untuk membuat cover buku, kita harus membuat satu file berisi title block seperti ini:
 
     % Menggunakan Pandoc dan Markdown
-    % Julius Ulee
+    % Ulee
     % 27 January 2024
 
 Baris pertama adalah judul, baris kedua adalah pengarang, dan baris ketiga adalah tanggal penulisan.
 Bila pengarang lebih dari satu, ditulis seperti ini:
 
     % Menggunakan Pandoc dan Markdown
-    % Julius Ulee
+    % Ulee
       Fona
     % 27 January 2024
 

@@ -309,14 +309,14 @@ Labels can also be multi-line
 To create a book cover, we must create a file containing a title block like this:
 
     % Using Pandoc and Markdown
-    % Julius Ulee
+    % Ulee
     % 27 January 2024
 
 The first line is the title, the second line is the author, and the third line is the date of writing.
 If there is more than one author, it is written like this:
 
     % Using Pandoc and Markdown
-    % Julius Ulee
+    % Ulee
       Fona
     % 27 January 2024
 
