@@ -33,13 +33,13 @@ Silakan gunakan formulir di bawah ini jika Anda ingin menghubungi saya terkait p
     <label class="block text-orange-800 dark:text-orange-300 text-sm font-bold mb-2" for="name">
     Nama Anda
     </label>
-    <input class="shadow appearance-none border border-orange-300 dark:border-orange-700 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="name" name="name" type="text" placeholder="Jhon Doe" required="required">
+    <input class="shadow appearance-none border border-orange-300 dark:border-orange-700 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="name" name="name" type="text" placeholder="John Doe" required="required">
   </div>
   <div>
     <label class="block text-orange-800 dark:text-orange-300 text-sm font-bold mb-2" for="email">
     Email Anda
     </label>
-    <input class="shadow appearance-none border border-orange-300 dark:border-orange-700 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="email" name="email" type="email" placeholder="jhon@gmail.com" required="required">
+    <input class="shadow appearance-none border border-orange-300 dark:border-orange-700 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="email" name="email" type="email" placeholder="john@gmail.com" required="required">
   </div>
 </div>
 <div class="mt-4 mb-4">
