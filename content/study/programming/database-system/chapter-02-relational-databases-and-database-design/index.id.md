@@ -13,7 +13,7 @@ tags:
   ]
 series: ["Database System Chapters"]
 series_order: 2
-date: 2026-07-02T05:02:50+07:00
+date: 2026-07-08T05:02:50+07:00
 draft: false
 ---
 

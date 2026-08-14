@@ -6,7 +6,7 @@ categories: ["Database Systems"]
 tags: ["Relational Algebra", "Relational Calculus", "Query Language"]
 series: ["Database System Chapters"]
 series_order: 6
-date: 2026-07-06T05:02:50+07:00
+date: 2026-07-12T05:02:50+07:00
 draft: false
 ---
 
