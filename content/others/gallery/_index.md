@@ -12,6 +12,7 @@ showTaxonomies: false
 showWordCount: false
 showDateOnlyInArticle: false
 showDateUpdated: false
+showComments: false
 showHeadingAnchors: false
 showPagination: false
 showReadingTime: false
