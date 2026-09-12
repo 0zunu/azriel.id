@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-07-21
+lastmod: 2026-09-12
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -123,7 +123,8 @@ Mastering Cisco Packet Tracer and Mikrotik.
               {{< /badge >}}
             </td>
             <td>Web-based online exam application (Computer-Based Test).</td>
-            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a></td>
+            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a>
+            <br><a target="_blank" href="/portfolio/implementation-of-smkn-34-jakarta-online-examination-system">docs</a></td>
         </tr>
         <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/destinylogo.png"/></td>
@@ -134,7 +135,8 @@ Mastering Cisco Packet Tracer and Mikrotik.
               {{< /badge >}}
             </td>
             <td>An e-commerce website offering a variety of clothing products, such as shirts, trousers, jackets, and more.</td>
-            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a></td>
+            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a>
+            <br><a target="_blank" href="/portfolio/destiny-industries">docs</a></td>
         </tr>
     </tbody>
 </table>
@@ -143,7 +145,7 @@ Mastering Cisco Packet Tracer and Mikrotik.
 
 {{< accordion mode="collapse" >}}
 
-{{< accordionItem title="Certificate of Completion on programiz.com" icon="award" open=true >}}
+{{< accordionItem title="Certificate of Completion on Programiz" icon="award" open=true >}}
 
 <h4>Badges</h4>
 <div style="display: flex; gap: 15px;">

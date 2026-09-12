@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-07-21
+lastmod: 2026-09-12
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -123,7 +123,8 @@ Menguasai Cisco Packet Tracer dan Mikrotik.
               {{< /badge >}}
             </td>
             <td>Aplikasi ujian online berbasis web (Computer-Based Test).</td>
-            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a></td>
+            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a>
+            <br><a target="_blank" href="/portfolio/implementation-of-smkn-34-jakarta-online-examination-system">docs</a></td>
         </tr>
         <tr>
             <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/destinylogo.png"/></td>
@@ -134,7 +135,8 @@ Menguasai Cisco Packet Tracer dan Mikrotik.
               {{< /badge >}}
             </td>
             <td>web e-commerce yang menyediakan berbagai produk pakaian, seperti baju, celana, jaket, dan lain-lain.</td>
-            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a></td>
+            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a>
+            <br><a target="_blank" href="/portfolio/destiny-industries">docs</a></td>
         </tr>
     </tbody>
 </table>
@@ -143,7 +145,7 @@ Menguasai Cisco Packet Tracer dan Mikrotik.
 
 {{< accordion mode="collapse" >}}
 
-{{< accordionItem title="Sertifikat Penyelesaian tersedia di programiz.com" icon="award" open=true >}}
+{{< accordionItem title="Sertifikat Penyelesaian Programiz" icon="award" open=true >}}
 
 <h4>Badges</h4>
 <div style="display: flex; gap: 15px;">
