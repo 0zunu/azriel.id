@@ -50,7 +50,7 @@ Assisted in displaying materials for broadcast programs, monitoring during pre-p
 <img class="customEntitityLogo"  src="/resume/tvri-nasional.png" />
 {{< /gallery >}}
 
-<p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Central Jakarta City</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Central Jakarta City, DKI Jakarta</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="police" header="Korps Brimob Polri" badge="February 2020 - March 2020" subheader="Administration Staff internship" >}}
@@ -61,7 +61,7 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 <img class="customEntitityLogo"  src="/resume/brimob.webp" />
 {{< /gallery >}}
 
-<p><a href="https://maps.app.goo.gl/7jqVqY9cXuVGN6Df8" target="_blank">{{< icon "location" >}} Brimob Kelapa Dua</a><br><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/7jqVqY9cXuVGN6Df8" target="_blank">{{< icon "location" >}} Depok City, West Java</a><br><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< /timeline >}}

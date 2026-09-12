@@ -50,7 +50,7 @@ Membantu program acara untuk menampilkan materi, Monitoring selama pra-produksi 
 <img class="customEntitityLogo"  src="/resume/tvri-nasional.png" />
 {{< /gallery >}}
 
-<p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Central Jakarta City</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Kota Jakarta Pusat, DKI Jakarta</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="police" header="Korps Brimob Polri" badge="Februari 2020 - Maret 2020" subheader="Magang Staff Administrasi" >}}
@@ -61,7 +61,7 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 <img class="customEntitityLogo"  src="/resume/brimob.webp" />
 {{< /gallery >}}
 
-<p><a href="https://maps.app.goo.gl/7jqVqY9cXuVGN6Df8" target="_blank">{{< icon "location" >}} Brimob Kelapa Dua</a><br><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/7jqVqY9cXuVGN6Df8" target="_blank">{{< icon "location" >}} Kota Depok, Jawa Barat</a><br><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< /timeline >}}
