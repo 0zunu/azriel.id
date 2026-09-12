@@ -57,7 +57,7 @@ Silakan gunakan formulir di bawah ini jika Anda ingin menghubungi saya terkait p
     <textarea class="shadow appearance-none border border-red-500 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 mb-3 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="message" name="message" type="message" placeholder="Hello World!" required="required" rows=5></textarea>
 </div>
 
-<div class="g-recaptcha mb-8" data-sitekey="6LejQ7ctAAAAAGEkSe4HMil_HRx6skJ9BXz_VneB"></div>
+<div class="g-recaptcha mb-8" data-sitekey="{{ getenv "SITE_RECAPTCHA_KEY" }}"></div>
 
 <button type="submit">
 {{< button type="submit" class="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-500 hover:to-red-500 text-white" >}}
