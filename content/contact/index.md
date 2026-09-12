@@ -27,7 +27,9 @@ showShareLinks: false
 
 Please use the form below if you would like to contact me about my work.
 
-<form id="contact-form" name="contact" action="/success/" method="POST" data-netlify="true">
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<form id="contact-form" name="contact" action="/success/" method="POST" data-netlify="true" data-netlify-recaptcha="true">
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
   <div>
     <label class="block text-orange-800 dark:text-orange-300 text-sm font-bold mb-2" for="name">
@@ -54,6 +56,9 @@ Please use the form below if you would like to contact me about my work.
     </label>
     <textarea class="shadow appearance-none border border-red-500 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 mb-3 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="message" name="message" type="message" placeholder="Hello World!" required="required" rows=5></textarea>
 </div>
+
+<div class="g-recaptcha mb-8" data-sitekey="6LejQ7ctAAAAAGEkSe4HMiI_HRx6skJ9BXz_VneB"></div>
+
 <button type="submit">
 {{< button type="submit" class="bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-500 hover:to-red-500 text-white" >}}
 Send
