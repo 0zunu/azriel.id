@@ -50,7 +50,7 @@ Membantu program acara untuk menampilkan materi, Monitoring selama pra-produksi 
 <img class="customEntitityLogo"  src="/resume/tvri-nasional.png" />
 {{< /gallery >}}
 
-<p><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Central Jakarta City</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="police" header="Korps Brimob Polri" badge="Februari 2020 - Maret 2020" subheader="Magang Staff Administrasi" >}}
@@ -61,7 +61,7 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 <img class="customEntitityLogo"  src="/resume/brimob.webp" />
 {{< /gallery >}}
 
-<p><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/7jqVqY9cXuVGN6Df8" target="_blank">{{< icon "location" >}} Brimob Kelapa Dua</a><br><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< /timeline >}}
@@ -101,6 +101,43 @@ Menguasai Cisco Packet Tracer dan Mikrotik.
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## Proyek
+
+<table>
+    <thead>
+        <tr>
+            <th>Logo</th>
+            <th>Judul</th>
+            <th>Deskripsi</th>
+            <th>Referensi</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/smknlogo.png"/></td>
+            <td>
+              Ujian Online SMKN 34 Jakarta
+              {{< badge >}}
+              Active
+              {{< /badge >}}
+            </td>
+            <td>Aplikasi ujian online berbasis web (Computer-Based Test).</td>
+            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a></td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/destinylogo.png"/></td>
+            <td>
+              E-Commerce Destiny.Industries
+              {{< badge >}}
+              Inactive
+              {{< /badge >}}
+            </td>
+            <td>web e-commerce yang menyediakan berbagai produk pakaian, seperti baju, celana, jaket, dan lain-lain.</td>
+            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Sertifikat
 

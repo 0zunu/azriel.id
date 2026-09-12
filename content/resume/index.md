@@ -50,7 +50,7 @@ Assisted in displaying materials for broadcast programs, monitoring during pre-p
 <img class="customEntitityLogo"  src="/resume/tvri-nasional.png" />
 {{< /gallery >}}
 
-<p><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Central Jakarta City</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="police" header="Korps Brimob Polri" badge="February 2020 - March 2020" subheader="Administration Staff internship" >}}
@@ -61,7 +61,7 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 <img class="customEntitityLogo"  src="/resume/brimob.webp" />
 {{< /gallery >}}
 
-<p><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
+<p><a href="https://maps.app.goo.gl/7jqVqY9cXuVGN6Df8" target="_blank">{{< icon "location" >}} Brimob Kelapa Dua</a><br><a href="https://korbrimob.polri.go.id/" target="_blank">{{< icon "link" >}} korbrimob.polri.go.id</a></p>
 {{< /timelineItem >}}
 
 {{< /timeline >}}
@@ -101,6 +101,43 @@ Mastering Cisco Packet Tracer and Mikrotik.
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## Projects
+
+<table>
+    <thead>
+        <tr>
+            <th>Logo</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>References</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/smknlogo.png"/></td>
+            <td>
+              SMKN 34 Jakarta Online Exam
+              {{< badge >}}
+              Active
+              {{< /badge >}}
+            </td>
+            <td>Web-based online exam application (Computer-Based Test).</td>
+            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a></td>
+        </tr>
+        <tr>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/destinylogo.png"/></td>
+            <td>
+              E-Commerce Destiny.Industries
+              {{< badge >}}
+              Inactive
+              {{< /badge >}}
+            </td>
+            <td>An e-commerce website offering a variety of clothing products, such as shirts, trousers, jackets, and more.</td>
+            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Certificates
 
