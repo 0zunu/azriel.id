@@ -119,7 +119,7 @@ Menguasai Cisco Packet Tracer dan Mikrotik.
             <td>
               Ujian Online SMKN 34 Jakarta
               {{< badge >}}
-              Active
+              Aktif
               {{< /badge >}}
             </td>
             <td>Aplikasi ujian online berbasis web (Computer-Based Test).</td>
@@ -130,7 +130,7 @@ Menguasai Cisco Packet Tracer dan Mikrotik.
             <td>
               E-Commerce Destiny.Industries
               {{< badge >}}
-              Inactive
+              Tidak Aktif
               {{< /badge >}}
             </td>
             <td>web e-commerce yang menyediakan berbagai produk pakaian, seperti baju, celana, jaket, dan lain-lain.</td>
