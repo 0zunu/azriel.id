@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -37,6 +37,8 @@ Microsoft Office (Word, Excel & PowerPoint), Google Workspace (Dokumen, Spreadsh
 ## Daftar Riwayat Hidup
 
 {{< tabs >}}
+
+<!-- Pengalaman Kerja -->
 
 {{< tab label="Pengalaman Kerja" icon="briefcase" md=false >}}
 
@@ -67,6 +69,44 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 {{< /timeline >}}
 
 {{< /tab >}}
+
+<!-- Proyek -->
+
+{{< tab label="Proyek" icon="dashboard" md=false >}}
+
+{{< timeline >}}
+
+{{< timelineItem icon="web-design" header="Ujian Online SMKN 34 Jakarta" badge="25 Desember 2025" >}}
+
+Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik.
+
+<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi E-learning" >}}
+{{< cta url="/portfolio/implementation-of-smkn-34-jakarta-online-examination-system" label="Dokumentasi" style="outline" >}}</p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/smknlogo.png" />
+{{< /gallery >}}
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="web-design" header="E-Commerce Destiny.Industries" badge="19 Desember 2023" >}}
+
+Proyek situs web ini dikembangkan untuk memenuhi kebutuhan masyarakat dalam berbelanja online, terutama untuk produk pakaian. Dengan adanya situs web ini, pelanggan dapat dengan mudah mencari dan membeli produk yang mereka inginkan tanpa harus pergi ke toko fisik.
+
+<p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
+{{< cta url="/portfolio/destiny-industries" label="Dokumentasi" style="outline" >}}</p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/destinylogo.png" />
+{{< /gallery >}}
+
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+{{< /tab >}}
+
+<!-- Pendidikan -->
 
 {{< tab label="Pendidikan" icon="graduation-cap" md=false >}}
 
@@ -101,45 +141,6 @@ Menguasai Cisco Packet Tracer dan Mikrotik.
 {{< /tab >}}
 
 {{< /tabs >}}
-
-## Proyek
-
-<table>
-    <thead>
-        <tr>
-            <th>Logo</th>
-            <th>Judul</th>
-            <th>Deskripsi</th>
-            <th>Referensi</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/smknlogo.png"/></td>
-            <td>
-              Ujian Online SMKN 34 Jakarta
-              {{< badge >}}
-              Aktif
-              {{< /badge >}}
-            </td>
-            <td>Aplikasi ujian online berbasis web (Computer-Based Test).</td>
-            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a>
-            <br><a target="_blank" href="/portfolio/implementation-of-smkn-34-jakarta-online-examination-system">docs</a></td>
-        </tr>
-        <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/destinylogo.png"/></td>
-            <td>
-              E-Commerce Destiny.Industries
-              {{< badge >}}
-              Tidak Aktif
-              {{< /badge >}}
-            </td>
-            <td>web e-commerce yang menyediakan berbagai produk pakaian, seperti baju, celana, jaket, dan lain-lain.</td>
-            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a>
-            <br><a target="_blank" href="/portfolio/destiny-industries">docs</a></td>
-        </tr>
-    </tbody>
-</table>
 
 ## Sertifikat
 

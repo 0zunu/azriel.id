@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-09-12
+lastmod: 2026-09-13
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -37,6 +37,8 @@ Microsoft Office (word, excel & point), Google Workspace (document, spreadsheet,
 ## Curriculum Vitae
 
 {{< tabs >}}
+
+<!-- Work Experience -->
 
 {{< tab label="Experience" icon="briefcase" md=false >}}
 
@@ -67,6 +69,44 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 {{< /timeline >}}
 
 {{< /tab >}}
+
+<!-- Projects -->
+
+{{< tab label="Projects" icon="dashboard" md=false >}}
+
+{{< timeline >}}
+
+{{< timelineItem icon="web-design" header="SMKN 34 Jakarta Online Exam" badge="25 December 2025" >}}
+
+This project is the development of a web-based online examination application (Computer-Based Test) for SMK Negeri 34 Jakarta. The goal is to replace the conventional platform to present an evaluation system that is more secure, integrated, and free from academic cheating.
+
+<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Visit E-learning" >}}
+{{< cta url="/portfolio/implementation-of-smkn-34-jakarta-online-examination-system" label="Documentation" style="outline" >}}</p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/smknlogo.png" />
+{{< /gallery >}}
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="web-design" header="E-Commerce Destiny.Industries" badge="19 December 2023" >}}
+
+This website project was developed to meet the public’s need for online shopping, especially for clothing products. With this website, customers can easily search for and purchase the products they want without having to visit a physical store.
+
+<p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
+{{< cta url="/portfolio/destiny-industries" label="Documentation" style="outline" >}}</p>
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/destinylogo.png" />
+{{< /gallery >}}
+
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+{{< /tab >}}
+
+<!-- Education -->
 
 {{< tab label="Education" icon="graduation-cap" md=false >}}
 
@@ -101,45 +141,6 @@ Mastering Cisco Packet Tracer and Mikrotik.
 {{< /tab >}}
 
 {{< /tabs >}}
-
-## Projects
-
-<table>
-    <thead>
-        <tr>
-            <th>Logo</th>
-            <th>Title</th>
-            <th>Description</th>
-            <th>References</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/smknlogo.png"/></td>
-            <td>
-              SMKN 34 Jakarta Online Exam
-              {{< badge >}}
-              Active
-              {{< /badge >}}
-            </td>
-            <td>Web-based online exam application (Computer-Based Test).</td>
-            <td><a target="_blank" href="https://elearningsmkn34jkt.sch.id/">site</a>
-            <br><a target="_blank" href="/portfolio/implementation-of-smkn-34-jakarta-online-examination-system">docs</a></td>
-        </tr>
-        <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="/resume/destinylogo.png"/></td>
-            <td>
-              E-Commerce Destiny.Industries
-              {{< badge >}}
-              Inactive
-              {{< /badge >}}
-            </td>
-            <td>An e-commerce website offering a variety of clothing products, such as shirts, trousers, jackets, and more.</td>
-            <td><a target="_blank" href="https://github.com/0zunu/Destiny.Industries">github</a>
-            <br><a target="_blank" href="/portfolio/destiny-industries">docs</a></td>
-        </tr>
-    </tbody>
-</table>
 
 ## Certificates
 
