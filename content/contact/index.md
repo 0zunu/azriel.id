@@ -44,7 +44,7 @@ data-netlify="true">
     <label class="block text-orange-800 dark:text-orange-300 text-sm font-bold mb-2" for="email">
     Your email
     </label>
-    <input class="shadow appearance-none border border-orange-300 dark:border-orange-700 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="email" name="email" type="email" placeholder="your@example.com" required="required">
+    <input class="shadow appearance-none border border-orange-300 dark:border-orange-700 rounded w-full py-2 px-3 text-gray-700 dark:text-gray-200 dark:bg-neutral-800 leading-tight focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500" id="email" name="email" type="email" placeholder="name@example.com" required="required">
   </div>
 </div>
 <div class="mt-4 mb-4">
