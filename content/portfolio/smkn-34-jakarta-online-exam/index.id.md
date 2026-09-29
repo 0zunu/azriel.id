@@ -1,7 +1,7 @@
 ---
-title: "Implementasi Sistem Ujian Online SMKN 34 Jakarta"
-summary: "SMKN 34 Jakarta, yang berlokasi di Jl. Kramat Raya No. 93, Jakarta Pusat, adalah Sekolah Menengah Kejuruan (SMK) teknik terakreditasi A. Berdiri sejak tahun 1972, sekolah ini telah meluluskan banyak tenaga ahli dan memiliki rekam jejak yang kuat dalam menyalurkan lulusannya ke industri manufaktur serta rekayasa terkemuka."
-description: "SMKN 34 Jakarta, yang berlokasi di Jl. Kramat Raya No. 93, Jakarta Pusat, adalah Sekolah Menengah Kejuruan (SMK) teknik terakreditasi A. Berdiri sejak tahun 1972, sekolah ini telah meluluskan banyak tenaga ahli dan memiliki rekam jejak yang kuat dalam menyalurkan lulusannya ke industri manufaktur serta rekayasa terkemuka."
+title: "Ujian Online SMKN 34 Jakarta"
+summary: "Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik."
+description: "Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik."
 categories: ["Portfolio"]
 tags: ["online exam", "e-learning", "web development", "codeigniter"]
 date: 2025-12-25T05:02:50+07:00

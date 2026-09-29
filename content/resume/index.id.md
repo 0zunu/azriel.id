@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-09-13
+lastmod: 2026-09-29
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -44,7 +44,7 @@ Microsoft Office (Word, Excel & PowerPoint), Google Workspace (Dokumen, Spreadsh
 
 {{< timeline >}}
 
-{{< timelineItem icon="tv" header="TVRI Nasional" badge="April 2025 - Juli 2025" subheader="Magang IT Broadcasting" >}}
+{{< timelineItem icon="tv" header="IT Broadcasting" badge="April 2025 - Juli 2025" subheader="TVRI Nasional" >}}
 
 Membantu program acara untuk menampilkan materi, Monitoring selama pra-produksi dan pasca-produksi, Mengoperasikan VMix, dan Membantu Liputan.
 
@@ -55,7 +55,7 @@ Membantu program acara untuk menampilkan materi, Monitoring selama pra-produksi 
 <p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Kota Jakarta Pusat, DKI Jakarta</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="police" header="Korps Brimob Polri" badge="Februari 2020 - Maret 2020" subheader="Magang Staff Administrasi" >}}
+{{< timelineItem icon="police" header="Staff Administrasi" badge="Februari 2020 - Maret 2020" subheader="Korps Brimob Polri" >}}
 
 Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat tugas operasi zebra, dan Mengirim surat tugas.
 
@@ -81,7 +81,7 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik.
 
 <p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi E-learning" >}}
-{{< cta url="/portfolio/implementation-of-smkn-34-jakarta-online-examination-system" label="Dokumentasi" style="outline" >}}</p>
+{{< cta url="/portfolio/smkn-34-jakarta-online-exam" label="Dokumentasi" style="outline" >}}</p>
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/smknlogo.png" />
@@ -89,7 +89,7 @@ Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-B
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="web-design" header="E-Commerce Destiny.Industries" badge="19 Desember 2023" >}}
+{{< timelineItem icon="web-design" header="Destiny.Industries" badge="19 Desember 2023" >}}
 
 Proyek situs web ini dikembangkan untuk memenuhi kebutuhan masyarakat dalam berbelanja online, terutama untuk produk pakaian. Dengan adanya situs web ini, pelanggan dapat dengan mudah mencari dan membeli produk yang mereka inginkan tanpa harus pergi ke toko fisik.
 
@@ -112,7 +112,7 @@ Proyek situs web ini dikembangkan untuk memenuhi kebutuhan masyarakat dalam berb
 
 {{< timeline >}}
 
-{{< timelineItem icon="graduation-cap" header="Universitas Bina Sarana Informatika" badge="Maret 2022 - Februari 2026" subheader="Sistem Informasi" >}}
+{{< timelineItem icon="graduation-cap" header="Sarjana Komputer (S.Kom)" badge="Maret 2022 - Februari 2026" subheader="Sistem Informasi - Universitas Bina Sarana Informatika" >}}
 
 Mata kuliah terkait di bidang Manajemen Proyek dan Pemrograman Web.
 
@@ -124,7 +124,7 @@ Mata kuliah terkait di bidang Manajemen Proyek dan Pemrograman Web.
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="graduation-cap" header="SMKN Harapan Bangsa" badge="Mei 2017 - Juli 2020" subheader="Teknik Komputer Jaringan" >}}
+{{< timelineItem icon="graduation-cap" header="Teknik Komputer Jaringan" badge="Mei 2017 - Juli 2020" subheader="SMK Harapan Bangsa - Depok Jawa Barat" >}}
 
 Menguasai Cisco Packet Tracer dan Mikrotik.
 

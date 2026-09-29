@@ -1,7 +1,7 @@
 ---
-title: "Implementation of SMKN 34 Jakarta Online Examination System"
-summary: "SMKN 34 Jakarta, which is located at Jl. Kramat Raya No. 93, Central Jakarta, is a vocational high school (SMK) with an A accreditation in engineering. Established in 1972, this school has graduated many skilled professionals and has a strong track record of channeling its graduates into leading manufacturing and engineering industries."
-description: "SMKN 34 Jakarta, which is located at Jl. Kramat Raya No. 93, Central Jakarta, is a vocational high school (SMK) with an A accreditation in engineering. Established in 1972, this school has graduated many skilled professionals and has a strong track record of channeling its graduates into leading manufacturing and engineering industries."
+title: "SMKN 34 Jakarta Online Exam"
+summary: "This project is the development of a web-based online examination application (Computer-Based Test) for SMK Negeri 34 Jakarta. The goal is to replace the conventional platform to present an evaluation system that is more secure, integrated, and free from academic cheating."
+description: "This project is the development of a web-based online examination application (Computer-Based Test) for SMK Negeri 34 Jakarta. The goal is to replace the conventional platform to present an evaluation system that is more secure, integrated, and free from academic cheating."
 categories: ["Portfolio"]
 tags: ["online exam", "e-learning", "web development", "codeigniter"]
 date: 2025-12-25T05:02:50+07:00

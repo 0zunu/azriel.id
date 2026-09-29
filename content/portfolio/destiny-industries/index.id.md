@@ -1,5 +1,5 @@
 ---
-title: "E-Commerce Destiny.Industries"
+title: "Destiny.Industries"
 summary: "Destiny.Industries adalah situs web e-commerce yang menyediakan berbagai produk pakaian seperti kemeja, celana, jaket, dan lainnya. Situs web ini dibangun menggunakan teknologi web modern."
 description: "Destiny.Industries adalah situs web e-commerce yang menyediakan berbagai produk pakaian seperti kemeja, celana, jaket, dan lainnya. Situs web ini dibangun menggunakan teknologi web modern."
 categories: ["Portfolio"]

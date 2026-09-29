@@ -1,5 +1,5 @@
 ---
-title: "E-Commerce Destiny.Industries"
+title: "Destiny.Industries"
 summary: "Destiny.Industries is an e-commerce website that provides various clothing products such as shirts, pants, jackets, and more. This website is built using modern web technologies."
 description: "Destiny.Industries is an e-commerce website that provides various clothing products such as shirts, pants, jackets, and more. This website is built using modern web technologies."
 categories: ["Portfolio"]
