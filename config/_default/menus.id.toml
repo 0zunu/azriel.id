@@ -73,7 +73,7 @@
 
 [[main]]
   pre = "router-stroke-rounded"
-  name = "Mikrotik Fundamental"
+  name = "MikroTik Fundamental"
   parent = "Belajar"
   weight = 50
   pageRef = "study/mikrotik"

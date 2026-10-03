@@ -1,10 +1,10 @@
 ---
-title: "Mikrotik Fundamental"
+title: "MikroTik Fundamental"
 summary: "Router merupakan komponen yang terpenting pada jaringan komputer yang bertujuan untuk menghubungkan jaringan yang berbeda."
 description: "Router merupakan komponen yang terpenting pada jaringan komputer yang bertujuan untuk menghubungkan jaringan yang berbeda."
-categories: ["Mikrotik"]
+categories: ["MikroTik"]
 tags: ["Router", "Computer Network"]
-series: ["Chapters on Mikrotik"]
+series: ["Chapters on MikroTik"]
 series_order: 1
 date: 2026-05-30T05:02:50+07:00
 draft: false

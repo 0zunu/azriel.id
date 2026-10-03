@@ -1,10 +1,10 @@
 ---
-title: "Mikrotik Fundamental"
+title: "MikroTik Fundamental"
 summary: "A router is the most important component in a computer network that aims to connect different networks."
 description: "A router is the most important component in a computer network that aims to connect different networks."
-categories: ["Mikrotik"]
+categories: ["MikroTik"]
 tags: ["Router", "Computer Network"]
-series: ["Chapters on Mikrotik"]
+series: ["Chapters on MikroTik"]
 series_order: 1
 date: 2026-05-30T05:02:50+07:00
 draft: false

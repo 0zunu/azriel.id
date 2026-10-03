@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-09-29
+lastmod: 2026-10-03
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -30,9 +30,16 @@ Menggeluti dunia teknologi dan pengembangan perangkat Lunak. Memiliki pengalaman
 
 ## Keterampilan
 
-{{< alert "code" >}}
-Microsoft Office (Word, Excel & PowerPoint), Google Workspace (Dokumen, Spreadsheet, Slides, Kalender), Aplikasi Edit (Canva, Figma, Photoshop), Analisis Data, Python, HTML, CSS, JavaScript, PHP, Node.js, MySQL, Vue.js, Jaringan.
-{{< /alert >}}
+{{< keywordList >}}
+{{< keyword icon="microsoft" >}} Microsoft Office (Word, Excel & PowerPoint) {{< /keyword >}}
+{{< keyword icon="canvas" >}} Canva {{< /keyword >}}
+{{< keyword icon="photoshop" >}} Photoshop {{< /keyword >}}
+{{< keyword icon="analysis" >}} Analisis Data {{< /keyword >}}
+{{< keyword icon="code" >}} Codeigniter {{< /keyword >}}
+{{< keyword icon="cloud-server" >}} Hosting {{< /keyword >}}
+{{< keyword icon="erp" >}} Cisco Packet Tracer {{< /keyword >}}
+{{< keyword icon="router-stroke-rounded" >}} MikroTik {{< /keyword >}}
+{{< /keywordList >}}
 
 ## Daftar Riwayat Hidup
 

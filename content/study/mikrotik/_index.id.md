@@ -1,6 +1,6 @@
 ---
-title: "Fundamental Mikrotik"
-summary: "Pelajari tentang Mikrotik, produsen router dan switch jaringan."
+title: "Fundamental MikroTik"
+summary: "Pelajari tentang MikroTik, produsen router dan switch jaringan."
 type: "Study"
 tags: ["mikrotik", "network router", "networking"]
 layoutBackgroundHeaderSpace: false

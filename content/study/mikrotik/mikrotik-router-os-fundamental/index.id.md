@@ -1,16 +1,16 @@
 ---
-title: "Mikrotik Router-OS Fundamental"
+title: "MikroTik Router-OS Fundamental"
 summary: "Mikrotik OS merupakan sistem operasi khusus yang digunakan untuk memanajemen network. Kata Mikrotik merujuk pada bahasa Latvia tempat OS ini berasal, yang berarti network kecil. Dengan visi memudahkan manajemen networking, Mikrotik Router OS menawarkan kemudahan implementasi, kemudahan konfigurasi dan kemudahan dalam integrasi dengan perangkat lain."
 description: "Mikrotik OS merupakan sistem operasi khusus yang digunakan untuk memanajemen network. Kata Mikrotik merujuk pada bahasa Latvia tempat OS ini berasal, yang berarti network kecil. Dengan visi memudahkan manajemen networking, Mikrotik Router OS menawarkan kemudahan implementasi, kemudahan konfigurasi dan kemudahan dalam integrasi dengan perangkat lain."
-categories: ["Mikrotik"]
+categories: ["MikroTik"]
 tags: ["Router OS", "Computer Network"]
-series: ["Chapters on Mikrotik"]
+series: ["Chapters on MikroTik"]
 series_order: 2
 date: 2026-05-31T05:02:50+07:00
 draft: false
 ---
 
-## Mikrotik
+## MikroTik
 
 Mikrotik OS merupakan sistem operasi khusus yang digunakan untuk memanajemen network. Kata Mikrotik merujuk pada bahasa Latvia tempat OS ini berasal, yang berarti network kecil. Dengan visi memudahkan manajemen networking, Mikrotik Router OS menawarkan kemudahan implementasi, kemudahan konfigurasi dan kemudahan dalam integrasi dengan perangkat lain.
 
@@ -239,7 +239,7 @@ Seperti contoh di atas, sebelum di limit client mendapatkan bandwidth rata – r
 
 ![queuetesting](queuetesting.png "Gambar 39 Queue testing")
 
-## Monitoring Tools Mikrotik
+## Monitoring Tools MikroTik
 
 1. Buka winbox.exe. Pada Side Bar di sebelah kiri terdapat pilihan Tools. Di dalam Tools terdapat pilihan Graphing. Klik Graphing untuk melakukan Monitoring terhadap interface network yang telah ditentukan.
 

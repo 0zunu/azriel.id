@@ -1,6 +1,6 @@
 ---
-title: "Mikrotik Fundamental"
-summary: "Learn about Mikrotik, a network router and switch manufacturer."
+title: "MikroTik Fundamental"
+summary: "Learn about MikroTik, a network router and switch manufacturer."
 type: "Study"
 tags: ["mikrotik", "network router", "networking"]
 layoutBackgroundHeaderSpace: false

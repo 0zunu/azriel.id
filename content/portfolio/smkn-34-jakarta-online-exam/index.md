@@ -30,7 +30,7 @@ We started this project very enthusiastically because, besides being a graduatio
 
 We were given only 3 months to create a ready-to-use application that the school could immediately utilize. Therefore, we decided to use CodeIgniter 4 (CI4). In our opinion, CI4 is the right choice for the school scale and greatly simplifies the code development process. As a result, the web-based SMKN 34 Jakarta Online Examination application was successfully completed on time.
 
-![Implementation of SMKN 34 Jakarta Online Examination System](featured.png "Initial Display")
+![Implementation of SMKN 34 Jakarta Online Examination System](homepage.png "Initial Display")
 
 ![manageexam](kelolaujian.png "Admin Manage Exam Display")
 

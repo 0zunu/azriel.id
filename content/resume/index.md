@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-09-29
+lastmod: 2026-10-03
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -30,9 +30,16 @@ Passionate about the world of technology and software development. Experienced i
 
 ## Skills
 
-{{< alert "code" >}}
-Microsoft Office (word, excel & point), Google Workspace (document, spreadsheet, slides, calendar), Editing Apps (Canva, Figma, Photoshop), Data Analysis, Python, HTML, CSS, JavaScript, PHP, Node.js, MySQL, Vue.js, Networking.
-{{< /alert >}}
+{{< keywordList >}}
+{{< keyword icon="microsoft" >}} Microsoft Office (Word, Excel & PowerPoint) {{< /keyword >}}
+{{< keyword icon="canvas" >}} Canva {{< /keyword >}}
+{{< keyword icon="photoshop" >}} Photoshop {{< /keyword >}}
+{{< keyword icon="analysis" >}} Data Analysis {{< /keyword >}}
+{{< keyword icon="code" >}} Codeigniter {{< /keyword >}}
+{{< keyword icon="cloud-server" >}} Hosting {{< /keyword >}}
+{{< keyword icon="erp" >}} Cisco Packet Tracer {{< /keyword >}}
+{{< keyword icon="router-stroke-rounded" >}} MikroTik {{< /keyword >}}
+{{< /keywordList >}}
 
 ## Curriculum Vitae
 

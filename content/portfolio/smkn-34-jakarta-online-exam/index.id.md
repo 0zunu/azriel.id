@@ -30,7 +30,7 @@ Kami memulai proyek ini dengan sangat antusias karena selain sebagai syarat kelu
 
 Kami hanya diberikan waktu selama 3 bulan untuk membuat aplikasi yang siap pakai dan dapat langsung digunakan oleh pihak sekolah. Oleh karena itu, kami memutuskan untuk menggunakan CodeIgniter 4 (CI4). Menurut kami, CI4 adalah pilihan yang tepat untuk skala sekolah dan sangat memudahkan proses pengembangan kode. Alhasil, aplikasi Ujian Online SMKN 34 Jakarta berbasis web berhasil dirampungkan tepat waktu.
 
-![Implementasi Sistem Ujian Online SMKN 34 Jakarta](featured.png "Tampilan Awal")
+![Implementasi Sistem Ujian Online SMKN 34 Jakarta](homepage.png "Tampilan Awal")
 
 ![kelolaujian](kelolaujian.png "tampilan Kelola Ujian Admin")
 

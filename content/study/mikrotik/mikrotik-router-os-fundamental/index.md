@@ -1,16 +1,16 @@
 ---
-title: "Mikrotik Router-OS Fundamental"
+title: "MikroTik Router-OS Fundamental"
 summary: "Mikrotik OS is a specialized operating system used for network management. The word Mikrotik refers to the Latvian language where this OS originated, meaning small network. With the vision of facilitating networking management, Mikrotik Router OS offers ease of implementation, ease of configuration, and ease of integration with other devices."
 description: "Mikrotik OS is a specialized operating system used for network management. The word Mikrotik refers to the Latvian language where this OS originated, meaning small network. With the vision of facilitating networking management, Mikrotik Router OS offers ease of implementation, ease of configuration, and ease of integration with other devices."
-categories: ["Mikrotik"]
+categories: ["MikroTik"]
 tags: ["Router OS", "Computer Network"]
-series: ["Chapters on Mikrotik"]
+series: ["Chapters on MikroTik"]
 series_order: 2
 date: 2026-05-31T05:02:50+07:00
 draft: false
 ---
 
-## Mikrotik
+## MikroTik
 
 Mikrotik OS is a specialized operating system used for network management. The word Mikrotik refers to the Latvian language where this OS originated, meaning small network. With the vision of facilitating networking management, Mikrotik Router OS offers ease of implementation, ease of configuration, and ease of integration with other devices.
 
