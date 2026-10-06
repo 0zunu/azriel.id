@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Menerima Diri"
+title: "Character Building #02: Menerima Diri"
 summary: "Menerima Diri adalah dimana kita menerima segala kelemahan dan kelebihan kita atau menerima segala sesuatu yang ada didalam diri kita, menerima segala hal yang telah terjadi dalam kehidupan dan diri kita."
 description: "Menerima Diri adalah dimana kita menerima segala kelemahan dan kelebihan kita atau menerima segala sesuatu yang ada didalam diri kita, menerima segala hal yang telah terjadi dalam kehidupan dan diri kita."
 categories: ["Character Building"]

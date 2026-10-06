@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Mengembangkan Diri"
+title: "Character Building #03: Mengembangkan Diri"
 summary: "Suatu usaha sengaja dan terus menerus, tanpa henti, yang dilakukan dengan berbagai cara dan bentuk, untuk membuat daya-potensi diri (jasmani rohani) dapat terwujud secara baik dan optimal, yang menghantar seseorang pada taraf kedewasaan sesungguhnya."
 description: "Suatu usaha sengaja dan terus menerus, tanpa henti, yang dilakukan dengan berbagai cara dan bentuk, untuk membuat daya-potensi diri (jasmani rohani) dapat terwujud secara baik dan optimal, yang menghantar seseorang pada taraf kedewasaan sesungguhnya."
 categories: ["Character Building"]

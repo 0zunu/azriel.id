@@ -1,5 +1,5 @@
 ---
-title: "Recursive Structures"
+title: "Algorithm and Logic #06: Recursive Structures"
 summary: "A recursive structure is a concept where a function calls itself to solve a problem."
 description: "A recursive structure is a concept where a function calls itself to solve a problem."
 categories: ["Algorithm Logic"]

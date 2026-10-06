@@ -1,5 +1,5 @@
 ---
-title: "Pengertian Dasar"
+title: "Logika dan Algoritma #01: Pengertian Dasar"
 summary: "Tutorial lengkap tentang logika dan algoritma untuk pemula yang akan membantu Anda memahami dasar-dasar logika dan algoritma serta cara membuat solusi masalah."
 description: "Tutorial lengkap tentang logika dan algoritma untuk pemula yang akan membantu Anda memahami dasar-dasar logika dan algoritma serta cara membuat solusi masalah."
 categories: ["Algorithm Logic"]

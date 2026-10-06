@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Motivasi, Sikap, dan Prilaku Sosial"
+title: "Character Building #04: Motivasi, Sikap, dan Prilaku Sosial"
 summary: "Kekuatan atau daya dorong yang menggerakkan sekaligus mengarahkan kehendak dan perilaku seseorang dan segala kekuatannya untuk mencapai tujuan yang diinginkannya, yang muncul dari keinginan memenuhi kebutuhannya."
 description: "Kekuatan atau daya dorong yang menggerakkan sekaligus mengarahkan kehendak dan perilaku seseorang dan segala kekuatannya untuk mencapai tujuan yang diinginkannya, yang muncul dari keinginan memenuhi kebutuhannya."
 categories: ["Character Building"]

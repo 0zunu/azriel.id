@@ -1,5 +1,5 @@
 ---
-title: "Problems and Graph Models in Greedy Method"
+title: "Algorithm and Logic #12: Problems and Graph Models in Greedy Method"
 summary: "Graph is a branch of mathematics that can be applied in everyday life, graph theory can solve many existing problems (Ramadhan et al., 2018)."
 description: "Graph is a branch of mathematics that can be applied in everyday life, graph theory can solve many existing problems (Ramadhan et al., 2018)."
 categories: ["Algorithm Logic"]

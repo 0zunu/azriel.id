@@ -1,5 +1,5 @@
 ---
-title: "Flowchart"
+title: "Logika dan Algoritma #03: Flowchart"
 summary: "Flowchart adalah representasi grafis dari algoritma yang menggunakan simbol-simbol untuk menunjukkan langkah-langkah dalam pemecahan masalah."
 description: "Flowchart adalah representasi grafis dari algoritma yang menggunakan simbol-simbol untuk menunjukkan langkah-langkah dalam pemecahan masalah."
 categories: ["Algorithm Logic"]

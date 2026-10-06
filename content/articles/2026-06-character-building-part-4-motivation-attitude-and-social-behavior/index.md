@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Motivation, Attitude, and Social Behavior"
+title: "Character Building #04: Motivation, Attitude, and Social Behavior"
 summary: "The strength or driving force that moves and directs a person's will and behavior, along with all their power, to achieve their desired goals, which arises from the desire to fulfill their needs."
 description: "The strength or driving force that moves and directs a person's will and behavior, along with all their power, to achieve their desired goals, which arises from the desire to fulfill their needs."
 categories: ["Character Building"]

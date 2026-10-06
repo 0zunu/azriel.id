@@ -1,5 +1,5 @@
 ---
-title: "Branching"
+title: "Logika dan Algoritma #04: Branching"
 summary: "Branching adalah struktur kontrol yang memungkinkan program untuk membuat keputusan berdasarkan kondisi tertentu."
 description: "Branching adalah struktur kontrol yang memungkinkan program untuk membuat keputusan berdasarkan kondisi tertentu."
 categories: ["Algorithm Logic"]

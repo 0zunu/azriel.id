@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Mengenal Diri Sendiri"
+title: "Character Building #01: Mengenal Diri Sendiri"
 summary: "Mengenal diri sendiri adalah awal mengenal kebenaran. Socrates mengistilahkannya dengan GNOOTI SEAUTON, (know yourself)."
 description: "Mengenal diri sendiri adalah awal mengenal kebenaran. Socrates mengistilahkannya dengan GNOOTI SEAUTON, (know yourself)."
 categories: ["Character Building"]

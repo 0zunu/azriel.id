@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Pendidikan Anti Korupsi"
+title: "Character Building #06: Pendidikan Anti Korupsi"
 summary: "kebusukan, keburukan, kebejatan, ketidakjujuran, dapat disuap, tidak bermoral, penyimpangan dari kesucian"
 description: "kebusukan, keburukan, kebejatan, ketidakjujuran, dapat disuap, tidak bermoral, penyimpangan dari kesucian"
 categories: ["Character Building"]

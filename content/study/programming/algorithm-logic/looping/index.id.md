@@ -1,5 +1,5 @@
 ---
-title: "Looping"
+title: "Logika dan Algoritma #05: Looping"
 summary: "Looping adalah struktur kontrol yang memungkinkan program untuk mengulangi eksekusi sebuah blok kode selama kondisi tertentu terpenuhi."
 description: "Looping adalah struktur kontrol yang memungkinkan program untuk mengulangi eksekusi sebuah blok kode selama kondisi tertentu terpenuhi."
 categories: ["Algorithm Logic"]

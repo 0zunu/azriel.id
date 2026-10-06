@@ -1,5 +1,5 @@
 ---
-title: "Array"
+title: "Algorithm and Logic #07: Array"
 summary: "An array is a data structure used to store multiple values in a single variable."
 description: "An array is a data structure used to store multiple values in a single variable."
 categories: ["Algorithm Logic"]

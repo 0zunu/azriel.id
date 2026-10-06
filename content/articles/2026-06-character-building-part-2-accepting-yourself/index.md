@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Accepting Yourself"
+title: "Character Building #02: Accepting Yourself"
 summary: "Accepting Yourself is where we accept all our weaknesses and strengths or accept everything that is within us, accepting everything that has happened in our lives and to ourselves."
 description: "Accepting Yourself is where we accept all our weaknesses and strengths or accept everything that is within us, accepting everything that has happened in our lives and to ourselves."
 categories: ["Character Building"]

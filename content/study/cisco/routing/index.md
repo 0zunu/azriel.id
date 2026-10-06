@@ -1,5 +1,5 @@
 ---
-title: "Routing"
+title: "Cisco Packet Tracer #03: Routing"
 summary: "Routing is sending packet data from one network to another network. The device used in routing is a router. A router is used for best path selection and packets forwarding."
 description: "Routing is sending packet data from one network to another network. The device used in routing is a router. A router is used for best path selection and packets forwarding."
 categories: ["Cisco Packet Tracer"]

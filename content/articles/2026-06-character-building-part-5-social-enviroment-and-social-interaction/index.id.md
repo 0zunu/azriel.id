@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Lingkungan Sosial & Interaksi Sosial"
+title: "Character Building #05: Lingkungan Sosial & Interaksi Sosial"
 summary: "Peran lingkungan sosial dan interaksi sosial dalam pembentukan karakter, mencakup konsep keluarga, nilai dan norma, gaya manajemen konflik, serta cara membangun habitus nilai positif."
 description: "Peran lingkungan sosial dan interaksi sosial dalam pembentukan karakter, mencakup konsep keluarga, nilai dan norma, gaya manajemen konflik, serta cara membangun habitus nilai positif."
 categories: ["Character Building"]

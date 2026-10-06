@@ -1,5 +1,5 @@
 ---
-title: "Searching Techniques and Introduction to Algorithm Analysis"
+title: "Algorithm and Logic #10: Searching Techniques and Introduction to Algorithm Analysis"
 summary: "Techniques for picking and selecting an element from several existing elements."
 description: "Techniques for picking and selecting an element from several existing elements."
 categories: ["Algorithm Logic"]

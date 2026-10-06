@@ -1,5 +1,5 @@
 ---
-title: "Array"
+title: "Logika dan Algoritma #07: Array"
 summary: "Array adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel."
 description: "Array adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel."
 categories: ["Algorithm Logic"]

@@ -1,5 +1,5 @@
 ---
-title: "Database System"
+title: "Database Systems"
 summary: "Database systems play a crucial role in the field of software engineering; databases serve as the underlying framework for information systems and have fundamentally transformed the way many organizations operate."
 type: "programming"
 tags: ["Database Systems", "Database", "SQL"]

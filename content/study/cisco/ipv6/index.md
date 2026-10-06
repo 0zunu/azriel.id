@@ -1,5 +1,5 @@
 ---
-title: "IPv6"
+title: "Cisco Packet Tracer #04: IPv6"
 summary: "Internet users are growing very rapidly so the available IPv4 space is also getting smaller. Moreover, with the number of devices such as phones and tablets that need internet connection also reduce IPv4 space. The solution is with IPv6 which has much more ip space."
 description: "Internet users are growing very rapidly so the available IPv4 space is also getting smaller. Moreover, with the number of devices such as phones and tablets that need internet connection also reduce IPv4 space. The solution is with IPv6 which has much more ip space."
 categories: ["Cisco Packet Tracer"]

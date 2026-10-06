@@ -1,5 +1,5 @@
 ---
-title: "Konsep Algoritma dan Konsep Data"
+title: "Logika dan Algoritma #02: Konsep Algoritma dan Konsep Data"
 summary: "Konsep Algoritma adalah upaya dengan urutan operasi yang disusun secara logis dan sistematis untuk menyelesaikan suatu masalah untuk menghasilkan suatu output tertentu, sementara Tipe Data adalah atribut yang berkaitan dengan data yang akan memberi tahu sistem komputer."
 description: "Konsep Algoritma adalah upaya dengan urutan operasi yang disusun secara logis dan sistematis untuk menyelesaikan suatu masalah untuk menghasilkan suatu output tertentu, sementara Tipe Data adalah atribut yang berkaitan dengan data yang akan memberi tahu sistem komputer."
 categories: ["Algorithm Logic"]

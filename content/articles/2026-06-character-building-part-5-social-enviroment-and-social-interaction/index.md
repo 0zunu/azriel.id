@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Social Environment & Social Interaction"
+title: "Character Building #05: Social Environment & Social Interaction"
 summary: "The role of the social environment and social interaction in character building, covering the concept of family, values and norms, conflict management styles, and how to build a habitus of positive values."
 description: "The role of the social environment and social interaction in character building, covering the concept of family, values and norms, conflict management styles, and how to build a habitus of positive values."
 categories: ["Character Building"]

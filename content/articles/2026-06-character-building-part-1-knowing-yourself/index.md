@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Knowing Yourself"
+title: "Character Building #01: Knowing Yourself"
 summary: "Knowing yourself is the beginning of knowing the truth. Socrates called it GNOTHI SEAUTON, (know yourself)."
 description: "Knowing yourself is the beginning of knowing the truth. Socrates called it GNOTHI SEAUTON, (know yourself)."
 categories: ["Character Building"]

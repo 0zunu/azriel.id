@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Anti-Corruption Education"
+title: "Character Building #06: Anti-Corruption Education"
 summary: "rottenness, badness, depravity, dishonesty, bribability, immorality, deviation from purity"
 description: "rottenness, badness, depravity, dishonesty, bribability, immorality, deviation from purity"
 categories: ["Character Building"]

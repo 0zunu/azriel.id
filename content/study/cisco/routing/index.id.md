@@ -1,5 +1,5 @@
 ---
-title: "Routing"
+title: "Cisco Packet Tracer #03: Routing"
 summary: "Routing adalah mengirimkan packet data dari satu network ke network lain. Perangkat yang digunakan dalam routing adalah router. Router digunakan untuk best path selection dan packets forwarding."
 description: "Routing adalah mengirimkan packet data dari satu network ke network lain. Perangkat yang digunakan dalam routing adalah router. Router digunakan untuk best path selection dan packets forwarding."
 categories: ["Cisco Packet Tracer"]

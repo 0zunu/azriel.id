@@ -1,5 +1,5 @@
 ---
-title: "Character Building: Self Development"
+title: "Character Building #03: Self Development"
 summary: "A deliberate, continuous, and unceasing effort, carried out in various ways and forms, to enable the realization of one's physical and spiritual potential in a good and optimal way, leading a person to true maturity."
 description: "A deliberate, continuous, and unceasing effort, carried out in various ways and forms, to enable the realization of one's physical and spiritual potential in a good and optimal way, leading a person to true maturity."
 categories: ["Character Building"]

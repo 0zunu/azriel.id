@@ -1,5 +1,5 @@
 ---
-title: "Divide and Conquer Method"
+title: "Algorithm and Logic #08: Divide and Conquer Method"
 summary: "The Divide and Conquer method is a problem-solving approach that divides a problem into smaller parts, solves each part, and then combines the results."
 description: "The Divide and Conquer method is a problem-solving approach that divides a problem into smaller parts, solves each part, and then combines the results."
 categories: ["Algorithm Logic"]

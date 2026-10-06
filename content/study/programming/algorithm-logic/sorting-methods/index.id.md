@@ -1,5 +1,5 @@
 ---
-title: "Metode Sorting"
+title: "Logika dan Algoritma #09: Metode Sorting"
 summary: "Proses pengaturan sederetan data ke dalam suatu urutan atau susunan urutan tertentu. Data yang diurutkan dapat berupa data bilangan, data karakter maupun data string (Sitorus, 2015)."
 description: "Proses pengaturan sederetan data ke dalam suatu urutan atau susunan urutan tertentu. Data yang diurutkan dapat berupa data bilangan, data karakter maupun data string (Sitorus, 2015)."
 categories: ["Algorithm Logic"]
