@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-03
+lastmod: 2026-10-09
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -133,7 +133,7 @@ Relevant courses in Project Management and Web Programming.
 
 {{< timelineItem icon="graduation-cap" header="Computer Network Engineering" badge="May 2017 - July 2020" subheader="SMKN Harapan Bangsa - Depok West Java" >}}
 
-Mastering Cisco Packet Tracer and Mikrotik.
+Mastering Cisco Packet Tracer and MikroTik.
 
 <p><b>{{< icon "award" >}} Internship Certificate (Field Work Practice as Administration Staff at Korps Brimob Regiment III).</b></p>
 

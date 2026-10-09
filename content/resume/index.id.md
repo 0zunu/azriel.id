@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-03
+lastmod: 2026-10-09
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -133,7 +133,7 @@ Mata kuliah terkait di bidang Manajemen Proyek dan Pemrograman Web.
 
 {{< timelineItem icon="graduation-cap" header="Teknik Komputer Jaringan" badge="Mei 2017 - Juli 2020" subheader="SMK Harapan Bangsa - Depok Jawa Barat" >}}
 
-Menguasai Cisco Packet Tracer dan Mikrotik.
+Menguasai Cisco Packet Tracer dan MikroTik.
 
 <p><b>{{< icon "award" >}} Sertifikat PKL (Praktek Kerja Lapangan sebagai Staff Administrasi di Korps Brimob Resimen III).</b></p>
 
