@@ -1,5 +1,5 @@
 ---
-title: "Kontak"
+title: "Hubungi Saya"
 draft: false
 description: "Silakan gunakan formulir di bawah ini jika Anda ingin menghubungi saya terkait pekerjaan saya."
 type: "page"

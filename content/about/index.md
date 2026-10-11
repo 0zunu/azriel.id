@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 draft: false
 description: "This personal blog is created to share knowledge, experiences, and information about technology, programming, and other interesting topics. The goal is to provide useful insights for readers interested in the world of technology and software development."
 type: "page"

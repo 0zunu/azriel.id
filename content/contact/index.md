@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact Me"
 draft: false
 description: "Please use the form below if you would like to contact me about my work."
 type: "page"

@@ -1,5 +1,5 @@
 ---
-title: "Tentang"
+title: "Tentang Saya"
 draft: false
 description: "Blog pribadi ini dibuat untuk berbagi pengetahuan, pengalaman, dan informasi seputar teknologi, pemrograman, dan topik menarik lainnya. Tujuannya adalah untuk memberikan wawasan yang berguna bagi pembaca yang tertarik dengan dunia teknologi dan pengembangan perangkat lunak."
 type: "page"
