@@ -1,4 +1,4 @@
-# [www.azriel.id](https://www.azriel.id) [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1222741498/small/year.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1222741498/year.md)
+# [www.azriel.id](https://www.azriel.id) [<img alt="Image of github-profile-views-counter" src="https://github.com/0zunu/github-profile-views-counter/blob/master/graph/1289184073/small/year.png" height="20">](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/year.md)
 
 <a href="https://buymeacoffee.com/fidzlieazrz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <a href="https://saweria.co/Ulee"><img title="Saweria" src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Amelia" height="60" width="217" target="_blank" /></a>
@@ -7,7 +7,7 @@
 [![Blowfish](https://img.shields.io/badge/Hugo--Themes-@Blowfish-blue)](https://themes.gohugo.io/themes/blowfish/)
 [![GitHub](https://img.shields.io/github/license/0zunu/azriel.id)](https://github.com/0zunu/azriel.id/blob/master/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/0zunu/azriel.id)
-[![Image of github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter/blob/master/svg/1222741498/badge.svg)](https://github.com/King-Ulee/github-profile-views-counter/blob/master/readme/1222741498/week.md)
+[![Image of github-profile-views-counter](https://github.com/0zunu/github-profile-views-counter/blob/master/svg/1289184073/badge.svg)](https://github.com/0zunu/github-profile-views-counter/blob/master/readme/1289184073/week.md)
 
 Repo for my personal homepage with everything I've been up to, and where I write about stuff I am interested in. Decided to make this repo public so that people can suggest edits to articles using github.
 
