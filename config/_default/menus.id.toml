@@ -120,17 +120,17 @@
 
 
 [[footer]]
-  name = "Tags"
+  name = "Tag"
   pageRef = "tags"
   weight = 10
 
 [[footer]]
-  name = "Categories"
+  name = "Kategori"
   pageRef = "categories"
   weight = 20
 
 [[footer]]
-  name = "Authors"
+  name = "Penulis"
   pageRef = "authors"
   weight = 30
 
