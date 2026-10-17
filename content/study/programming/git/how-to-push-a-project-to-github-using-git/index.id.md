@@ -6,7 +6,7 @@ categories: ["Git"]
 tags: ["Github", "Git", "Push Project ke Github"]
 series: ["Git Chapters"]
 series_order: 2
-date: 2026-10-15T05:02:50+07:00
+date: 2026-10-18T05:02:50+07:00
 draft: false
 ---
 

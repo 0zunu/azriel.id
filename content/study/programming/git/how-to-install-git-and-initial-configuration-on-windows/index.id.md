@@ -6,7 +6,7 @@ categories: ["Git"]
 tags: ["Installation", "Configuration", "Git", "Windows"]
 series: ["Git Chapters"]
 series_order: 1
-date: 2026-10-14T02:02:50+07:00
+date: 2026-10-17T02:02:50+07:00
 draft: false
 ---
 
