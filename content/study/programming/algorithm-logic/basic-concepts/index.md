@@ -2,7 +2,7 @@
 title: "Algorithm and Logic #01: Basic Concepts"
 summary: "A complete tutorial on logic and algorithms for beginners that will help you understand the basics of logic and algorithms as well as how to create problem solutions."
 description: "A complete tutorial on logic and algorithms for beginners that will help you understand the basics of logic and algorithms as well as how to create problem solutions."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags: ["algorithm concept", "data concept", "programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 1

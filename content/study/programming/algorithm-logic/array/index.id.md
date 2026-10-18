@@ -2,7 +2,7 @@
 title: "Logika dan Algoritma #07: Array"
 summary: "Array adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel."
 description: "Array adalah struktur data yang digunakan untuk menyimpan beberapa nilai dalam satu variabel."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags: ["array", "data structure", "programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 7

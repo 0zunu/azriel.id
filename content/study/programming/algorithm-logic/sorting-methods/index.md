@@ -2,7 +2,7 @@
 title: "Algorithm and Logic #09: Sorting Methods"
 summary: "The process of arranging a series of data into a certain order or arrangement. The sorted data can be numeric data, character data, or string data (Sitorus, 2015)."
 description: "The process of arranging a series of data into a certain order or arrangement. The sorted data can be numeric data, character data, or string data (Sitorus, 2015)."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags:
   [
     "Sorting Methods",

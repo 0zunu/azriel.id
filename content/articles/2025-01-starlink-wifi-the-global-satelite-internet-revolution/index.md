@@ -2,6 +2,7 @@
 title: "Starlink WiFi: The Global Satellite Internet Revolution"
 summary: "Starlink is a satellite-based internet service developed by SpaceX, Elon Musk's space technology company. This project aims to provide high-speed, low-latency internet access worldwide, including remote areas that are difficult to reach by traditional internet infrastructure."
 description: "Starlink is a satellite-based internet service developed by SpaceX, Elon Musk's space technology company. This project aims to provide high-speed, low-latency internet access worldwide, including remote areas that are difficult to reach by traditional internet infrastructure."
+categories: ["Networking"]
 tags: ["starlink", "internet", "satellite", "tech"]
 date: 2025-01-25T05:02:50+07:00
 draft: false

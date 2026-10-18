@@ -2,7 +2,7 @@
 title: "Algorithm and Logic #05: Looping"
 summary: "Looping is a control structure that allows a program to repeat the execution of a block of code as long as a certain condition is met."
 description: "Looping is a control structure that allows a program to repeat the execution of a block of code as long as a certain condition is met."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags: ["Looping", "For Loop", "While Loop", "Nested Loop", "Programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 5

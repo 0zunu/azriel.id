@@ -2,7 +2,7 @@
 title: "Logika dan Algoritma #11: Metode Greedy"
 summary: "Greedy diambil dari bahasa inggris berarti rakus, tamak, loba, serakah."
 description: "Greedy diambil dari bahasa inggris berarti rakus, tamak, loba, serakah."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags:
   [
     "Greedy Method",

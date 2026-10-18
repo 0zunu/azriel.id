@@ -2,7 +2,7 @@
 title: "Logika dan Algoritma #12: Problema Dan Model Graph Dalam Metode Greedy"
 summary: "Graph merupakan cabang matematika yang dapat diterapkan dalam kehidupan sehari-hari, teori graph dapat memecahkan banyak masalah yang ada (Ramadhan et al., 2018)."
 description: "Graph merupakan cabang matematika yang dapat diterapkan dalam kehidupan sehari-hari, teori graph dapat memecahkan banyak masalah yang ada (Ramadhan et al., 2018)."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags: ["Greedy Method", "Graph Model", "Programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 12

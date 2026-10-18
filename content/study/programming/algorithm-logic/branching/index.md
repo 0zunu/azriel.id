@@ -2,7 +2,7 @@
 title: "Algorithm and Logic #04: Branching"
 summary: "Branching is a control structure that allows a program to make decisions based on certain conditions."
 description: "Branching is a control structure that allows a program to make decisions based on certain conditions."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags: ["branching", "control structure", "programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 4

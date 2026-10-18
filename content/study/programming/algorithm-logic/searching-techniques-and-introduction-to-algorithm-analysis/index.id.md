@@ -2,7 +2,7 @@
 title: "Logika dan Algoritma #10: Teknik Searching dan Pengantar Analisis Algoritma"
 summary: "Teknik dalam memilih dan menyeleksi sebuah elemen dari beberapa elemen yang ada."
 description: "Teknik dalam memilih dan menyeleksi sebuah elemen dari beberapa elemen yang ada."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags: ["Searching Techniques", "Algorithm Analysis", "Programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 10

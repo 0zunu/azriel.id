@@ -2,7 +2,7 @@
 title: "Algorithm and Logic #03: Flowchart"
 summary: "A flowchart is a graphical representation of an algorithm that uses symbols to show the steps in problem-solving."
 description: "A flowchart is a graphical representation of an algorithm that uses symbols to show the steps in problem-solving."
-categories: ["Algorithm Logic"]
+categories: ["Algorithm and Logic"]
 tags: ["Flowchart", "Programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 3
