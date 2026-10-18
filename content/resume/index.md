@@ -107,7 +107,7 @@ Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="web-design" header="SMKN 34 Jakarta Online Exam" badge="25 December 2025" >}}
+{{< timelineItem icon="web-design" header="SMKN 34 Jakarta E-Learning" badge="25 December 2025" >}}
 
 Developing a web-based online exam application (Computer-Based Test) for SMK Negeri 34 Jakarta to replace the conventional platform with a more secure, integrated, and cheat-free evaluation system.
 
@@ -116,7 +116,7 @@ Developing a web-based online exam application (Computer-Based Test) for SMK Neg
 {{< /gallery >}}
 
 <p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Visit E-Learning" >}}
-{{< cta url="/portfolio/smkn-34-jakarta-online-exam" label="Documentation" style="outline" >}}</p>
+{{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
 

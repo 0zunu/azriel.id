@@ -107,7 +107,7 @@ Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIA
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="web-design" header="Ujian Online SMKN 34 Jakarta" badge="25 Desember 2025" >}}
+{{< timelineItem icon="web-design" header="SMKN 34 Jakarta E-Learning" badge="25 Desember 2025" >}}
 
 Mengembangkan aplikasi ujian daring berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta guna menggantikan platform konvensional dengan sistem evaluasi yang lebih aman, terintegrasi, dan bebas kecurangan.
 
@@ -116,7 +116,7 @@ Mengembangkan aplikasi ujian daring berbasis web (Computer-Based Test) untuk SMK
 {{< /gallery >}}
 
 <p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi E-Learning" >}}
-{{< cta url="/portfolio/smkn-34-jakarta-online-exam" label="Dokumentasi" style="outline" >}}</p>
+{{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
 
