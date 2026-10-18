@@ -146,7 +146,7 @@ Graduated with a Bachelor of Computer Science (S.Kom) degree with a GPA of 3.82.
 
 {{< timelineItem icon="graduation-cap" header="Computer Network Engineering" badge="May 2017 - July 2020" subheader="SMKN Harapan Bangsa - Depok West Java" >}}
 
-Mastering Cisco Packet Tracer and MikroTik.
+Graduated with skills in Cisco Packet Tracer and MikroTik.
 
 <p><b>{{< icon "award" >}} Internship Certificate (Field Work Practice as Administration Staff at Korps Brimob Regiment III).</b></p>
 

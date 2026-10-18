@@ -146,7 +146,7 @@ Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
 
 {{< timelineItem icon="graduation-cap" header="Teknik Komputer Jaringan" badge="Mei 2017 - Juli 2020" subheader="SMK Harapan Bangsa - Depok Jawa Barat" >}}
 
-Menguasai Cisco Packet Tracer dan MikroTik.
+Lulus dengan keahlian Cisco Packet Tracer dan MikroTik.
 
 <p><b>{{< icon "award" >}} Sertifikat PKL (Praktek Kerja Lapangan sebagai Staff Administrasi di Korps Brimob Resimen III).</b></p>
 
