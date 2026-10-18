@@ -24,7 +24,7 @@ It is a diagram that describes the logical arrangement of a program. The symbols
 | ![image](off-page.png)     |   Off page Connector    |    Connects a connection from a disconnected flowchart part where the connection is on another page.    |
 | ![image](preparation.png)  |       Preparation       |                                   Used for initial value assignment.                                    |
 
-# Computer Program Flowchart
+## Computer Program Flowchart
 
 Basically a computer program generally consists of:
 
@@ -32,17 +32,17 @@ Basically a computer program generally consists of:
 2. Performing computation/calculation on the data
 3. Outputting / printing/ displaying the results.
 
-## Flowchart consists of three structures
+### Flowchart consists of three structures
 
 1. Sequence Structure / Simple Structure Used for programs whose instructions are sequential
 
 ![image](sequence.png)
 
-## Example of Sequence Structure Flowchart Calculating Triangle Area
+### Example of Sequence Structure Flowchart Calculating Triangle Area
 
 ![image](luas-segitiga.png)
 
-### Using Storage Tables
+#### Using Storage Tables
 
 Table 1. Sequence Storage Media 1
 
@@ -63,7 +63,7 @@ Table 2. Sequence Storage Media 2
 | X <- X/(Z+5) |  5  |     |     |        |
 | Write(X,Y,Z) |     |     |     |        |
 
-# Summing Two Positive Numbers
+## Summing Two Positive Numbers
 
 Create a flowchart to sum two positive integers and print the result. The algorithm:
 
@@ -74,7 +74,7 @@ Create a flowchart to sum two positive integers and print the result. The algori
 
 ![image](dua-bilangan.png)
 
-# Determining Even/Odd Numbers
+## Determining Even/Odd Numbers
 
 Branching Structure Used for programs that use condition selection. (example determining even/odd numbers)
 
@@ -99,7 +99,7 @@ Else
 
 ![image](hasil-genap-ganjil.png)
 
-# Looping Flowchart
+## Looping Flowchart
 
 Looping Structure Used for programs whose instructions will be executed repeatedly.
 

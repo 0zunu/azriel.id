@@ -10,22 +10,22 @@ date: 2026-04-17T05:02:50+07:00
 draft: false
 ---
 
-# Pengertian Dasar Logika dan Algoritma
+## Pengertian Dasar Logika dan Algoritma
 
 **Logika** Diperkenalkan pertama kali oleh Aristoteles(384-322 SM).
 
 **Algoritma** diperkenalkan Oleh Ahli Matematika : Abu Ja’far Muhammad Ibnu Musa Al Khawarizmi. Seorang ilmuwan Persia yang menulis kitab al jabr w’al muqabala (rules of restoration and reduction) sekitar tahun 825 M
 
-# Definisi Logika dan Algoritma
+## Definisi Logika dan Algoritma
 
-## Definisi Logika
+### Definisi Logika
 
 1. Ilmu dalam lingkungan fllsafat yang membahas prinsipprinsip dan hukum penalaran dengan tepat (Rakmat, 2013).
 2. ilmu yang memberikan prinsip-prinsip yang harus diikuti
    agar dapat berfikir valid menurut aturan yang berlaku
    (Mustofa, 2016).
 
-## Definisi Algoritma
+### Definisi Algoritma
 
 1. Urutan langkah untuk menyelesaikan masalah matematika
    dan logika (Zarman & Wicaksono, 2020).
@@ -35,11 +35,11 @@ draft: false
    apabila dilaksanakan akan menyelesaikan suatu tugas
    tertentu (Sjukani, 2013).
 
-# Tahap Penyelesaian Masalah
+## Tahap Penyelesaian Masalah
 
 ![img](tahap-penyelesaian-masalah.png)
 
-# Contoh Algoritma
+## Contoh Algoritma
 
 Bagaimana cara untuk membuat Mie Instan?
 
@@ -75,7 +75,7 @@ masalah dapat diselesaikan dengan beragam langkah dan
 urutan.
 {{< /alert >}}
 
-# Karakteristik Algoritma
+## Karakteristik Algoritma
 
 1. Algoritma harus berhenti setelah mengerjakan
    sejumlah langkah terbatas.
@@ -88,7 +88,7 @@ urutan.
    harus sederhana sehingga dapat dikerjakan dalam
    sejumlah waktu yang masuk akal.
 
-# Algoritma
+## Algoritma
 
 Bagaimana cara menuliskan Algoritma? Tidak ada
 standar yang jelas untuk menuliskan algoritma,
@@ -111,11 +111,11 @@ Mulai
 
 Selesai
 
-## Penulisan Algoritma dalam Pseuducode
+### Penulisan Algoritma dalam Pseuducode
 
 ![img](penulisan-algoritma.png)
 
-# Bahasa Pemograman
+## Bahasa Pemograman
 
 **Program** adalah kumpulan intruksi-instruksi yang diberikan kepada komputer untuk melaksanakan suatu tugas atau pekerjaan. Dalam membuat program dibutuhkan bahasa pemrograman.
 
@@ -133,7 +133,7 @@ Berdasarkan kedekatan bahasa pemrograman dikelompokkan menjadi 2 macam yaitu:
 
 Contoh: Pascal, Cobol, Fortran, Basic, Prolog, C, C++, PHP, Java, Python
 
-# Bahasa Pemograman Python
+## Bahasa Pemograman Python
 
 Python adalah bahasa pemrograman tingkat tinggi Dirancang oleh Guido Van Rossum Python merupakan bahasa pemrograman yang mudah dipahami karena struktur sintaknya rapi dan mudah dipelajari.
 
@@ -141,7 +141,7 @@ Python banyak digunakan untuk membuat aplikasi program seperti: Program GUI (des
 
 Python dianjurkan untuk pemula yang belum pernah coding
 
-# Bahasa Pemograman C++, java, dan Python
+## Bahasa Pemograman C++, java, dan Python
 
 Mencetak Kata **"Logika Algoritma"**
 
@@ -171,21 +171,21 @@ Sintak pada Python:
 print("Logika Algoritma")
 ```
 
-# Tahapan Analisa Algoritma
+## Tahapan Analisa Algoritma
 
-## 1. Bagaimana merencanakan suatu algoritma.
+### 1. Bagaimana merencanakan suatu algoritma.
 
 Dengan menentukan model atau desain untuk menyelesaikan suatu masalah sebagai sebuah solusi, sehingga akan banyak terdapat variasi model yang diambil yang terbaik.
 
-## 2. Bagaimana menyatakan suatu algoritma
+### 2. Bagaimana menyatakan suatu algoritma
 
 Menentukan model algoritma yang digunakan untuk membuat barisan secara urut agar mendapatkan solusi masalah. Model algortima tersebut dapat dinyatakan dengan pseudocode atau flowchart.
 
-### a. Pseudocode (bahasa semu)
+#### a. Pseudocode (bahasa semu)
 
 Merupakan bentuk informal untuk mendeskripsikan algoritma yang mengikuti struktur bahasa pemrograman tertentu.
 
-### b. Flowchart (Diagram Alir)
+#### b. Flowchart (Diagram Alir)
 
 Penggambaran algoritma secara diagram yang menggambarkan alur susunan logika dari suatu masalah.
 
@@ -202,25 +202,25 @@ menuangkan ide/hasil pemikiran
 
 # Tahapan Analisa Algoritma Lanjutan
 
-## 3. Bagaimana validitas suatu algoritma.
+### 3. Bagaimana validitas suatu algoritma.
 
 Validitas suatu algoritma dengan didapatkan solusi sebagai penyelesaian dari masalah
 
-## 4. Bagaimana Menganalisa suatu Algoritma
+### 4. Bagaimana Menganalisa suatu Algoritma
 
 Analisa algoritma dengan melihat waktu tempuh dan jumlah memori yang digunakan
 
-## 5. Bagaimana Menguji Program dari suatu Algoritma.
+### 5. Bagaimana Menguji Program dari suatu Algoritma.
 
 Algoritma tersebut diimplementasikan kedalam bahasa pemrograman misal: Python. Proses uji algoritma tersebut
 dengan dua tahap yaitu:
 a. Fase Debugging dan
 b. Fase Profilling
 
-### a. Fase Debugging
+#### a. Fase Debugging
 
 yaitu fase dari proses program eksekusi yang akan melakukan koreksi terhadap kesalahan.
 
-### b. Fase Profilling
+#### b. Fase Profilling
 
 yaitu fase yang akan bekerja jika program tersebut sudah benar (telah melewati fase debugging).

@@ -24,7 +24,7 @@ Adalah suatu diagram yang menggambarkan susunan logika suatu program Simbol simb
 | ![image](off-page.png)     |     Off page Coneector     |    Menghubungkan sambungan dari bagian flowchart yang terputus dimana sambungannya berada pada halaman lain.     |
 | ![image](preparation.png)  |        Preparation         |                                      Digunakan untuk pemberian harga awal.                                       |
 
-# Diagram Alir Program Komputer
+## Diagram Alir Program Komputer
 
 Pada dasarnya suatu program komputer umumnya terdiri atas :
 
@@ -32,17 +32,17 @@ Pada dasarnya suatu program komputer umumnya terdiri atas :
 2. Melakukan komputasi/perhitungan terhadap data tersebut
 3. Mengeluarkan / mencetak/ menampilkan hasilnya.
 
-## Flowchart terdiri dari tiga struktur
+### Flowchart terdiri dari tiga struktur
 
 1. Struktur Sequence / Struktur Sederhana Digunakan untuk program yang instruksinya sequential atau urutan
 
 ![image](sequence.png)
 
-## Contoh Flowchart Struktur Squence Menghitung Luas Segitiga
+### Contoh Flowchart Struktur Squence Menghitung Luas Segitiga
 
 ![image](luas-segitiga.png)
 
-### Menggunakan Tabel Penyimpanan
+#### Menggunakan Tabel Penyimpanan
 
 Tabel 1. Media Penyimpanan Sequence 1
 
@@ -63,7 +63,7 @@ Tabel 2. Media Penyimpanan Sequence 2
 | X <- X/(Z+5) |  5  |     |     |        |
 | Write(X,Y,Z) |     |     |     |        |
 
-# Menjumlahkan Dua Bilangan Positif
+## Menjumlahkan Dua Bilangan Positif
 
 Membuat flowchart untuk menjumlahkan dua bilangan bulat positip dan mencetak hasilnya Algoritmanya:
 
@@ -74,7 +74,7 @@ Membuat flowchart untuk menjumlahkan dua bilangan bulat positip dan mencetak has
 
 ![image](dua-bilangan.png)
 
-# Menentukan Bilangan Genap/Ganjil
+## Menentukan Bilangan Genap/Ganjil
 
 Struktur Branching Digunakan untuk program yang menggunakan pemilihan atau penyeleksian kondisi.(contoh menentukan bilangangenap/ganjil)
 
@@ -99,7 +99,7 @@ Else
 
 ![image](hasil-genap-ganjil.png)
 
-# Flowchart Perulangan
+## Flowchart Perulangan
 
 Stuktur Looping Digunakan untuk program yang instruksinya akan dieksekusi berulang-ulang.
 

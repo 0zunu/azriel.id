@@ -10,9 +10,9 @@ date: 2026-04-18T05:02:50+07:00
 draft: false
 ---
 
-# Algorithm Concepts
+## Algorithm Concepts
 
-## 1. Variable Algorithm
+### 1. Variable Algorithm
 
 Is a Variable whose value is NOT a constant (always changing – according to the **CURRENT** Variable condition)
 
@@ -22,17 +22,17 @@ Algorithm : P <- Q
 
 Meaning : That the Value of P is assigned the Value of Q, the Value of P will be EQUAL TO the value of Q, & the Value of Q REMAINS
 
-## 2. Exchange Algorithm
+### 2. Exchange Algorithm
 
 Serves to exchange the respective contents of Variables such that the Value of each Variable will change/exchange.
 
-### Example of Algorithm Problem
+#### Example of Algorithm Problem
 
-#### Problem
+##### Problem
 
 Given P=10, Q=15 and R=5. Given Algorithm P=Q, Q=R, what are the Values of P, Q, R now?
 
-#### Answer
+##### Answer
 
 1. **P = Q:** In this step, the value of Q (15) will be copied into the variable P. Thus, P is now 15.
 2. **Q = R:** In this step, the value of R (5) will be copied into the variable Q. Thus, Q is now 5.
@@ -43,7 +43,7 @@ Given P=10, Q=15 and R=5. Given Algorithm P=Q, Q=R, what are the Values of P, Q,
 - The value of Q is 5
 - The value of R remains 5 (does not change in the given algorithm)
 
-# Algorithm Analysis
+## Algorithm Analysis
 
 1. A bunch of 12 matchsticks can form boxes as below. The question is, move two of these matchsticks to form four boxes.
 
@@ -87,7 +87,7 @@ DESCRIPTION :
 
 ![img](bejana2.png)
 
-# Data Types in Python
+## Data Types in Python
 
 | Data Type   |                                            Description                                            |
 | :---------- | :-----------------------------------------------------------------------------------------------: |
@@ -101,7 +101,7 @@ DESCRIPTION :
 | Hexadecimal |                              Expresses numbers in hexadecimal format                              |
 | Dictionary  |        Sequence data that stores various data types in the form of pointer and value pairs        |
 
-## Examples of data types in Python
+### Examples of data types in Python
 
 ```py
 #Boolean data type
@@ -125,7 +125,7 @@ Learning Python is fun...
 5j
 ```
 
-# List Data Type
+## List Data Type
 
 Is an array containing a collection of non-homogeneous types.
 
@@ -148,7 +148,7 @@ Running Result:
 ['Learning', 100, 7.99, True]
 ```
 
-# Tuple Data Type
+## Tuple Data Type
 
 The tuple data type is almost similar to list, the difference is its members cannot be changed after being declared. Tuple uses parentheses and members are separated by commas.
 
@@ -171,7 +171,7 @@ Running Result:
 ('Learning', 100, 7.99, True)
 ```
 
-# Dictionary Data Type
+## Dictionary Data Type
 
 The general form of dictionary data type in Python programming: Variable_name = {"key1": "value1", "key2": "value2", "key3": "value3"}
 
@@ -191,7 +191,7 @@ Running Result:
 'Year': 2021}
 ```
 
-# Arithmetic & Mathematical Operators
+## Arithmetic & Mathematical Operators
 
 | Operator |               Description               |
 | :------- | :-------------------------------------: |
@@ -203,7 +203,7 @@ Running Result:
 | \*\*     |             Exponentiation              |
 | //       | Division where the result is an integer |
 
-## Examples of Arithmetic and Mathematical Operators
+### Examples of Arithmetic and Mathematical Operators
 
 ```py
 >>> 1+2
@@ -222,7 +222,7 @@ Running Result:
 3
 ```
 
-# Comparison Operators
+## Comparison Operators
 
 | Operator |       Description        |
 | :------- | :----------------------: |
@@ -233,7 +233,7 @@ Running Result:
 | <=       |  Less than or equal to   |
 | >=       | Greater than or equal to |
 
-## Examples of Comparison Operators
+### Examples of Comparison Operators
 
 ```py
 >>> 10>5
@@ -250,7 +250,7 @@ True
 True
 ```
 
-# Bitwise Operators
+## Bitwise Operators
 
 | Operator |   Description    |
 | :------- | :--------------: |
@@ -261,7 +261,7 @@ True
 | <<       | Shift bits left  |
 | >>       | Shift bits right |
 
-# AND Operator
+## AND Operator
 
 The AND operator will be false (0) if the value of all its operands or one of them is false (0), and will be true (1) if both operands are true (1).
 
@@ -272,7 +272,7 @@ The AND operator will be false (0) if the value of all its operands or one of th
 | 1         |     0     |      0 |
 | 1         |     1     |      1 |
 
-# OR Operator
+## OR Operator
 
 The OR operator will produce output: If one operand or both operands are true (1) it will produce output true (1), if both operands are false (0) then it will produce output false (0).
 
@@ -283,7 +283,7 @@ The OR operator will produce output: If one operand or both operands are true (1
 | 1         |     0     |      1 |
 | 1         |     1     |      1 |
 
-# XOR Operator
+## XOR Operator
 
 The operation result using the XOR operator, namely:
 
@@ -297,7 +297,7 @@ The operation result using the XOR operator, namely:
 | 1         |     0     |      1 |
 | 1         |     1     |      0 |
 
-# Concatenating String Values
+## Concatenating String Values
 
 In Python Programming to concatenate string values in a program is as follows:
 
@@ -321,7 +321,7 @@ Running Result:
 Learning Python Programming Language Is Very Fun
 ```
 
-# Len Function
+## Len Function
 
 To count the number of characters use the len() function
 
@@ -338,7 +338,7 @@ Running Result:
 36
 ```
 
-# index() Function
+## index() Function
 
 To find out the character position in a sentence.
 

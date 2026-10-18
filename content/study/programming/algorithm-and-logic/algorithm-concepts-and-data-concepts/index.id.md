@@ -10,9 +10,9 @@ date: 2026-04-18T05:02:50+07:00
 draft: false
 ---
 
-# Konsep Algoritma
+## Konsep Algoritma
 
-## 1. Algoritma Pe-ubah
+### 1. Algoritma Pe-ubah
 
 Adalah Variabel yang nilainya BUKAN konstanta (selalu berubah – sesuai dengan kondisi Variabel ter**KINI**)
 
@@ -22,17 +22,17 @@ Algoritma : P <- Q
 
 Arti : Bahwa Nilai P diberi harga Nilai Q Nilai P akan SAMA DENGAN nilai Q, & Nilai Q TETAP
 
-## 2. Algoritma Pertukaran
+### 2. Algoritma Pertukaran
 
 Berfungsi mempertukarkan masing-masing isi Variabel sedemikian sehingga Nilai dari tiap Variabel akan berubah/bertukar.
 
-### Contoh Soal Algoritma
+#### Contoh Soal Algoritma
 
-#### Soal
+##### Soal
 
 Diketahui P=10, Q=15 dan R=5. Diberikan Algoritma P=Q,Q=R, mk Nilai P,Q,R sekarang?
 
-#### Jawaban
+##### Jawaban
 
 1. **P = Q:** Dalam langkah ini, nilai Q (15) akan disalin ke dalam variabel P. Sehingga, P sekarang bernilai 15.
 2. **Q = R:** Dalam langkah ini, nilai R (5) akan disalin ke dalam variabel Q. Sehingga, Q sekarang bernilai 5.
@@ -43,7 +43,7 @@ Diketahui P=10, Q=15 dan R=5. Diberikan Algoritma P=Q,Q=R, mk Nilai P,Q,R sekara
 - Nilai Q adalah 5
 - Nilai R tetap 5 (tidak berubah dalam algoritma yang diberikan)
 
-# Analisa Algoritma
+## Analisa Algoritma
 
 1. Sekumpulan lidi yang berjumlah 12 dapat membentuk kotak seperti di bawah ini. Pertanyaan pindahkanlah dua buah lidi tersebut agar membentuk empat buah kotak.
 
@@ -87,7 +87,7 @@ DESKRIPSI :
 
 ![img](bejana2.png)
 
-# Tipe Data Pada Python
+## Tipe Data Pada Python
 
 | Tipe Data   |                                      Keterangan                                      |
 | :---------- | :----------------------------------------------------------------------------------: |
@@ -101,7 +101,7 @@ DESKRIPSI :
 | Hexadecimal |                        Menyatakan bilangan dalam format heksa                        |
 | Dictionary  |  Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai   |
 
-## Contoh tipe data pada python
+### Contoh tipe data pada python
 
 ```py
 #tipe data Boolean
@@ -125,7 +125,7 @@ Belajar Python menyenangkan...
 5j
 ```
 
-# Tipe Data list
+## Tipe Data list
 
 Adalah sebuah array yang berisi kumpulan tipe yang tidak sejenis.
 
@@ -148,7 +148,7 @@ Hasil Running:
 ['Belajar', 100, 7.99, True]
 ```
 
-# Tipe Data Tuple
+## Tipe Data Tuple
 
 Tipe data tuple hampir sama dengan list, perbedaanya anggotanya tidak bisa diubah setelah dideklarasikan. Tuple menggunakan kurung biasa dan dipisahkan dengan koma untuk anggota.
 
@@ -171,7 +171,7 @@ Hasil Running:
 ('Belajar', 100, 7.99, True)
 ```
 
-# Tipe Data Dictionary
+## Tipe Data Dictionary
 
 Bentuk umum tipe data dictionary pada pemrograman python: Nama_variabel = {“ key1”: “value1”, “key2”: “value2”, “key3”: “value3” }
 
@@ -191,7 +191,7 @@ Hasil Running:
 'Tahun': 2021}
 ```
 
-# Operator Aritmatika & Matematika
+## Operator Aritmatika & Matematika
 
 | Operator |                Keterangan                |
 | :------- | :--------------------------------------: |
@@ -203,7 +203,7 @@ Hasil Running:
 | \*\*     |               Pemangkatan                |
 | //       | Pembagian dimana hasilnya bilangan bulat |
 
-## Contoh Operator Aritmatika dan Matematika
+### Contoh Operator Aritmatika dan Matematika
 
 ```py
 >>> 1+2
@@ -222,7 +222,7 @@ Hasil Running:
 3
 ```
 
-# Operator Perbandiangan
+## Operator Perbandiangan
 
 | Operator |       Keterangan        |
 | :------- | :---------------------: |
@@ -233,7 +233,7 @@ Hasil Running:
 | <=       | Lebih kecil sama dengan |
 | >=       | Lebih besar sama dengan |
 
-## Contoh Operator Perbandingan
+### Contoh Operator Perbandingan
 
 ```py
 >>> 10>5
@@ -250,7 +250,7 @@ True
 True
 ```
 
-# Operator Bitwise
+## Operator Bitwise
 
 | Operator |     Keterangan     |
 | :------- | :----------------: |
@@ -261,7 +261,7 @@ True
 | <<       | Geser bit ke kiri  |
 | >>       | Geser bit ke kanan |
 
-# Operator AND
+## Operator AND
 
 Operator AND akan bernilai false (0) apabila nilai semua operandnya atau salah satu bernilai false (0), dan akan bernilai true (1) apabila kedua operand bernilai true (1).
 
@@ -272,7 +272,7 @@ Operator AND akan bernilai false (0) apabila nilai semua operandnya atau salah s
 | 1         |     0     |      0 |
 | 1         |     1     |      1 |
 
-# Operator OR
+## Operator OR
 
 Operator Or akan menghasilkan output: Jika salah satu operand atau kedua operand bernilai true (1) akan menghasilkan output true (1), jika kedua operand bernilai false (0) maka akan menghasilkan output false (0).
 
@@ -283,7 +283,7 @@ Operator Or akan menghasilkan output: Jika salah satu operand atau kedua operand
 | 1         |     0     |      1 |
 | 1         |     1     |      1 |
 
-# Operator XOR
+## Operator XOR
 
 Hasil operasi menggunakan operator XOR, yaitu:
 
@@ -297,7 +297,7 @@ Hasil operasi menggunakan operator XOR, yaitu:
 | 1         |     0     |      1 |
 | 1         |     1     |      0 |
 
-# Menggabungkan Nilai string
+## Menggabungkan Nilai string
 
 Pada Pemrograman Python untuk menggabungkan nilai string pada program adalah sebagai berikut:
 
@@ -321,7 +321,7 @@ Hasil Running:
 Belajar Bahasa Pemrograman Python Sangat Menyenangkan
 ```
 
-# Fungsi Len
+## Fungsi Len
 
 Untuk menghitung jumlah karakter digunakan fungsi len()
 
@@ -338,7 +338,7 @@ Hasil Running:
 33
 ```
 
-# Fungsi index()
+## Fungsi index()
 
 Untuk mengetahui posisi karakter dalam kalimat.
 
