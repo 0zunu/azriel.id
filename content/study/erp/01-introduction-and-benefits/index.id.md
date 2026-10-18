@@ -3,13 +3,7 @@ title: "Enterprise Resource Planning #01: Pengenalan dan Manfaatnya"
 summary: "Pelajari apa itu ERP, manfaatnya bagi bisnis, dan bagaimana sistem ini membantu mengintegrasikan berbagai fungsi dalam perusahaan untuk meningkatkan efisiensi dan produktivitas."
 description: "Pelajari apa itu ERP, manfaatnya bagi bisnis, dan bagaimana sistem ini membantu mengintegrasikan berbagai fungsi dalam perusahaan untuk meningkatkan efisiensi dan produktivitas."
 categories: ["Enterprise Resource Planning"]
-tags:
-  [
-    "ERP",
-    "Information Systems",
-    "Business Management",
-    "Information Technology",
-  ]
+tags: ["Information Systems", "Business Management", "Information Technology"]
 series: ["Chapters on ERP"]
 series_order: 1
 date: 2026-04-01T05:02:50+07:00

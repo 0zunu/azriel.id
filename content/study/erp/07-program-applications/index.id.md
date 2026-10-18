@@ -3,7 +3,7 @@ title: "Enterprise Resource Planning #07: Aplikasi Program ERP"
 summary: "Aplikasi program ERP adalah software yang digunakan untuk mengelola dan mengintegrasikan berbagai proses bisnis dalam sebuah organisasi. Dalam bab ini, kita akan membahas berbagai aplikasi program ERP yang umum digunakan di berbagai industri, serta manfaat dan fitur yang ditawarkan oleh masing-masing aplikasi."
 description: "Aplikasi program ERP adalah software yang digunakan untuk mengelola dan mengintegrasikan berbagai proses bisnis dalam sebuah organisasi. Dalam bab ini, kita akan membahas berbagai aplikasi program ERP yang umum digunakan di berbagai industri, serta manfaat dan fitur yang ditawarkan oleh masing-masing aplikasi."
 categories: ["Enterprise Resource Planning"]
-tags: ["ERP", "ERP Applications", "ERP Programs"]
+tags: ["ERP Applications", "ERP Programs"]
 series: ["Chapters on ERP"]
 series_order: 7
 date: 2026-04-07T02:30:30+07:00

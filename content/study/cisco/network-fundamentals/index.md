@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #01: Network Fundamentals"
 summary: "A network is a collection of network devices and end devices connected to each other that can share information and resources."
 description: "A network is a collection of network devices and end devices connected to each other that can share information and resources."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "Network Fundamentals"]
+tags: ["Networking", "Network Fundamentals"]
 series: ["Chapters on Cisco"]
 series_order: 1
 date: 2026-05-15T05:02:50+07:00

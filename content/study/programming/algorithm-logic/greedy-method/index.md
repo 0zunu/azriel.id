@@ -3,7 +3,14 @@ title: "Algorithm and Logic #11: Greedy Method"
 summary: "Greedy is taken from English meaning greedy, avaricious, stingy, miserly."
 description: "Greedy is taken from English meaning greedy, avaricious, stingy, miserly."
 categories: ["Algorithm Logic"]
-tags: ["greedy", "logic", "algorithm", "greedy-algorithm", "greedy-method"]
+tags:
+  [
+    "Greedy Method",
+    "Greedy Algorithm",
+    "Optimal On Tape Storage Problem",
+    "Knapsack Problem",
+    "Programming",
+  ]
 series: ["Algorithm and Logic Chapters"]
 series_order: 11
 date: 2026-04-27T05:02:50+07:00

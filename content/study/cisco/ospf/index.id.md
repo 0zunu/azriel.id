@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #06: OSPF"
 summary: "OSPF adalah protokol routing dinamis yang secara otomatis mengatur dan menemukan jalur terbaik untuk mengirimkan data antar jaringan komputer."
 description: "OSPF adalah protokol routing dinamis yang secara otomatis mengatur dan menemukan jalur terbaik untuk mengirimkan data antar jaringan komputer."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "OSPF"]
+tags: ["Networking", "OSPF"]
 series: ["Chapters on Cisco"]
 series_order: 6
 date: 2026-05-20T05:02:50+07:00

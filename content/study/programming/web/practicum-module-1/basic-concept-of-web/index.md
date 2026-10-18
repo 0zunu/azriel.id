@@ -3,7 +3,7 @@ title: "Web Programming I #01: Basic Concepts of Web"
 summary: "Discusses the basic concepts of web programming, terms in web programming, using text editors, knowing and implementing navigation structures"
 description: "Discusses the basic concepts of web programming, terms in web programming, using text editors, knowing and implementing navigation structures"
 categories: ["Web Programming I"]
-tags: ["learn", "coding", "web", "programming"]
+tags: ["learn", "coding", "web"]
 series: ["Web Programming I Module"]
 series_order: 1
 date: 2026-05-01T05:02:50+07:00

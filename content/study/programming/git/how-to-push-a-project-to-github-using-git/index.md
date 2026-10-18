@@ -3,7 +3,7 @@ title: "How to Push a Project to GitHub Using Git"
 summary: "In this article, we will learn how to upload (push) a project to GitHub."
 description: "In this article, we will learn how to upload (push) a project to GitHub."
 categories: ["Git"]
-tags: ["Github", "Git", "Push Project to GitHub"]
+tags: ["Github", "Push Project to GitHub"]
 series: ["Git Chapters"]
 series_order: 2
 date: 2026-10-18T05:02:50+07:00

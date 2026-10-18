@@ -3,13 +3,7 @@ title: "Enterprise Resource Planning #01: Introduction and Benefits"
 summary: "Learn what ERP is, its benefits for businesses, and how this system helps integrate various functions within a company to improve efficiency and productivity."
 description: "Learn what ERP is, its benefits for businesses, and how this system helps integrate various functions within a company to improve efficiency and productivity."
 categories: ["Enterprise Resource Planning"]
-tags:
-  [
-    "ERP",
-    "Information Systems",
-    "Business Management",
-    "Information Technology",
-  ]
+tags: ["Information Systems", "Business Management", "Information Technology"]
 series: ["Chapters on ERP"]
 series_order: 1
 date: 2026-04-01T05:02:50+07:00

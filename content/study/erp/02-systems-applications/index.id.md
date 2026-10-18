@@ -5,7 +5,6 @@ description: "Pelajari tentang aplikasi sistem ERP, termasuk modul-modul utama s
 categories: ["Enterprise Resource Planning"]
 tags:
   [
-    "ERP",
     "Procurement",
     "Sales and Distribution",
     "Finance and Accounting",

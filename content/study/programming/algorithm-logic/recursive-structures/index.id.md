@@ -3,7 +3,7 @@ title: "Logika dan Algoritma #06: Struktur Rekursif"
 summary: "Struktur rekursif adalah konsep di mana sebuah fungsi memanggil dirinya sendiri untuk menyelesaikan suatu masalah."
 description: "Struktur rekursif adalah konsep di mana sebuah fungsi memanggil dirinya sendiri untuk menyelesaikan suatu masalah."
 categories: ["Algorithm Logic"]
-tags: ["learn", "coding", "algorithms", "logic", "recursive structures"]
+tags: ["Recursion", "Recursive Structures", "Programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 6
 date: 2026-04-22T05:02:50+07:00

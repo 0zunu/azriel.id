@@ -4,12 +4,7 @@ summary: "Evaluasi dan pengukuran kinerja ERP adalah langkah penting untuk memas
 description: "Evaluasi dan pengukuran kinerja ERP adalah langkah penting untuk memastikan bahwa sistem ERP yang diimplementasikan memberikan manfaat yang diharapkan. Dalam bab ini, kita akan membahas berbagai metrik dan pendekatan untuk mengevaluasi kinerja ERP."
 categories: ["Enterprise Resource Planning"]
 tags:
-  [
-    "ERP",
-    "ERP Evaluation",
-    "ERP Performance Measurement",
-    "ERP Evaluation Metrics",
-  ]
+  ["ERP Evaluation", "ERP Performance Measurement", "ERP Evaluation Metrics"]
 series: ["Chapters on ERP"]
 series_order: 6
 date: 2026-04-06T02:30:30+07:00

@@ -3,7 +3,7 @@ title: "Web Programming I #02: Introduction to HTML"
 summary: "Able to recognize HTML scripts, use various tags and declare tables and their attributes, able to write scripts in HTML"
 description: "Able to recognize HTML scripts, use various tags and declare tables and their attributes, able to write scripts in HTML"
 categories: ["Web Programming I"]
-tags: ["learn", "coding", "web", "programming", "HTML"]
+tags: ["learn", "coding", "web", "HTML"]
 series: ["Web Programming I Module"]
 series_order: 2
 date: 2026-05-02T05:10:50+07:00

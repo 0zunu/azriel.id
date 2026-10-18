@@ -3,7 +3,7 @@ title: "How to Contribute to Open Source on GitHub"
 summary: "Open source is a project that provides its source code to users freely, and it is often developed openly."
 description: "Open source is a project that provides its source code to users freely, and it is often developed openly."
 categories: ["Git"]
-tags: ["Open Source", "Git", "Github"]
+tags: ["Open Source", "Github"]
 series: ["Git Chapters"]
 series_order: 3
 date: 2026-10-19T05:02:50+07:00

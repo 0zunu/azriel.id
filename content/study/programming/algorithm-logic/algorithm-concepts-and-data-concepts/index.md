@@ -3,15 +3,7 @@ title: "Algorithm and Logic #02: Algorithm Concepts and Data Concepts"
 summary: "The Concept of Algorithm is an effort with a sequence of operations arranged logically and systematically to solve a problem to produce a specific output, while Data Type is an attribute related to data that will tell the computer system."
 description: "The Concept of Algorithm is an effort with a sequence of operations arranged logically and systematically to solve a problem to produce a specific output, while Data Type is an attribute related to data that will tell the computer system."
 categories: ["Algorithm Logic"]
-tags:
-  [
-    "learning",
-    "coding",
-    "algorithm",
-    "logic",
-    "algorithm concept",
-    "data concept",
-  ]
+tags: ["algorithm concept", "data concept", "programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 2
 date: 2026-04-18T05:02:50+07:00

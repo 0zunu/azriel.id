@@ -5,7 +5,6 @@ description: "Implementasi ERP adalah tahap kritis dalam perjalanan transformasi
 categories: ["Enterprise Resource Planning"]
 tags:
   [
-    "ERP",
     "ERP Implementation",
     "ERP Benefits",
     "ERP Implementation Obstacles",

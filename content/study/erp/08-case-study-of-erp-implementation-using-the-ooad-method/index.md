@@ -3,7 +3,7 @@ title: "Enterprise Resource Planning #08: Case Study of ERP Implementation Using
 summary: "A case study on the implementation of an ERP system using the Object-Oriented Analysis and Design (OOAD) method."
 description: "A case study on the implementation of an ERP system using the Object-Oriented Analysis and Design (OOAD) method."
 categories: ["Enterprise Resource Planning"]
-tags: ["ERP", "Case Study", "OOAD", "ERP Implementation"]
+tags: ["Case Study", "OOAD", "ERP Implementation"]
 series: ["Chapters on ERP"]
 series_order: 8
 date: 2026-04-08T02:30:30+07:00

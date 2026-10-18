@@ -3,7 +3,7 @@ title: "How to Install Git and Initial Configuration on Windows"
 summary: "Git is software used to manage versioning of program source code. Git is a distributed version control system designed to track changes in source code efficiently."
 description: "Git is software used to manage versioning of program source code. Git is a distributed version control system designed to track changes in source code efficiently."
 categories: ["Git"]
-tags: ["Installation", "Configuration", "Git", "Windows"]
+tags: ["Installation", "Configuration", "Windows"]
 series: ["Git Chapters"]
 series_order: 1
 date: 2026-10-17T02:02:50+07:00

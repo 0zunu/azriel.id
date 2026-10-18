@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #04: IPv6"
 summary: "Pengguna internet berkembang sangat pesat sehingga space IPv4 yang tersedia juga semakin sedikit. Apalagi dengan banyaknya perangkat seperti telepon dan tablet yang butuh koneksi internet juga turut mengurangi space IPv4. Solusinya adalah dengan IPv6 yang mempunyai space ip yang jauh lebih banyak."
 description: "Pengguna internet berkembang sangat pesat sehingga space IPv4 yang tersedia juga semakin sedikit. Apalagi dengan banyaknya perangkat seperti telepon dan tablet yang butuh koneksi internet juga turut mengurangi space IPv4. Solusinya adalah dengan IPv6 yang mempunyai space ip yang jauh lebih banyak."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "IPv6"]
+tags: ["Networking", "IPv6"]
 series: ["Chapters on Cisco"]
 series_order: 4
 date: 2026-05-18T05:02:50+07:00

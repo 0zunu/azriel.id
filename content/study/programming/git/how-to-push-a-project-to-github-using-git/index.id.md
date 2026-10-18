@@ -3,7 +3,7 @@ title: "Cara Push Project ke Github Mengunakaan Git"
 summary: "Pada tulisan ini kita akan belajar bagaimana caranya mengupload (push) project ke Github."
 description: "Pada tulisan ini kita akan belajar bagaimana caranya mengupload (push) project ke Github."
 categories: ["Git"]
-tags: ["Github", "Git", "Push Project ke Github"]
+tags: ["Github", "Push Project ke Github"]
 series: ["Git Chapters"]
 series_order: 2
 date: 2026-10-18T05:02:50+07:00

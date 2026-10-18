@@ -4,12 +4,7 @@ summary: "ERP evaluation and performance measurement is a crucial step to ensure
 description: "ERP evaluation and performance measurement is a crucial step to ensure that the implemented ERP system provides the expected benefits. In this chapter, we will discuss various metrics and approaches for evaluating ERP performance."
 categories: ["Enterprise Resource Planning"]
 tags:
-  [
-    "ERP",
-    "ERP Evaluation",
-    "ERP Performance Measurement",
-    "ERP Evaluation Metrics",
-  ]
+  ["ERP Evaluation", "ERP Performance Measurement", "ERP Evaluation Metrics"]
 series: ["Chapters on ERP"]
 series_order: 6
 date: 2026-04-06T02:30:30+07:00

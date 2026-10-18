@@ -3,7 +3,7 @@ title: "Web Programming I #01: Konsep Dasar Web"
 summary: "Membahas mengenai konsep dasar pemrograman web, istilah-istilah dalam pemrograman web, menggunakan text editor, mengenal dan mengimplementasikan struktur navigasi"
 description: "Membahas mengenai konsep dasar pemrograman web, istilah-istilah dalam pemrograman web, menggunakan text editor, mengenal dan mengimplementasikan struktur navigasi"
 categories: ["Web Programming I"]
-tags: ["learn", "coding", "web", "programming"]
+tags: ["learn", "coding", "web"]
 series: ["Web Programming I Module"]
 series_order: 1
 date: 2026-05-01T05:02:50+07:00

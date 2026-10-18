@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #02: Switching"
 summary: "Switch pada cisco biasa disebut catalyst. Perbedaan switch dan router yang paling menonjol adalah switch mempunyai banyak port."
 description: "Switch pada cisco biasa disebut catalyst. Perbedaan switch dan router yang paling menonjol adalah switch mempunyai banyak port."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "Switching"]
+tags: ["Networking", "Switching"]
 series: ["Chapters on Cisco"]
 series_order: 2
 date: 2026-05-16T05:02:50+07:00

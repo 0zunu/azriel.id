@@ -3,7 +3,7 @@ title: "Logika dan Algoritma #05: Looping"
 summary: "Looping adalah struktur kontrol yang memungkinkan program untuk mengulangi eksekusi sebuah blok kode selama kondisi tertentu terpenuhi."
 description: "Looping adalah struktur kontrol yang memungkinkan program untuk mengulangi eksekusi sebuah blok kode selama kondisi tertentu terpenuhi."
 categories: ["Algorithm Logic"]
-tags: ["learn", "coding", "algorithms", "logic", "looping"]
+tags: ["Looping", "For Loop", "While Loop", "Nested Loop", "Programming"]
 series: ["Algorithm and Logic Chapters"]
 series_order: 5
 date: 2026-04-21T05:02:50+07:00

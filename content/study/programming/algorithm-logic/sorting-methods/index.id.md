@@ -3,7 +3,14 @@ title: "Logika dan Algoritma #09: Metode Sorting"
 summary: "Proses pengaturan sederetan data ke dalam suatu urutan atau susunan urutan tertentu. Data yang diurutkan dapat berupa data bilangan, data karakter maupun data string (Sitorus, 2015)."
 description: "Proses pengaturan sederetan data ke dalam suatu urutan atau susunan urutan tertentu. Data yang diurutkan dapat berupa data bilangan, data karakter maupun data string (Sitorus, 2015)."
 categories: ["Algorithm Logic"]
-tags: ["learn", "coding", "algorithms", "logic", "sorting methods"]
+tags:
+  [
+    "Sorting Methods",
+    "Selection Sort",
+    "Bubble Sort",
+    "Insertion Sort",
+    "Programming",
+  ]
 series: ["Algorithm and Logic Chapters"]
 series_order: 9
 date: 2026-04-25T05:02:50+07:00

@@ -5,7 +5,6 @@ description: "Learn about ERP system applications, including core modules such a
 categories: ["Enterprise Resource Planning"]
 tags:
   [
-    "ERP",
     "Procurement",
     "Sales and Distribution",
     "Finance and Accounting",

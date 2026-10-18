@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #07: BGP"
 summary: "Border Gateway Protocol (BGP) is the protocol that forms the internet network. BGP belongs to the Exterior Gateway Protocol (EGP) or can be said to be the only EGP protocol."
 description: "Border Gateway Protocol (BGP) is the protocol that forms the internet network. BGP belongs to the Exterior Gateway Protocol (EGP) or can be said to be the only EGP protocol."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "BGP"]
+tags: ["Networking", "BGP"]
 series: ["Chapters on Cisco"]
 series_order: 7
 date: 2026-05-21T05:02:50+07:00

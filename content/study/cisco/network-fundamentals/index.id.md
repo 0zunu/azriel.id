@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #01: Dasar-dasar Jaringan"
 summary: "Jaringan atau network adalah kumpulan perangkat jaringan (network devices) dan perangkat endhost (end devices) yang terhubung satu sama lain dan dapat melakukan sharing informasi serta resources."
 description: "Jaringan atau network adalah kumpulan perangkat jaringan (network devices) dan perangkat endhost (end devices) yang terhubung satu sama lain dan dapat melakukan sharing informasi serta resources."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "Network Fundamentals"]
+tags: ["Networking", "Network Fundamentals"]
 series: ["Chapters on Cisco"]
 series_order: 1
 date: 2026-05-15T05:02:50+07:00

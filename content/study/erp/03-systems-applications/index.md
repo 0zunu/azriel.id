@@ -5,7 +5,6 @@ description: "An ERP (Enterprise Resource Planning) system is an integrated info
 categories: ["Enterprise Resource Planning"]
 tags:
   [
-    "ERP",
     "ERP System",
     "Production",
     "Operations",

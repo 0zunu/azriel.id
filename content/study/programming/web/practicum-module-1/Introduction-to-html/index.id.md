@@ -3,7 +3,7 @@ title: "Web Programming I #02: Pengenalan HTML"
 summary: "Mampu mengenal skrip html, menggunakan ragam tag dan pendeklarasian tabel beserta atributnya, mampu menuliskan skrip dalam html"
 description: "Mampu mengenal skrip html, menggunakan ragam tag dan pendeklarasian tabel beserta atributnya, mampu menuliskan skrip dalam html"
 categories: ["Web Programming I"]
-tags: ["learn", "coding", "web", "programming", "HTML"]
+tags: ["learn", "coding", "web", "HTML"]
 series: ["Web Programming I Module"]
 series_order: 2
 date: 2026-05-02T05:10:50+07:00

@@ -5,7 +5,6 @@ description: "Sistem ERP (Enterprise Resource Planning) adalah sebuah sistem inf
 categories: ["Enterprise Resource Planning"]
 tags:
   [
-    "ERP",
     "ERP System",
     "Production",
     "Operations",

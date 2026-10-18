@@ -5,7 +5,6 @@ description: "ERP implementation is a critical stage in a company's digital tran
 categories: ["Enterprise Resource Planning"]
 tags:
   [
-    "ERP",
     "ERP Implementation",
     "ERP Benefits",
     "ERP Implementation Obstacles",

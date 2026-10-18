@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #05: EIGRP"
 summary: "EIGRP is a distance vector protocol and Cisco proprietary. It uses the DUAL (Diffusing Update Algorithm) algorithm."
 description: "EIGRP is a distance vector protocol and Cisco proprietary. It uses the DUAL (Diffusing Update Algorithm) algorithm."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "EIGRP"]
+tags: ["Networking", "EIGRP"]
 series: ["Chapters on Cisco"]
 series_order: 5
 date: 2026-05-19T05:02:50+07:00

@@ -3,7 +3,7 @@ title: "Cara Berkontribusi Open Source Github"
 summary: "Open source merupakan proyek yang memberikan kode program kepada penggunanya secara bebas, dan tak jarang pengembangannya dilakukan secara terbuka."
 description: "Open source merupakan proyek yang memberikan kode program kepada penggunanya secara bebas, dan tak jarang pengembangannya dilakukan secara terbuka."
 categories: ["Git"]
-tags: ["Open Source", "Git", "Github"]
+tags: ["Open Source", "Github"]
 series: ["Git Chapters"]
 series_order: 3
 date: 2026-10-19T05:02:50+07:00

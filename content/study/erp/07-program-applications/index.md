@@ -3,7 +3,7 @@ title: "Enterprise Resource Planning #07: ERP Program Applications"
 summary: "ERP program applications are software used to manage and integrate various business processes within an organization. In this chapter, we will discuss various ERP program applications commonly used in various industries, as well as the benefits and features offered by each application."
 description: "ERP program applications are software used to manage and integrate various business processes within an organization. In this chapter, we will discuss various ERP program applications commonly used in various industries, as well as the benefits and features offered by each application."
 categories: ["Enterprise Resource Planning"]
-tags: ["ERP", "ERP Applications", "ERP Programs"]
+tags: ["ERP Applications", "ERP Programs"]
 series: ["Chapters on ERP"]
 series_order: 7
 date: 2026-04-07T02:30:30+07:00

@@ -3,7 +3,14 @@ title: "Algorithm and Logic #08: Divide and Conquer Method"
 summary: "The Divide and Conquer method is a problem-solving approach that divides a problem into smaller parts, solves each part, and then combines the results."
 description: "The Divide and Conquer method is a problem-solving approach that divides a problem into smaller parts, solves each part, and then combines the results."
 categories: ["Algorithm Logic"]
-tags: ["learn", "coding", "algorithms", "logic", "divide and conquer"]
+tags:
+  [
+    "Divide and Conquer",
+    "Merge Sort",
+    "Quick Sort",
+    "Binary Search",
+    "Programming",
+  ]
 series: ["Algorithm and Logic Chapters"]
 series_order: 8
 date: 2026-04-24T05:02:50+07:00

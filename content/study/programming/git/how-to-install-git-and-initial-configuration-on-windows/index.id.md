@@ -3,7 +3,7 @@ title: "Cara Install Git dan Konfigurasi Awal di Windows"
 summary: "Git adalah perangkat lunak yang digunakan untuk mengelola versi source code program. Git merupakan kepanjangan dari Group Inclusive Tour."
 description: "Git adalah perangkat lunak yang digunakan untuk mengelola versi source code program. Git merupakan kepanjangan dari Group Inclusive Tour."
 categories: ["Git"]
-tags: ["Installation", "Configuration", "Git", "Windows"]
+tags: ["Installation", "Configuration", "Windows"]
 series: ["Git Chapters"]
 series_order: 1
 date: 2026-10-17T02:02:50+07:00

@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #02: Switching"
 summary: "Switches in Cisco are usually called catalysts. The most prominent difference between a switch and a router is that a switch has many ports."
 desctiption: "Switches in Cisco are usually called catalysts. The most prominent difference between a switch and a router is that a switch has many ports."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "Switching"]
+tags: ["Networking", "Switching"]
 series: ["Chapters on Cisco"]
 series_order: 2
 date: 2026-05-16T05:02:50+07:00

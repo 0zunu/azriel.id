@@ -3,7 +3,7 @@ title: "Cisco Packet Tracer #07: BGP"
 summary: "Border Router Gateway (BGP) adalah protocol yang membentuk jaringan internet. BGP termasuk Exterior Gateway Protocol (EGP) atau bisa dikatakan satu-satunya protocol EGP."
 description: "Border Router Gateway (BGP) adalah protocol yang membentuk jaringan internet. BGP termasuk Exterior Gateway Protocol (EGP) atau bisa dikatakan satu-satunya protocol EGP."
 categories: ["Cisco Packet Tracer"]
-tags: ["Cisco", "Networking", "BGP"]
+tags: ["Networking", "BGP"]
 series: ["Chapters on Cisco"]
 series_order: 7
 date: 2026-05-21T05:02:50+07:00
