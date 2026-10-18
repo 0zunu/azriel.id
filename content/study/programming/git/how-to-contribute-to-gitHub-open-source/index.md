@@ -64,9 +64,7 @@ NB: use `git --help` to see other Git commands.
 
 5.  After making changes, we can commit them with a short description of what we changed. However, if we add files, we can use `git add <new-file-name>`, or use `git add .` to add all changes in that directory recursively. Only after that can we commit.
 
-        ```
         git commit -m "<short message>"
-        ```
 
     Example:
 

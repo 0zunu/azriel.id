@@ -64,9 +64,7 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 
 5.  Setelah melakukan perubahan, kita bisa lakukan commit berisi deskripsi singkat tentang perubahan yang anda lakukan. Tetapi jika ada penambahan file, bisa menggunakan perintah `git add <nama-file-baru>`, atau gunakan `git add .` untuk menambahkan semua perubahan yang ada di direktori tersebut secara rekursif. Setelah itu baru bisa kita commit.
 
-        ```
         git commit -m "<pesan singkat>"
-        ```
 
     Contoh:
 
