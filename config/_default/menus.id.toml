@@ -55,7 +55,7 @@
   name = "Cisco Packet Tracer"
   parent = "Belajar"
   weight = 50
-  pageRef = "study/cisco"
+  pageRef = "study/cisco-packet-tracer"
   
 [[main]]
   pre = "source-code"
@@ -69,7 +69,7 @@
   name = "Enterprise Resource Planning"
   parent = "Belajar"
   weight = 50
-  pageRef = "study/erp"
+  pageRef = "study/enterprise-resource-planning"
 
 [[main]]
   pre = "router-stroke-rounded"
