@@ -59,7 +59,7 @@ Developing and maintaining web applications, managing databases, optimizing appl
 <img class="customEntitityLogo"  src="/resume/nexara.png" />
 {{< /gallery >}}
 
-<p><a href="#" onclick="return false;" target="_blank">{{< icon "location" >}} Full Remote</a><br><a href="https://www.nexaratech.id/" target="_blank">{{< icon "link" >}} www.nexaratech.id</a></p>
+<p><a href="#" onclick="return false;" target="_blank">{{< icon "location" >}} Remote</a><br><a href="https://www.nexaratech.id/" target="_blank">{{< icon "link" >}} www.nexaratech.id</a></p>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="tv" header="IT Broadcasting" badge="April 2025 - July 2025" subheader="TVRI Nasional" >}}
