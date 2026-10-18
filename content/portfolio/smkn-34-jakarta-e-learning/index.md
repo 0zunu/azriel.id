@@ -1,5 +1,5 @@
 ---
-title: "SMKN 34 Jakarta Online Exam"
+title: "SMKN 34 Jakarta E-Learning"
 summary: "This project is the development of a web-based online examination application (Computer-Based Test) for SMK Negeri 34 Jakarta. The goal is to replace the conventional platform to present an evaluation system that is more secure, integrated, and free from academic cheating."
 description: "This project is the development of a web-based online examination application (Computer-Based Test) for SMK Negeri 34 Jakarta. The goal is to replace the conventional platform to present an evaluation system that is more secure, integrated, and free from academic cheating."
 categories: ["Portfolio"]

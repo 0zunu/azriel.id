@@ -1,5 +1,5 @@
 ---
-title: "Ujian Online SMKN 34 Jakarta"
+title: "SMKN 34 Jakarta E-Learning"
 summary: "Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik."
 description: "Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik."
 categories: ["Portfolio"]
