@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-09
+lastmod: 2026-10-30
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -51,6 +51,17 @@ Passionate about the world of technology and software development. Experienced i
 
 {{< timeline >}}
 
+{{< timelineItem icon="web-design" header="Senior Programmer" badge="October 2026 - Now" subheader="Nexara Tech" >}}
+
+Developing and maintaining web applications, managing databases, optimizing application performance, and collaborating with the development team to design innovative software solutions.
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/nexara.png" />
+{{< /gallery >}}
+
+<p><a href="#" onclick="return false;" target="_blank">{{< icon "location" >}} Full Remote</a><br><a href="https://www.nexaratech.id/" target="_blank">{{< icon "link" >}} www.nexaratech.id</a></p>
+{{< /timelineItem >}}
+
 {{< timelineItem icon="tv" header="IT Broadcasting" badge="April 2025 - July 2025" subheader="TVRI Nasional" >}}
 
 Assisted in displaying materials for broadcast programs, monitoring during pre-production and post-production, operating VMix, and assisting with coverage.
@@ -83,7 +94,7 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 
 {{< timeline >}}
 
-{{< timelineItem icon="web-design" header="KIAT" badge="18 Oktober 2026" >}}
+{{< timelineItem icon="web-design" header="KIAT" badge="18 October 2026" >}}
 
 Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (PT KIAT), a Strategic Subsidiary of PT ANTAM Tbk as a Nickel Ore Trading Unit.
 
@@ -91,8 +102,8 @@ Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (
 <img class="customEntitityLogo"  src="/resume/kiat.png" />
 {{< /gallery >}}
 
-<p>{{< cta url="" label="Kunjungi KIAT" >}}
-{{< cta url="" label="Dokumentasi" style="outline" >}}</p>
+<p>{{< cta url="" label="Visit KIAT" >}}
+{{< cta url="" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
 

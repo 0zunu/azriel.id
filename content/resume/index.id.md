@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-09
+lastmod: 2026-10-30
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -50,6 +50,17 @@ Menggeluti dunia teknologi dan pengembangan perangkat Lunak. Memiliki pengalaman
 {{< tab label="Pengalaman Kerja" icon="briefcase" md=false >}}
 
 {{< timeline >}}
+
+{{< timelineItem icon="web-design" header="Senior Programmer" badge="Oktober 2026 - Sekarang" subheader="Nexara Tech" >}}
+
+Mengembangkan dan memelihara aplikasi web, Mengelola database, Mengoptimalkan kinerja aplikasi, dan Berkolaborasi dengan tim pengembangan untuk merancang solusi perangkat lunak yang inovatif.
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/nexara.png" />
+{{< /gallery >}}
+
+<p><a href="#" onclick="return false;" target="_blank">{{< icon "location" >}} Sepenuhnya Remote</a><br><a href="https://www.nexaratech.id/" target="_blank">{{< icon "link" >}} www.nexaratech.id</a></p>
+{{< /timelineItem >}}
 
 {{< timelineItem icon="tv" header="IT Broadcasting" badge="April 2025 - Juli 2025" subheader="TVRI Nasional" >}}
 
