@@ -83,29 +83,42 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 
 {{< timeline >}}
 
+{{< timelineItem icon="web-design" header="KIAT" badge="18 Oktober 2026" >}}
+
+Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (PT KIAT), a Strategic Subsidiary of PT ANTAM Tbk as a Nickel Ore Trading Unit.
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/kiat.png" />
+{{< /gallery >}}
+
+<p>{{< cta url="" label="Kunjungi KIAT" >}}
+{{< cta url="" label="Dokumentasi" style="outline" >}}</p>
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="web-design" header="SMKN 34 Jakarta Online Exam" badge="25 December 2025" >}}
 
-This project is the development of a web-based online examination application (Computer-Based Test) for SMK Negeri 34 Jakarta. The goal is to replace the conventional platform to present an evaluation system that is more secure, integrated, and free from academic cheating.
-
-<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Visit E-learning" >}}
-{{< cta url="/portfolio/smkn-34-jakarta-online-exam" label="Documentation" style="outline" >}}</p>
+Developing a web-based online exam application (Computer-Based Test) for SMK Negeri 34 Jakarta to replace the conventional platform with a more secure, integrated, and cheat-free evaluation system.
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/smknlogo.png" />
 {{< /gallery >}}
 
+<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Visit E-Learning" >}}
+{{< cta url="/portfolio/smkn-34-jakarta-online-exam" label="Documentation" style="outline" >}}</p>
+
 {{< /timelineItem >}}
 
 {{< timelineItem icon="web-design" header="Destiny.Industries" badge="19 December 2023" >}}
 
-This website project was developed to meet the public’s need for online shopping, especially for clothing products. With this website, customers can easily search for and purchase the products they want without having to visit a physical store.
-
-<p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
-{{< cta url="/portfolio/destiny-industries" label="Documentation" style="outline" >}}</p>
+This e-commerce website was developed to make online clothing shopping easier. The platform is designed to help customers find and buy products conveniently without having to visit a physical store.
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/destinylogo.png" />
 {{< /gallery >}}
+
+<p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
+{{< cta url="/portfolio/destiny-industries" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
 
@@ -121,7 +134,7 @@ This website project was developed to meet the public’s need for online shoppi
 
 {{< timelineItem icon="graduation-cap" header="Bachelor of Computer Science (S.Kom)" badge="March 2022 - February 2026" subheader="Information Systems - Universitas Bina Sarana Informatika" >}}
 
-Relevant courses in Project Management and Web Programming.
+Graduated with a Bachelor of Computer Science (S.Kom) degree with a GPA of 3.82.
 
 <p><b>{{< icon "award" >}} Thesis on “Implementation of the SMKN 34 Jakarta Online Examination System”.</b></p>
 

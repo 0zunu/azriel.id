@@ -83,29 +83,42 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 
 {{< timeline >}}
 
+{{< timelineItem icon="web-design" header="KIAT" badge="18 Oktober 2026" >}}
+
+Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIAT), Anak Usaha Strategis PT ANTAM Tbk sebagai Unit Perdagangan Bijih Nikel.
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/kiat.png" />
+{{< /gallery >}}
+
+<p>{{< cta url="" label="Kunjungi KIAT" >}}
+{{< cta url="" label="Dokumentasi" style="outline" >}}</p>
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="web-design" header="Ujian Online SMKN 34 Jakarta" badge="25 Desember 2025" >}}
 
-Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik.
-
-<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi E-learning" >}}
-{{< cta url="/portfolio/smkn-34-jakarta-online-exam" label="Dokumentasi" style="outline" >}}</p>
+Mengembangkan aplikasi ujian daring berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta guna menggantikan platform konvensional dengan sistem evaluasi yang lebih aman, terintegrasi, dan bebas kecurangan.
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/smknlogo.png" />
 {{< /gallery >}}
 
+<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi E-Learning" >}}
+{{< cta url="/portfolio/smkn-34-jakarta-online-exam" label="Dokumentasi" style="outline" >}}</p>
+
 {{< /timelineItem >}}
 
 {{< timelineItem icon="web-design" header="Destiny.Industries" badge="19 Desember 2023" >}}
 
-Proyek situs web ini dikembangkan untuk memenuhi kebutuhan masyarakat dalam berbelanja online, terutama untuk produk pakaian. Dengan adanya situs web ini, pelanggan dapat dengan mudah mencari dan membeli produk yang mereka inginkan tanpa harus pergi ke toko fisik.
-
-<p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
-{{< cta url="/portfolio/destiny-industries" label="Dokumentasi" style="outline" >}}</p>
+Situs web e-niaga (e-commerce) ini dikembangkan untuk memfasilitasi kebutuhan belanja pakaian secara daring. Platform ini dirancang untuk memudahkan pelanggan dalam mencari dan melakukan pembelian produk secara praktis tanpa harus mengunjungi toko fisik.
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/destinylogo.png" />
 {{< /gallery >}}
+
+<p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
+{{< cta url="/portfolio/destiny-industries" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
 
@@ -121,7 +134,7 @@ Proyek situs web ini dikembangkan untuk memenuhi kebutuhan masyarakat dalam berb
 
 {{< timelineItem icon="graduation-cap" header="Sarjana Komputer (S.Kom)" badge="Maret 2022 - Februari 2026" subheader="Sistem Informasi - Universitas Bina Sarana Informatika" >}}
 
-Mata kuliah terkait di bidang Manajemen Proyek dan Pemrograman Web.
+Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
 
 <p><b>{{< icon "award" >}} Tesis tentang “Implementasi Sistem Ujian Daring SMKN 34 Jakarta”.</b></p>
 
