@@ -94,7 +94,7 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 
 {{< timeline >}}
 
-{{< timelineItem icon="web-design" header="KIAT" badge="18 October 2026" >}}
+{{< timelineItem icon="web-design" header="KIAT" badge="20 October 2026" >}}
 
 Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (PT KIAT), a Strategic Subsidiary of PT ANTAM Tbk as a Nickel Ore Trading Unit.
 
@@ -103,7 +103,7 @@ Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (
 {{< /gallery >}}
 
 <p>{{< cta url="" label="Visit KIAT" >}}
-{{< cta url="" label="Documentation" style="outline" >}}</p>
+{{< cta url="/portfolio/kiat" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
 

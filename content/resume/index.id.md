@@ -94,7 +94,7 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 
 {{< timeline >}}
 
-{{< timelineItem icon="web-design" header="KIAT" badge="18 Oktober 2026" >}}
+{{< timelineItem icon="web-design" header="KIAT" badge="20 Oktober 2026" >}}
 
 Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIAT), Anak Usaha Strategis PT ANTAM Tbk sebagai Unit Perdagangan Bijih Nikel.
 
@@ -103,7 +103,7 @@ Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIA
 {{< /gallery >}}
 
 <p>{{< cta url="" label="Kunjungi KIAT" >}}
-{{< cta url="" label="Dokumentasi" style="outline" >}}</p>
+{{< cta url="/portfolio/kiat" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
 
