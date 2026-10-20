@@ -102,7 +102,7 @@ Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (
 <img class="customEntitityLogo"  src="/resume/kiat.png" />
 {{< /gallery >}}
 
-<p>{{< cta url="" label="Visit KIAT" >}}
+<p>{{< cta url="https://antamkiat.com/" label="Visit KIAT" >}}
 {{< cta url="/portfolio/kiat" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}

@@ -102,7 +102,7 @@ Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIA
 <img class="customEntitityLogo"  src="/resume/kiat.png" />
 {{< /gallery >}}
 
-<p>{{< cta url="" label="Kunjungi KIAT" >}}
+<p>{{< cta url="https://antamkiat.com/" label="Kunjungi KIAT" >}}
 {{< cta url="/portfolio/kiat" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
