@@ -51,16 +51,7 @@ Menggeluti dunia teknologi dan pengembangan perangkat Lunak. Memiliki pengalaman
 
 {{< timeline >}}
 
-{{< timelineItem icon="web-design" header="Senior Programmer" badge="Oktober 2026 - Sekarang" subheader="Nexara Tech" >}}
-
-Mengembangkan dan memelihara aplikasi web, Mengelola database, Mengoptimalkan kinerja aplikasi, dan Berkolaborasi dengan tim pengembangan untuk merancang solusi perangkat lunak yang inovatif.
-
-{{< gallery >}}
-<img class="customEntitityLogo"  src="/resume/nexara.png" />
-{{< /gallery >}}
-
-<p><a href="#" onclick="return false;" target="_blank">{{< icon "location" >}} Remote</a><br><a href="https://www.nexaratech.id/" target="_blank">{{< icon "link" >}} www.nexaratech.id</a></p>
-{{< /timelineItem >}}
+<!-- TVRI Nasional -->
 
 {{< timelineItem icon="tv" header="IT Broadcasting" badge="April 2025 - Juli 2025" subheader="TVRI Nasional" >}}
 
@@ -72,6 +63,8 @@ Membantu program acara untuk menampilkan materi, Monitoring selama pra-produksi 
 
 <p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Kota Jakarta Pusat, DKI Jakarta</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
+
+<!-- Korps Brimob Polri -->
 
 {{< timelineItem icon="police" header="Staff Administrasi" badge="Februari 2020 - Maret 2020" subheader="Korps Brimob Polri" >}}
 
@@ -94,6 +87,8 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 
 {{< timeline >}}
 
+<!-- KIAT -->
+
 {{< timelineItem icon="web-design" header="KIAT" badge="20 Oktober 2026" >}}
 
 Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIAT), Anak Usaha Strategis PT ANTAM Tbk sebagai Unit Perdagangan Bijih Nikel.
@@ -107,6 +102,8 @@ Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIA
 
 {{< /timelineItem >}}
 
+<!-- SMKN 34 Jakarta E-Learning -->
+
 {{< timelineItem icon="web-design" header="SMKN 34 Jakarta E-Learning" badge="25 Desember 2025" >}}
 
 Mengembangkan aplikasi ujian daring berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta guna menggantikan platform konvensional dengan sistem evaluasi yang lebih aman, terintegrasi, dan bebas kecurangan.
@@ -119,6 +116,8 @@ Mengembangkan aplikasi ujian daring berbasis web (Computer-Based Test) untuk SMK
 {{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
+
+<!-- Destiny.Industries -->
 
 {{< timelineItem icon="web-design" header="Destiny.Industries" badge="19 Desember 2023" >}}
 
@@ -143,6 +142,8 @@ Situs web e-niaga (e-commerce) ini dikembangkan untuk memfasilitasi kebutuhan be
 
 {{< timeline >}}
 
+<!-- Universitas Bina Sarana Informatika -->
+
 {{< timelineItem icon="graduation-cap" header="Sarjana Komputer (S.Kom)" badge="Maret 2022 - Februari 2026" subheader="Sistem Informasi - Universitas Bina Sarana Informatika" >}}
 
 Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
@@ -154,6 +155,8 @@ Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
 {{< /gallery >}}
 
 {{< /timelineItem >}}
+
+<!-- SMK Harapan Bangsa -->
 
 {{< timelineItem icon="graduation-cap" header="Teknik Komputer Jaringan" badge="Mei 2017 - Juli 2020" subheader="SMK Harapan Bangsa - Depok Jawa Barat" >}}
 

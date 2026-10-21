@@ -51,16 +51,7 @@ Passionate about the world of technology and software development. Experienced i
 
 {{< timeline >}}
 
-{{< timelineItem icon="web-design" header="Senior Programmer" badge="October 2026 - Now" subheader="Nexara Tech" >}}
-
-Developing and maintaining web applications, managing databases, optimizing application performance, and collaborating with the development team to design innovative software solutions.
-
-{{< gallery >}}
-<img class="customEntitityLogo"  src="/resume/nexara.png" />
-{{< /gallery >}}
-
-<p><a href="#" onclick="return false;" target="_blank">{{< icon "location" >}} Remote</a><br><a href="https://www.nexaratech.id/" target="_blank">{{< icon "link" >}} www.nexaratech.id</a></p>
-{{< /timelineItem >}}
+<!-- TVRI Nasional -->
 
 {{< timelineItem icon="tv" header="IT Broadcasting" badge="April 2025 - July 2025" subheader="TVRI Nasional" >}}
 
@@ -72,6 +63,8 @@ Assisted in displaying materials for broadcast programs, monitoring during pre-p
 
 <p><a href="https://maps.app.goo.gl/Lhfuc64gSLN6k7Eg6" target="_blank">{{< icon "location" >}} Central Jakarta City, DKI Jakarta</a><br><a href="https://www.tvri.go.id/" target="_blank">{{< icon "link" >}} www.tvri.go.id</a></p>
 {{< /timelineItem >}}
+
+<!-- Korps Brimob Polri -->
 
 {{< timelineItem icon="police" header="Administration Staff" badge="February 2020 - March 2020" subheader="Korps Brimob Polri" >}}
 
@@ -94,6 +87,8 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 
 {{< timeline >}}
 
+<!-- KIAT -->
+
 {{< timelineItem icon="web-design" header="KIAT" badge="20 October 2026" >}}
 
 Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (PT KIAT), a Strategic Subsidiary of PT ANTAM Tbk as a Nickel Ore Trading Unit.
@@ -107,6 +102,8 @@ Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (
 
 {{< /timelineItem >}}
 
+<!-- SMKN 34 Jakarta E-Learning -->
+
 {{< timelineItem icon="web-design" header="SMKN 34 Jakarta E-Learning" badge="25 December 2025" >}}
 
 Developing a web-based online exam application (Computer-Based Test) for SMK Negeri 34 Jakarta to replace the conventional platform with a more secure, integrated, and cheat-free evaluation system.
@@ -119,6 +116,8 @@ Developing a web-based online exam application (Computer-Based Test) for SMK Neg
 {{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
+
+<!-- Destiny.Industries -->
 
 {{< timelineItem icon="web-design" header="Destiny.Industries" badge="19 December 2023" >}}
 
@@ -143,6 +142,8 @@ This e-commerce website was developed to make online clothing shopping easier. T
 
 {{< timeline >}}
 
+<!-- Universitas Bina Sarana Informatika -->
+
 {{< timelineItem icon="graduation-cap" header="Bachelor of Computer Science (S.Kom)" badge="March 2022 - February 2026" subheader="Information Systems - Universitas Bina Sarana Informatika" >}}
 
 Graduated with a Bachelor of Computer Science (S.Kom) degree with a GPA of 3.82.
@@ -154,6 +155,8 @@ Graduated with a Bachelor of Computer Science (S.Kom) degree with a GPA of 3.82.
 {{< /gallery >}}
 
 {{< /timelineItem >}}
+
+<!-- SMKN Harapan Bangsa -->
 
 {{< timelineItem icon="graduation-cap" header="Computer Network Engineering" badge="May 2017 - July 2020" subheader="SMKN Harapan Bangsa - Depok West Java" >}}
 
