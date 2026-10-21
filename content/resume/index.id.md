@@ -102,7 +102,7 @@ Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIA
 <img class="customEntitityLogo"  src="/resume/kiat.png" />
 {{< /gallery >}}
 
-<p>{{< cta url="https://antamkiat.com/" label="Kunjungi KIAT" >}}
+<p>{{< cta url="https://antamkiat.com/" label="Kunjungi Situs" >}}
 {{< cta url="/portfolio/kiat" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
@@ -115,7 +115,7 @@ Mengembangkan aplikasi ujian daring berbasis web (Computer-Based Test) untuk SMK
 <img class="customEntitityLogo"  src="/resume/smknlogo.png" />
 {{< /gallery >}}
 
-<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi E-Learning" >}}
+<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi Situs" >}}
 {{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}

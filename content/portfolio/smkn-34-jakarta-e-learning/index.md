@@ -5,6 +5,7 @@ description: "This project is the development of a web-based online examination 
 categories: ["Portfolio"]
 tags: ["online exam", "e-learning", "web development", "codeigniter"]
 date: 2025-12-25T05:02:50+07:00
+showRelatedContent: false
 draft: false
 ---
 
@@ -48,7 +49,7 @@ Revision after revision, adding features, and fixing bugs were continuously carr
 
 This certificate of appreciation is proof that we have successfully completed and handed over the project we developed. Below is some documentation of the SMKN 34 Jakarta Online Examination project handover.
 
-[elearningsmkn34jkt.sch.id](https://elearningsmkn34jkt.sch.id/) `(Active)`
+[Visit Site](https://elearningsmkn34jkt.sch.id/)
 
 {{< gallery >}}
 <img src="docs.jpg" class="grid-w33">

@@ -5,6 +5,7 @@ description: "Proyek ini merupakan pengembangan aplikasi ujian online berbasis w
 categories: ["Portfolio"]
 tags: ["online exam", "e-learning", "web development", "codeigniter"]
 date: 2025-12-25T05:02:50+07:00
+showRelatedContent: false
 draft: false
 ---
 
@@ -48,7 +49,7 @@ Revisi demi revisi, penambahan fitur, serta perbaikan bug terus kami lakukan hin
 
 Sertifikat penghargaan ini menjadi bukti bahwa kami telah berhasil merampungkan dan menyerahkan proyek yang kami kembangkan. Berikut adalah beberapa dokumentasi penyerahan proyek Ujian Online SMKN 34 Jakarta.
 
-[elearningsmkn34jkt.sch.id](https://elearningsmkn34jkt.sch.id/) `(Aktif)`
+[Kunjungi Situs](https://elearningsmkn34jkt.sch.id/)
 
 {{< gallery >}}
 <img src="docs.jpg" class="grid-w33">

@@ -5,6 +5,7 @@ description: "PT Kawasan Industri ANTAM Timur (PT KIAT) merupakan anak usaha str
 categories: ["Portfolio"]
 tags: [""]
 date: 2026-10-20T05:02:50+07:00
+showRelatedContent: false
 draft: false
 ---
 

@@ -102,7 +102,7 @@ Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (
 <img class="customEntitityLogo"  src="/resume/kiat.png" />
 {{< /gallery >}}
 
-<p>{{< cta url="https://antamkiat.com/" label="Visit KIAT" >}}
+<p>{{< cta url="https://antamkiat.com/" label="Visit Site" >}}
 {{< cta url="/portfolio/kiat" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
@@ -115,7 +115,7 @@ Developing a web-based online exam application (Computer-Based Test) for SMK Neg
 <img class="customEntitityLogo"  src="/resume/smknlogo.png" />
 {{< /gallery >}}
 
-<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Visit E-Learning" >}}
+<p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Visit Site" >}}
 {{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
