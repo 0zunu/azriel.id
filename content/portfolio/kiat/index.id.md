@@ -14,7 +14,7 @@ Aplikasi berbasis web ini dikembangkan untuk PT Kawasan Industri ANTAM Timur (PT
 ## Tentang KIAT
 
 ![Logo KIAT](kiat.png "Logo PT Kawasan Industri ANTAM Timur (PT KIAT)")
-{style="width:50%;"}
+{style="width:25%;"}
 
 PT Kawasan Industri ANTAM Timur (PT KIAT) merupakan anak usaha strategis PT ANTAM Tbk yang diposisikan sebagai trading arms bijih nikel. Perseroan dibentuk untuk mendukung optimalisasi nilai rantai pasokan bijih nikel Nasional sejalan dengan kebijakan hilirisasi pemerintah serta arah transformasi bisnis Group MIND ID dan Group ANTAM.
 

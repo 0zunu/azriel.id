@@ -11,6 +11,9 @@ draft: false
 
 SMKN 34 Jakarta, located on Jl. Kramat Raya No. 93, Central Jakarta, is an A-accredited vocational high school (SMK) in engineering. Established in 1972, this school has produced many experts and has a strong track record of placing its graduates in leading manufacturing and engineering industries.
 
+![Logo SMKN 34 Jakarta](smknlogo.png "Logo SMKN 34 Jakarta")
+{style="width:25%;"}
+
 ## Project Summary
 
 This project is the development of a web-based online examination application (Computer-Based Test) for SMK Negeri 34 Jakarta. The goal is to replace the conventional platform to present an evaluation system that is more secure, integrated, and free from academic cheating.
@@ -35,6 +38,10 @@ We were given only 3 months to create a ready-to-use application that the school
 
 ![manageexam](kelolaujian.png "Admin Manage Exam Display")
 
+{{< button href="https://elearningsmkn34jkt.sch.id/" target="_blank" >}}
+Visit SMKN 34 Jakarta E-Learning {{< icon "arrowright" >}}
+{{< /button >}}
+
 Of course, this phase was crucial. Feedback and input from stakeholders were an integral part of the development process. We constantly strived every day to accommodate features that were not yet in the application.
 
 ![demo](demo.jpg)
@@ -48,8 +55,6 @@ Revision after revision, adding features, and fixing bugs were continuously carr
 {style="width:80%;"}
 
 This certificate of appreciation is proof that we have successfully completed and handed over the project we developed. Below is some documentation of the SMKN 34 Jakarta Online Examination project handover.
-
-[Visit Site](https://elearningsmkn34jkt.sch.id/)
 
 {{< gallery >}}
 <img src="docs.jpg" class="grid-w33">

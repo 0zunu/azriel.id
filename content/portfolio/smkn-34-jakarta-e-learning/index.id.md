@@ -11,6 +11,9 @@ draft: false
 
 SMKN 34 Jakarta, yang berlokasi di Jl. Kramat Raya No. 93, Jakarta Pusat, adalah Sekolah Menengah Kejuruan (SMK) teknik terakreditasi A. Berdiri sejak tahun 1972, sekolah ini telah meluluskan banyak tenaga ahli dan memiliki rekam jejak yang kuat dalam menyalurkan lulusannya ke industri manufaktur serta rekayasa terkemuka.
 
+![Logo SMKN 34 Jakarta](smknlogo.png "Logo SMKN 34 Jakarta")
+{style="width:25%;"}
+
 ## Ringkasan Proyek
 
 Proyek ini merupakan pengembangan aplikasi ujian online berbasis web (Computer-Based Test) untuk SMK Negeri 34 Jakarta. Tujuannya adalah menggantikan platform konvensional guna menghadirkan sistem evaluasi yang lebih aman, terintegrasi, dan bebas dari kecurangan akademik.
@@ -35,6 +38,10 @@ Kami hanya diberikan waktu selama 3 bulan untuk membuat aplikasi yang siap pakai
 
 ![kelolaujian](kelolaujian.png "tampilan Kelola Ujian Admin")
 
+{{< button href="https://elearningsmkn34jkt.sch.id/" target="_blank" >}}
+Kunjungi SMKN 34 Jakarta E-Learning {{< icon "arrowright" >}}
+{{< /button >}}
+
 Tentu saja, fase ini sangat krusial. Umpan balik dan masukan dari pihak-pihak terkait tak luput dari proses pengembangan. Kami terus berusaha setiap hari untuk mengakomodasi fitur-fitur yang belum ada pada aplikasi.
 
 ![demo](demo.jpg)
@@ -48,8 +55,6 @@ Revisi demi revisi, penambahan fitur, serta perbaikan bug terus kami lakukan hin
 {style="width:80%;"}
 
 Sertifikat penghargaan ini menjadi bukti bahwa kami telah berhasil merampungkan dan menyerahkan proyek yang kami kembangkan. Berikut adalah beberapa dokumentasi penyerahan proyek Ujian Online SMKN 34 Jakarta.
-
-[Kunjungi Situs](https://elearningsmkn34jkt.sch.id/)
 
 {{< gallery >}}
 <img src="docs.jpg" class="grid-w33">

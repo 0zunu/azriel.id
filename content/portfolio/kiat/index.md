@@ -14,7 +14,7 @@ This web application was developed for PT Kawasan Industri ANTAM Timur (PT KIAT)
 ## About KIAT
 
 ![Logo KIAT](kiat.png "Logo PT Kawasan Industri ANTAM Timur (PT KIAT)")
-{style="width:50%;"}
+{style="width:25%;"}
 
 PT Kawasan Industri ANTAM Timur (PT KIAT) is a strategic subsidiary of PT ANTAM Tbk, positioned as its nickel ore trading arm. The company was established to help optimize the national nickel ore supply chain in line with the government's downstreaming policy and the business transformation direction of MIND ID Group and ANTAM Group.
 
