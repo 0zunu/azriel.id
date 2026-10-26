@@ -51,6 +51,19 @@ Menggeluti dunia teknologi dan pengembangan perangkat Lunak. Memiliki pengalaman
 
 {{< timeline >}}
 
+<!-- Nexara Tech -->
+
+{{< timelineItem icon="web-design" header="Senior Programmer" badge="Oktober 2026 - Sekarang" subheader="Nexara Tech" >}}
+
+Mengembangkan dan memelihara aplikasi web, Mengelola database, Mengoptimalkan kinerja aplikasi, dan Berkolaborasi dengan tim pengembangan untuk merancang solusi perangkat lunak yang inovatif.
+
+{{< gallery >}}
+<img class="customEntitityLogo"  src="/resume/nexara.png" />
+{{< /gallery >}}
+
+<p><a href="#" onclick="return false;" target="_blank">{{< icon "location" >}} Remote</a><br><a href="https://www.nexaratech.id/" target="_blank">{{< icon "link" >}} www.nexaratech.id</a></p>
+{{< /timelineItem >}}
+
 <!-- TVRI Nasional -->
 
 {{< timelineItem icon="tv" header="IT Broadcasting" badge="April 2025 - Juli 2025" subheader="TVRI Nasional" >}}
