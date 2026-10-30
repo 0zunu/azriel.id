@@ -161,7 +161,7 @@ This e-commerce website was developed to make online clothing shopping easier. T
 
 Graduated with a Bachelor of Computer Science (S.Kom) degree with a GPA of 3.82.
 
-<p><b>{{< icon "award" >}} Thesis on “Implementation of the SMKN 34 Jakarta Online Examination System”.</b></p>
+<p><b>{{< icon "award" >}} Thesis on “Implementation of Online Exam Information System at SMKN 34 Jakarta”.</b></p>
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/ubsi.png" />

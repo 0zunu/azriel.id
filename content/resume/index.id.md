@@ -161,7 +161,7 @@ Situs web e-niaga (e-commerce) ini dikembangkan untuk memfasilitasi kebutuhan be
 
 Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
 
-<p><b>{{< icon "award" >}} Tesis tentang “Implementasi Sistem Ujian Daring SMKN 34 Jakarta”.</b></p>
+<p><b>{{< icon "award" >}} Tesis tentang “Implementasi Sistem Informasi Ujian Online Pada SMKN 34 Jakarta”.</b></p>
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/ubsi.png" />
