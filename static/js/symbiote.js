@@ -1,9 +1,17 @@
-document.addEventListener("DOMContentLoaded", () => {
+function initSymbiote() {
+  const existingCanvas = document.getElementById('symbiote-canvas');
+  if (existingCanvas && existingCanvas.dataset.symbioteReady === 'true') return;
+  if (existingCanvas) existingCanvas.remove();
+  const existingMark = document.getElementById('symbiote-mark');
+  if (existingMark) existingMark.remove();
+
   const mark = document.createElement('div');
+  mark.id = 'symbiote-mark';
   mark.style.cssText = "position: absolute; top: 25%; right: 5%; width: 200px; height: 50px; z-index: -1;";
   document.body.appendChild(mark);
 
   const canvas = document.createElement('canvas');
+  canvas.id = 'symbiote-canvas';
   canvas.style.cssText = "position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: 9999;";
   document.body.appendChild(canvas);
 
@@ -32,6 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const grid = document.createElement('canvas');
     grid.width = nx; grid.height = ny;
     const gridCtx = grid.getContext('2d', { willReadFrequently: true });
+    if (!gridCtx) throw new Error('Unable to create the Symbiote rendering context.');
     const image = gridCtx.createImageData(nx, ny);
     const pixels = image.data;
     const field = new Float32Array(nx * ny);
@@ -55,6 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let nextTendril = 0.4, sag = 0, sagSpeed = 0;
     let lightX = -0.55, lightY = -0.65;
     let ink = [20, 20, 20], paper = [255, 255, 255], wasDark;
+    let previousBounds = null;
 
     const lash = (time, angle, quick) => {
       if (tendrils.length >= 6) return;
@@ -238,8 +248,20 @@ document.addEventListener("DOMContentLoaded", () => {
         const x0 = Math.max(1, Math.floor(left - margin)), x1 = Math.min(nx - 1, Math.ceil(right + margin));
         const y0 = Math.max(1, Math.floor(top - margin)), y1 = Math.min(ny - 1, Math.ceil(bottom + margin));
 
-        field.fill(0);
-        
+        if (previousBounds) {
+          for (let y = previousBounds.y0; y < previousBounds.y1; y++) {
+            const start = (previousBounds.x0 + y * nx) * 4;
+            pixels.fill(0, start, start + (previousBounds.x1 - previousBounds.x0) * 4);
+          }
+        }
+
+        previousBounds = x0 < x1 && y0 < y1 ? { x0, x1, y0, y1 } : null;
+        if (previousBounds) {
+          for (let y = y0 - 1; y <= y1; y++) {
+            field.fill(0, y * nx + x0 - 1, y * nx + x1 + 1);
+          }
+        }
+
         for (let y = y0 - 1; y <= y1; y++) {
           for (let x = x0 - 1; x <= x1; x++) {
             const X = x + 0.5, Y = y + 0.5;
@@ -271,7 +293,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const toward = (amount) => ink.map((c, k) => c + (paper[k] - c) * amount);
         const mid = toward(0.35), glint = toward(0.95);
 
-        pixels.fill(0);
         for (let y = y0; y < y1; y++) {
           for (let x = x0; x < x1; x++) {
             const at = x + y * nx;
@@ -295,14 +316,18 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   const resizeCanvas = () => { canvas.width = window.innerWidth; canvas.height = window.innerHeight; };
-  window.addEventListener('resize', resizeCanvas);
   resizeCanvas();
 
   const ctx = canvas.getContext('2d');
+  if (!ctx) throw new Error('Unable to create the Symbiote canvas context.');
   let currentInst = symbiote(canvas, mark);
   let pointer = null; 
   let lastTime = performance.now();
   let lastScroll = window.scrollY;
+  let animationFrame = null;
+  let resizeFrame = null;
+  const frameInterval = 1000 / 30;
+  let lastRenderTime = lastTime - frameInterval;
 
   window.addEventListener('mousemove', (e) => { 
     pointer = { x: e.clientX, y: e.clientY }; 
@@ -313,8 +338,16 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   function animate(currentTime) {
+    animationFrame = null;
+    if (document.hidden) return;
+    if (currentTime - lastRenderTime < frameInterval) {
+      scheduleAnimation();
+      return;
+    }
+
     const delta = (currentTime - lastTime) / 1000;
     lastTime = currentTime;
+    lastRenderTime = currentTime;
     const isDark = document.documentElement.classList.contains('dark');
     
     const currentScroll = window.scrollY;
@@ -329,9 +362,63 @@ document.addEventListener("DOMContentLoaded", () => {
       pointer: pointer, width: canvas.width, height: canvas.height
     });
 
-    requestAnimationFrame(animate);
+    scheduleAnimation();
   }
-  
-  window.addEventListener('resize', () => { currentInst = symbiote(canvas, mark); });
-  requestAnimationFrame(animate);
-});
+
+  function scheduleAnimation() {
+    if (!document.hidden && animationFrame === null) {
+      animationFrame = requestAnimationFrame(animate);
+    }
+  }
+
+  function pauseAnimation() {
+    if (animationFrame !== null) {
+      cancelAnimationFrame(animationFrame);
+      animationFrame = null;
+    }
+  }
+
+  window.addEventListener('resize', () => {
+    if (resizeFrame !== null) return;
+    resizeFrame = requestAnimationFrame(() => {
+      resizeFrame = null;
+      resizeCanvas();
+      currentInst = symbiote(canvas, mark);
+    });
+  });
+
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) {
+      pauseAnimation();
+      return;
+    }
+    lastTime = performance.now();
+    lastRenderTime = lastTime - frameInterval;
+    lastScroll = window.scrollY;
+    scheduleAnimation();
+  });
+
+  window.addEventListener('pagehide', pauseAnimation);
+  window.addEventListener('pageshow', () => {
+    lastTime = performance.now();
+    lastRenderTime = lastTime - frameInterval;
+    lastScroll = window.scrollY;
+    scheduleAnimation();
+  });
+
+  canvas.dataset.symbioteReady = 'true';
+  scheduleAnimation();
+}
+
+function startSymbiote() {
+  if (document.body) initSymbiote();
+}
+
+window.addEventListener('load', startSymbiote, { once: true });
+window.addEventListener('pageshow', startSymbiote);
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', startSymbiote, { once: true });
+} else {
+  startSymbiote();
+}
