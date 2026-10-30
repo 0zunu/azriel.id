@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -111,6 +111,7 @@ Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIA
 {{< /gallery >}}
 
 <p>{{< cta url="https://antamkiat.com/" label="Kunjungi Situs" >}}
+&nbsp;
 {{< cta url="/portfolio/kiat" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
@@ -126,6 +127,7 @@ Mengembangkan aplikasi ujian daring berbasis web (Computer-Based Test) untuk SMK
 {{< /gallery >}}
 
 <p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Kunjungi Situs" >}}
+&nbsp;
 {{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}
@@ -141,6 +143,7 @@ Situs web e-niaga (e-commerce) ini dikembangkan untuk memfasilitasi kebutuhan be
 {{< /gallery >}}
 
 <p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
+&nbsp;
 {{< cta url="/portfolio/destiny-industries" label="Dokumentasi" style="outline" >}}</p>
 
 {{< /timelineItem >}}

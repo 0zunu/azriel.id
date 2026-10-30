@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-30
+lastmod: 2026-10-31
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -111,6 +111,7 @@ Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (
 {{< /gallery >}}
 
 <p>{{< cta url="https://antamkiat.com/" label="Visit Site" >}}
+&nbsp;
 {{< cta url="/portfolio/kiat" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
@@ -126,6 +127,7 @@ Developing a web-based online exam application (Computer-Based Test) for SMK Neg
 {{< /gallery >}}
 
 <p>{{< cta url="https://elearningsmkn34jkt.sch.id/" label="Visit Site" >}}
+&nbsp;
 {{< cta url="/portfolio/smkn-34-jakarta-e-learning" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
@@ -141,6 +143,7 @@ This e-commerce website was developed to make online clothing shopping easier. T
 {{< /gallery >}}
 
 <p>{{< cta url="https://github.com/0zunu/Destiny.Industries" label="Github" style="outline" >}}
+&nbsp;
 {{< cta url="/portfolio/destiny-industries" label="Documentation" style="outline" >}}</p>
 
 {{< /timelineItem >}}
