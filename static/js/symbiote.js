@@ -312,14 +312,19 @@ function initSymbiote() {
           for (let x = x0 - 1; x <= x1; x++) {
             const X = x + 0.5, Y = y + 0.5;
             let sum = 0;
-            for (const [bx, by, rr] of balls) {
+            for (let k = 0; k < balls.length; k++) {
+              const ball = balls[k], bx = ball[0], by = ball[1], rr = ball[2];
               const dx = X - bx, dy = Y - by; sum += rr / (dx * dx + dy * dy + 0.01);
             }
-            for (const [k, chain] of segments.entries()) {
-              const [l, r, t, b] = bounds[k];
+            for (let k = 0; k < segments.length; k++) {
+              const chain = segments[k], bound = bounds[k];
+              const l = bound[0], r = bound[1], t = bound[2], b = bound[3];
               if (X < l || X > r || Y < t || Y > b) continue;
               let most = 0;
-              for (const [ax, ay, vx, vy, vv, rr] of chain) {
+              for (let j = 0; j < chain.length; j++) {
+                const segment = chain[j];
+                const ax = segment[0], ay = segment[1], vx = segment[2];
+                const vy = segment[3], vv = segment[4], rr = segment[5];
                 const h = clamp(((X - ax) * vx + (Y - ay) * vy) / vv, 0, 1);
                 const dx = X - ax - vx * h, dy = Y - ay - vy * h;
                 most = Math.max(most, rr / (dx * dx + dy * dy + 0.01));
