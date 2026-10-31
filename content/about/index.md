@@ -35,7 +35,7 @@ showShareLinks: false
 
 **{{< icon "coffee" >}}**&nbsp; I am one of two siblings. I used to think that I liked sports, but now I realize that I only like the idea of working out. However, I really like music, and playing games is one of my biggest interests.
 
-<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
 
 ## Random Thoughts
 

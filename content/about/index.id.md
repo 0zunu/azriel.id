@@ -35,7 +35,7 @@ showShareLinks: false
 
 **{{< icon "coffee" >}}**&nbsp; Saya merupakan salah satu dari dua bersaudara. Dulu, saya mengira bahwa saya menyukai olahraga, tetapi sekarang saya menyadari bahwa saya hanya menyukai bayangan tentang berolahraga. Namun, saya sangat menyukai musik, dan bermain game adalah salah satu minat terbesar saya.
 
-<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
 
 ## Pikiran Acak
 
