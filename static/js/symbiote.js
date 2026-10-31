@@ -12,8 +12,14 @@ function initSymbiote() {
 
   const canvas = document.createElement('canvas');
   canvas.id = 'symbiote-canvas';
-  canvas.style.cssText = "position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: 9999;";
-  document.body.appendChild(canvas);
+  const backgroundLayer = document.getElementById('particles-js');
+  if (backgroundLayer) {
+    canvas.style.cssText = "position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: -1;";
+    backgroundLayer.insertAdjacentElement('afterend', canvas);
+  } else {
+    canvas.style.cssText = "position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: -1;";
+    document.body.appendChild(canvas);
+  }
 
   const clamp = (x, low, high) => Math.max(low, Math.min(high, x));
   const random = () => Math.random();
