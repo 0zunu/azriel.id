@@ -7,7 +7,19 @@ function initSymbiote() {
 
   const mark = document.createElement('div');
   mark.id = 'symbiote-mark';
-  mark.style.cssText = "position: absolute; top: 25%; right: 5%; width: 200px; height: 50px; z-index: -1;";
+  let position;
+  try {
+    position = JSON.parse(sessionStorage.getItem('symbiote-position'));
+    if (!position || !Number.isFinite(position.x) || !Number.isFinite(position.y)) {
+      position = { x: Math.random(), y: Math.random() };
+      sessionStorage.setItem('symbiote-position', JSON.stringify(position));
+    }
+  } catch {
+    position = { x: Math.random(), y: Math.random() };
+  }
+  const markLeft = position.x * Math.max(0, window.innerWidth - 200);
+  const markTop = position.y * Math.max(0, window.innerHeight - 50);
+  mark.style.cssText = `position: absolute; top: ${markTop + window.scrollY}px; left: ${markLeft + window.scrollX}px; width: 200px; height: 50px; z-index: -1;`;
   document.body.appendChild(mark);
 
   const canvas = document.createElement('canvas');
@@ -22,7 +34,6 @@ function initSymbiote() {
   }
 
   const clamp = (x, low, high) => Math.max(low, Math.min(high, x));
-  const random = () => Math.random();
   
   function creep(point, x, y, step) {
     const dx = x - point.x; const dy = y - point.y;
@@ -35,7 +46,31 @@ function initSymbiote() {
   const BODY = [0.17, 0.16, 0.14, 0.11, 0.09];
   const LEGS = 6, REACH = 0.6, VEINS = 40, VEIN_STEP = 0.11;
 
-  function symbiote(canvas, mark) {
+  let savedState = null;
+  try {
+    const storedState = JSON.parse(sessionStorage.getItem('symbiote-state'));
+    if (
+      storedState &&
+      Array.isArray(storedState.body) && storedState.body.length === BODY.length &&
+      Array.isArray(storedState.legs) && storedState.legs.length === LEGS &&
+      Array.isArray(storedState.veins) && Array.isArray(storedState.tendrils) &&
+      Array.isArray(storedState.turning) && storedState.turning.length === 6 &&
+      Number.isFinite(storedState.time) && Number.isFinite(storedState.savedAt) &&
+      Number.isInteger(storedState.randomState)
+    ) savedState = storedState;
+  } catch {}
+
+  let randomState = savedState?.randomState ?? Math.floor(Math.random() * 0x100000000);
+  const random = () => {
+    randomState = (Math.imul(1664525, randomState) + 1013904223) >>> 0;
+    return randomState / 0x100000000;
+  };
+  let simulationTime = savedState?.time ?? 0;
+  const simulationOffset = savedState
+    ? savedState.time + Math.max(0, (Date.now() - savedState.savedAt) / 1000) - performance.now() / 1000
+    : 0;
+
+  function symbiote(canvas, mark, state = savedState) {
     const next = random;
     const unit = canvas.width / (canvas.clientWidth || 1);
     const width = 100; 
@@ -52,23 +87,25 @@ function initSymbiote() {
     const field = new Float32Array(nx * ny);
     const span = width / cell;
 
-    const body = BODY.map(() => ({ x: 0, y: 0 }));
+    const body = state ? state.body.map((point) => ({ ...point })) : BODY.map(() => ({ x: 0, y: 0 }));
     const head = body[0];
-    const legs = Array.from({ length: LEGS }, (_, k) => {
+    const legs = state ? state.legs.map((leg) => ({ ...leg })) : Array.from({ length: LEGS }, (_, k) => {
       const angle = (k / LEGS) * Math.PI * 2;
       const x = Math.cos(angle) * 0.35, y = Math.sin(angle) * 0.35;
       return { x, y, fromX: x, fromY: y, toX: x, toY: y, lift: 1 };
     });
     
-    const veins = [], tendrils = [];
-    let heading = 0, moving = 0, lastVein = { x: 0, y: 0 };
-    const turning = Array.from({ length: 6 }, (_, k) => ({
+    const veins = state ? state.veins : [], tendrils = state ? state.tendrils : [];
+    let heading = state?.heading ?? 0, moving = state?.moving ?? 0;
+    let lastVein = state?.lastVein ?? { x: 0, y: 0 };
+    const turning = state ? state.turning : Array.from({ length: 6 }, (_, k) => ({
       orbit: 0.15 + next() * 0.08, r: 0.08 + next() * 0.045,
       phase: (k / 6) * Math.PI * 2 + next(), speed: (0.25 + next() * 0.2) * (k % 2 ? -1 : 1),
     }));
     
-    let nextTendril = 0.4, sag = 0, sagSpeed = 0;
-    let lightX = -0.55, lightY = -0.65;
+    let nextTendril = state?.nextTendril ?? 0.4;
+    let sag = state?.sag ?? 0, sagSpeed = state?.sagSpeed ?? 0;
+    let lightX = state?.lightX ?? -0.55, lightY = state?.lightY ?? -0.65;
     let ink = [20, 20, 20], paper = [255, 255, 255], wasDark;
     let previousBounds = null;
 
@@ -96,6 +133,9 @@ function initSymbiote() {
     };
 
     return {
+      snapshot() {
+        return { body, legs, veins, tendrils, heading, moving, lastVein, turning, nextTendril, sag, sagSpeed, lightX, lightY };
+      },
       frame(f) {
         const { ctx, time, delta, dark, scroll } = f;
         const step = Math.min(delta * 60, 3);
@@ -362,8 +402,9 @@ function initSymbiote() {
 
     const originRect = mark.getBoundingClientRect();
 
+    simulationTime = currentTime / 1000 + simulationOffset;
     currentInst.frame({
-      ctx: ctx, time: currentTime / 1000, delta: Math.min(delta, 0.1), dark: isDark, scroll: scrollDelta,
+      ctx: ctx, time: simulationTime, delta: Math.min(delta, 0.1), dark: isDark, scroll: scrollDelta,
       origin: { x: originRect.left + originRect.width/2, y: originRect.top + originRect.height/2 },
       pointer: pointer, width: canvas.width, height: canvas.height
     });
@@ -389,7 +430,7 @@ function initSymbiote() {
     resizeFrame = requestAnimationFrame(() => {
       resizeFrame = null;
       resizeCanvas();
-      currentInst = symbiote(canvas, mark);
+      currentInst = symbiote(canvas, mark, currentInst.snapshot());
     });
   });
 
@@ -404,7 +445,14 @@ function initSymbiote() {
     scheduleAnimation();
   });
 
-  window.addEventListener('pagehide', pauseAnimation);
+  window.addEventListener('pagehide', () => {
+    pauseAnimation();
+    try {
+      sessionStorage.setItem('symbiote-state', JSON.stringify({
+        ...currentInst.snapshot(), randomState, time: simulationTime, savedAt: Date.now(),
+      }));
+    } catch {}
+  });
   window.addEventListener('pageshow', () => {
     lastTime = performance.now();
     lastRenderTime = lastTime - frameInterval;
