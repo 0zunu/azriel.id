@@ -261,6 +261,6 @@ Anda dapat melihat resume saya di FlowCV atau langsung mengunduh file PDF-nya.
 {{< icon "link-square" >}} Flow CV
 {{< /button >}}
 &nbsp;&nbsp;
-{{< button href="/resume/CV_Azriel_Fidzlie_id.pdf" target="_blank" >}}
+{{< button href="https://resume.azriel.id" target="_blank" >}}
 {{< icon "pdf" >}} Unduh
 {{< /button >}}

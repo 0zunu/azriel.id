@@ -261,6 +261,6 @@ You can view my resume on FlowCV or directly download the PDF file.
 {{< icon "link-square" >}} Flow CV
 {{< /button >}}
 &nbsp;&nbsp;
-{{< button href="/resume/CV_Azriel_Fidzlie.pdf" target="_blank" >}}
+{{< button href="https://resume.azriel.id" target="_blank" >}}
 {{< icon "pdf" >}} Download
 {{< /button >}}
