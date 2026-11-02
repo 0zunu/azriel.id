@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-31
+lastmod: 2026-11-02
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -53,7 +53,7 @@ Passionate about the world of technology and software development. Experienced i
 
 <!-- Nexara Tech -->
 
-{{< timelineItem icon="web-design" header="Senior Programmer" badge="October 2026 - Now" subheader="Nexara Tech" >}}
+{{< timelineItem icon="web-design" header="Web Developer" badge="October 2026 - Now" subheader="Nexara Tech" >}}
 
 Developing and maintaining web applications, managing databases, optimizing application performance, and collaborating with the development team to design innovative software solutions.
 
@@ -104,7 +104,7 @@ Performed hardware maintenance, created letter numbering, drafted zebra operatio
 
 {{< timelineItem icon="web-design" header="KIAT" badge="20 October 2026" >}}
 
-Development of the Company Profile Website for PT Kawasan Industri ANTAM Timur (PT KIAT), a Strategic Subsidiary of PT ANTAM Tbk as a Nickel Ore Trading Unit.
+Developing the Company Profile Website for PT Kawasan Industri ANTAM Timur (PT KIAT), a Strategic Subsidiary of PT ANTAM Tbk as a Nickel Ore Trading Unit.
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/kiat.png" />

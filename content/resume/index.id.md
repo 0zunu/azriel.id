@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-10-31
+lastmod: 2026-11-02
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -53,7 +53,7 @@ Menggeluti dunia teknologi dan pengembangan perangkat Lunak. Memiliki pengalaman
 
 <!-- Nexara Tech -->
 
-{{< timelineItem icon="web-design" header="Senior Programmer" badge="Oktober 2026 - Sekarang" subheader="Nexara Tech" >}}
+{{< timelineItem icon="web-design" header="Web Developer" badge="Oktober 2026 - Sekarang" subheader="Nexara Tech" >}}
 
 Mengembangkan dan memelihara aplikasi web, Mengelola database, Mengoptimalkan kinerja aplikasi, dan Berkolaborasi dengan tim pengembangan untuk merancang solusi perangkat lunak yang inovatif.
 
@@ -104,7 +104,7 @@ Melakukan pemeliharaan perangkat keras, Membuat Penomoran surat, Membuat surat t
 
 {{< timelineItem icon="web-design" header="KIAT" badge="20 Oktober 2026" >}}
 
-Pengembangan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIAT), Anak Usaha Strategis PT ANTAM Tbk sebagai Unit Perdagangan Bijih Nikel.
+Mengembangkan Situs Web Profil Perusahaan PT Kawasan Industri ANTAM Timur (PT KIAT), Anak Usaha Strategis PT ANTAM Tbk sebagai Unit Perdagangan Bijih Nikel.
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/kiat.png" />
