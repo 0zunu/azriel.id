@@ -10,7 +10,7 @@ title: "Azriel Fidzlie, S.Kom"
     <div class="text-2xl sm:text-lg">
       <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
         <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://facebook.com/ulee.undead" target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "facebook" >}}</a>
-        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://twitter.com/0zunu_" target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "x-twitter" >}}</a>
+        <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://x.com/0zunu_" target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "twitter" >}}</a>
         <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://instagram.com/mas.ulee" target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "instagram" >}}</a>
         <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://www.youtube.com/@O_zunu/" target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "youtube" >}}</a>
         <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" href="https://github.com/0zunu" target="_blank" aria-label="{{ $name | title }}" rel="me noopener noreferrer">{{< icon "github" >}}</a>

@@ -29,13 +29,15 @@ showShareLinks: false
 
 ## Profile
 
-**{{< icon "location" >}}**&nbsp; I was born and raised in **[Jakarta, Indonesia](https://youtu.be/uwkLdqUOrxE?si=-3AwOzt70moYVfjP)**. Jakarta is located in the province of DKI Jakarta, Indonesia, and is famous for its rich history, including being the capital of Sunda Kelapa and the central port of the Padjadjaran kingdom. I hope to meet you in my hometown.
+**{{< icon "location" >}}**&nbsp; I was born and raised in **[Jakarta, Indonesia](https://youtu.be/uwkLdqUOrxE?si=-3AwOzt70moYVfjP)**. Located in the Special Capital Region of Jakarta, the city is known for its rich history, including its early role as the port of Sunda Kelapa and a trading center for the Pajajaran Kingdom. I hope to welcome you to my hometown someday.
 
-**{{< icon "source-code" >}}**&nbsp; Currently, I work as a freelancer in web development, focusing on front-end and back-end development using [HTML](https://www.w3schools.com/Html/), [PHP](https://www.php.net/), [CSS](https://www.w3schools.com/css/), and [JavaScript](https://www.javascript.com/).
+**{{< icon "coffee" >}}**&nbsp; I currently work as a freelance web developer, focusing on front-end and back-end development using [PHP](https://www.php.net/), [HTML](https://www.w3schools.com/Html/), [CSS](https://www.w3schools.com/css/), and [JavaScript](https://www.javascript.com/).
 
-**{{< icon "coffee" >}}**&nbsp; I am one of two siblings. I used to think that I liked sports, but now I realize that I only like the idea of working out. However, I really like music, and playing games is one of my biggest interests.
+**{{< icon "source-code" >}}**&nbsp; I started delving into the world of programming since 2020. It almost became an obsession. Not really, but I really enjoy it.
 
-<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+**{{< icon "favourite" >}}**&nbsp; I am the older sibling in a family of 2 children. I used to think I enjoyed sports, but now I realize I only liked the idea of enjoying sports. I do, however, love music, and gaming is one of my greatest interests.
+
+<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
 
 ## Random Thoughts
 

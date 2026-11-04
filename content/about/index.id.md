@@ -29,15 +29,17 @@ showShareLinks: false
 
 ## Profil
 
-**{{< icon "location" >}}**&nbsp; Saya lahir dan besar di **[Jakarta Indonesia](https://youtu.be/uwkLdqUOrxE?si=-3AwOzt70moYVfjP)**, Jakarta terletak di provinsi DKI Jakarta, Indonesia, dan terkenal dengan sejarahnya yang kaya, termasuk sebagai ibu kota Sunda Kalapa dan sebagai pusat pelabuhan kerajaan Padjadjaran. Saya berharap dapat bertemu Anda di kampung halaman saya.
+**{{< icon "location" >}}**&nbsp; Saya lahir dan besar di **[Jakarta, Indonesia](https://youtu.be/uwkLdqUOrxE?si=-3AwOzt70moYVfjP)**. Kota yang terletak di Provinsi DKI Jakarta ini terkenal dengan sejarahnya yang kaya, termasuk peran awalnya sebagai pelabuhan Sunda Kelapa dan pusat perdagangan Kerajaan Pajajaran. Saya berharap suatu saat dapat menyambut Anda di kampung halaman saya.
 
-**{{< icon "source-code" >}}**&nbsp; Saat ini saya bekerja sebagai freelancer dibidang web development, dengan fokus pada pengembangan front-end dan back-end menggunakan [HTML](https://www.w3schools.com/Html/), [PHP](https://www.php.net/), [CSS](https://www.w3schools.com/css/), dan [JavaScript](https://www.javascript.com/).
+**{{< icon "coffee" >}}**&nbsp; Saat ini, saya bekerja sebagai _freelancer_ di bidang _web development_, dengan fokus pada pengembangan _front-end_ dan _back-end_ menggunakan [PHP](https://www.php.net/), [HTML](https://www.w3schools.com/Html/), [CSS](https://www.w3schools.com/css/), dan [JavaScript](https://www.javascript.com/).
 
-**{{< icon "coffee" >}}**&nbsp; Saya merupakan salah satu dari dua bersaudara. Dulu, saya mengira bahwa saya menyukai olahraga, tetapi sekarang saya menyadari bahwa saya hanya menyukai bayangan tentang berolahraga. Namun, saya sangat menyukai musik, dan bermain game adalah salah satu minat terbesar saya.
+**{{< icon "source-code" >}}**&nbsp; Saya mulai mendalami dunia pemrograman sejak tahun 2020, Itu hampir menjadi obsesi. Tidak juga, tapi saya sangat menikmatinya.
 
-<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+**{{< icon "favourite" >}}**&nbsp; Saya merupakan kakak dari 2 bersaudara. Dulu, saya mengira bahwa saya menyukai olahraga, tetapi sekarang saya tahu saya hanya menyukai gagasan menyukai olahraga. Namun, saya sangat menyukai musik, dan bermain game adalah salah satu minat terbesar saya.
 
-## Pikiran Acak
+<img title="💽 Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w7gwusryjcgatpheimipv3fqu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+
+## Pemikiran Acak
 
 > "Saya sedang berada di Depok dan melihat sesosok pria berbaju putih di malam hari ketika hendak pulang. Saya bertanya kepada sosok berbaju putih tersebut, “Apakah kamu penunggu di sini?” Dia tidak mengatakan sepatah kata pun. Karena canggung, saya pun pamit untuk melanjutkan perjalanan. Namun, saat saya menoleh ke belakang, pria berbaju putih tersebut sudah menghilang. Menyeramkan." [{{< icon "facebook" >}} Azriel Fidzlie](https://www.facebook.com/ulee.undead/)
 

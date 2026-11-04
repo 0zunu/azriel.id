@@ -81,6 +81,12 @@
 # =====================Others======================
 
 [[main]]
+  pre = "tools"
+  name = "Tools"
+  weight = 55
+  url = "https://tools.azriel.id"
+
+[[main]]
   pre = "option"
   name = "Others"
   weight = 60
@@ -111,7 +117,7 @@
 [[main]]
   identifier = "twitter"
   pre = "twitter"
-  url = "https://twitter.com/0zunu_"
+  url = "https://x.com/0zunu_"
   weight = 70
 
 # -- Footer Menu --

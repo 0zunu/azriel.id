@@ -1,5 +1,5 @@
 ---
-title: "Lampiran"
+title: "Resume"
 draft: false
 description: "Resume saya yang mencakup pengalaman kerja, proyek, sertifikat, dan informasi lainnya yang relevan dengan karier saya."
 type: "page"
@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-02
+lastmod: 2026-11-04
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -178,8 +178,6 @@ Lulus dengan gelar Sarjana Komputer (S.Kom) dengan IPK 3,82.
 
 Lulus dengan keahlian Cisco Packet Tracer dan MikroTik.
 
-<p><b>{{< icon "award" >}} Sertifikat PKL (Praktek Kerja Lapangan sebagai Staff Administrasi di Korps Brimob Resimen III).</b></p>
-
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/hb.png" />
 {{< /gallery >}}
@@ -235,15 +233,6 @@ Sertifikat kompetensi sebagai Analis Program (Program Analyst) oleh Badan Nasion
 Sertifikat Profisiensi Pengetahuan di bidang Database Systems dari Ikatan Ahli Informatika Indonesia (IAII) dengan predikat Proficient.
 
 <iframe src="/resume/Sertifikat_IAII.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-{{< /accordionItem >}}
-
-{{< accordionItem title="Sertifikat Praktek Kerja Industri (PRAKERIN) Pendidikan Sistem Ganda (PSG)"  icon="award" md=false >}}
-
-Sertifikat Praktek Kerja Industri (PRAKERIN) Pendidikan Sistem Ganda (PSG) yang diperoleh saat melakukan praktek kerja industri di Korps Brimob Resimen III pada bulan Februari 2020 hingga Maret 2020.
-
-{{< gallery >}}
-<img src="/resume/sertifikat-pkl-brimob.jpg" class="grid-w50 md:grid-w33 xl:grid-w50" style="width: 50%;"/>
-{{< /gallery >}}
 {{< /accordionItem >}}
 
 {{< /accordion >}}

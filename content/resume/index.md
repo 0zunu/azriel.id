@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-02
+lastmod: 2026-11-04
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -178,8 +178,6 @@ Graduated with a Bachelor of Computer Science (S.Kom) degree with a GPA of 3.82.
 
 Graduated with skills in Cisco Packet Tracer and MikroTik.
 
-<p><b>{{< icon "award" >}} Internship Certificate (Field Work Practice as Administration Staff at Korps Brimob Regiment III).</b></p>
-
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/hb.png" />
 {{< /gallery >}}
@@ -235,15 +233,6 @@ Competency certificate as a Program Analyst from the National Professional Certi
 Certificate of Knowledge Proficiency in Database Systems from the Indonesian Informatics Experts Association (IAII) with a Proficient rating.
 
 <iframe src="/resume/Sertifikat_IAII.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-{{< /accordionItem >}}
-
-{{< accordionItem title="Industrial Work Practice Certificate (PRAKERIN) Dual System Education (PSG)"  icon="award" md=false >}}
-
-Industrial Work Practice Certificate (PRAKERIN) Dual System Education (PSG) obtained during industrial work practice at Korps Brimob Regiment III from February 2020 to March 2020.
-
-{{< gallery >}}
-<img src="/resume/sertifikat-pkl-brimob.jpg" class="grid-w50 md:grid-w33 xl:grid-w50" style="width: 50%;"/>
-{{< /gallery >}}
 {{< /accordionItem >}}
 
 {{< /accordion >}}
