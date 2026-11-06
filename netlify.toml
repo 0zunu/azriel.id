@@ -6,3 +6,7 @@
 HUGO_VERSION = "0.165.0"
 HUGO_THEMESDIR = "themes"
 HUGO_THEME = "blowfish"
+# The Firebase web config (apiKey etc.) in params.toml is public client-side
+# config that Blowfish renders into every page, so it is not a secret.
+# The theme's exampleSite is never built or deployed.
+SECRETS_SCAN_OMIT_PATHS = "config/_default/params.toml,themes/blowfish/exampleSite/**"
