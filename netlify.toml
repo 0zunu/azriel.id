@@ -6,3 +6,4 @@
 HUGO_VERSION = "0.165.0"
 HUGO_THEMESDIR = "themes"
 HUGO_THEME = "blowfish"
+SECRETS_SCAN_OMIT_PATHS = "config/_default/params.toml,themes/blowfish/exampleSite/**"
