@@ -27,7 +27,7 @@ showShareLinks: false
 
 Koleksi jepretan foto yang diambil secara random, sebagai media penyalur hobi fotografi.
 
-## Jakarta 2027
+## 2027
 
 {{< gallery >}}
 

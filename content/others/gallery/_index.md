@@ -27,7 +27,7 @@ showShareLinks: false
 
 A collection of photos taken randomly, as a medium for channeling a photography hobby.
 
-## Jakarta 2027
+## 2027
 
 {{< gallery >}}
 
