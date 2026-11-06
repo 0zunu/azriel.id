@@ -27,6 +27,8 @@ showShareLinks: false
 
 A collection of photos taken randomly, as a medium for channeling a photography hobby.
 
+## Jakarta 2027
+
 {{< gallery >}}
 
 {{< figure src="/photos/coffee.jpeg" caption="Coffee" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}

@@ -27,6 +27,8 @@ showShareLinks: false
 
 Koleksi jepretan foto yang diambil secara random, sebagai media penyalur hobi fotografi.
 
+## Jakarta 2027
+
 {{< gallery >}}
 
 {{< figure src="/photos/coffee.jpeg" caption="Kopi" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
