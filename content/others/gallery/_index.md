@@ -1,12 +1,13 @@
 ---
 title: "Gallery"
 draft: false
+summary: "A collection of photos taken randomly, as a medium for channeling a photography hobby."
 description: "A collection of photos taken randomly, as a medium for channeling a photography hobby."
 layout: simple
 layoutBackgroundHeaderSpace: false
 showViews: true
 showLikes: false
-showSummary: false
+showSummary: true
 sharingLinks: false
 showTaxonomies: false
 showWordCount: false
@@ -17,9 +18,9 @@ showHeadingAnchors: false
 showPagination: false
 showReadingTime: false
 showRelatedContent: false
-showTableOfContents: true
+showTableOfContents: false
 showRelated: false
-showAuthor: true
+showAuthor: false
 showDate: false
 showShareLinks: false
 ---
@@ -32,5 +33,6 @@ A collection of photos taken randomly, as a medium for channeling a photography 
 {{< figure src="/photos/tower.jpeg" caption="Tower" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
 {{< figure src="/photos/gedung.jpeg" caption="Building" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
 {{< figure src="/photos/moon.jpeg" caption="Moon" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
+{{< figure src="/photos/apartment.jpg" caption="Apartment" figureClass="grid-w50 md:grid-w33 xl:grid-w25" >}}
 
 {{< /gallery >}}
