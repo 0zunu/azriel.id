@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-04
+lastmod: 2026-11-05
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -225,7 +225,7 @@ Sertifikat Workshop dan berhasil menyelesaikan Uji Kompetensi ERP yang diselengg
 
 Sertifikat kompetensi sebagai Analis Program (Program Analyst) oleh Badan Nasional Sertifikasi Profesi (BNSP) di bidang Pengembangan Perangkat Lunak.
 
-<iframe src="/resume/sertifikat_kompetensi.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/resume/Sertifikat_Program_Analyst.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 {{< /accordionItem >}}
 
 {{< accordionItem title="Sertifikat Kemahiran Pengetahuan Sistem Basis Data"  icon="award" md=false >}}

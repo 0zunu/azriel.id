@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-04
+lastmod: 2026-11-05
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -225,7 +225,7 @@ Workshop certificate and successfully completed the ERP Competency Test organize
 
 Competency certificate as a Program Analyst from the National Professional Certification Board (BNSP) in the field of Software Development.
 
-<iframe src="/resume/sertifikat_kompetensi.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/resume/Sertifikat_Program_Analyst.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 {{< /accordionItem >}}
 
 {{< accordionItem title="Database System Knowledge Proficiency Certificate"  icon="award" md=false >}}
