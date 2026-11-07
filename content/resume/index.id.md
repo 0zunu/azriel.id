@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-05
+lastmod: 2026-11-07
 showComments: false
 showHeadingAnchors: false
 showPagination: false

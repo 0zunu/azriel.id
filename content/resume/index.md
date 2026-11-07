@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-05
+lastmod: 2026-11-07
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -53,7 +53,7 @@ Passionate about the world of technology and software development. Experienced i
 
 <!-- Nexara Tech -->
 
-{{< timelineItem icon="web-design" header="Web Developer" badge="October 2026 - Now" subheader="Nexara Tech" >}}
+{{< timelineItem icon="web-design" header="Web Developer" badge="October 2026 - Present" subheader="Nexara Tech" >}}
 
 Developing and maintaining web applications, managing databases, optimizing application performance, and collaborating with the development team to design innovative software solutions.
 
