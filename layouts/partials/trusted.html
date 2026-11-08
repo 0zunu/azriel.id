@@ -1,0 +1,68 @@
+{{ $clientImages := resources.Match "images/clients/*.webp" }}
+{{ if $clientImages }}
+<section class="mt-6 mb-10 w-full" aria-labelledby="trusted-heading">
+
+  {{ if eq (len $clientImages) 1 }}
+    <div class="w-full pb-4">
+      {{ range $clientImages }}
+        <img
+          src="{{ .RelPermalink }}"
+          alt="Client"
+          class="mx-auto block h-12 w-auto select-none object-contain brightness-0 dark:invert"
+          draggable="false" />
+      {{ end }}
+    </div>
+  {{ else }}
+    <div
+      id="client-swiper"
+      class="cursor-grab overflow-x-auto pb-4 active:cursor-grabbing touch-pan-x"
+      role="region"
+      aria-label="Client logos"
+      tabindex="0"
+      style="scrollbar-width: none;">
+      <div class="flex w-max min-w-full justify-center">
+        <div data-client-group class="flex flex-none items-center gap-64 pr-20">
+          {{ range $index, $clientImage := $clientImages }}
+            <div class="flex h-16 flex-none items-center justify-center px-3">
+              <img
+                src="{{ $clientImage.RelPermalink }}"
+                alt="Client {{ add $index 1 }}"
+                class="h-12 w-auto select-none object-contain brightness-0 dark:invert"
+                draggable="false" />
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (() => {
+        const ticker = document.getElementById("client-swiper");
+        if (!ticker) return;
+
+        let pointerStartX = 0;
+        let scrollStart = 0;
+        let activePointer = null;
+
+        ticker.addEventListener("pointerdown", (event) => {
+          if (event.pointerType !== "mouse") return;
+          activePointer = event.pointerId;
+          pointerStartX = event.clientX;
+          scrollStart = ticker.scrollLeft;
+          ticker.setPointerCapture(event.pointerId);
+        });
+        ticker.addEventListener("pointermove", (event) => {
+          if (event.pointerId === activePointer) {
+            ticker.scrollLeft = scrollStart - (event.clientX - pointerStartX);
+          }
+        });
+        const stopDragging = (event) => {
+          if (event.pointerId === activePointer) activePointer = null;
+        };
+        ticker.addEventListener("pointerup", stopDragging);
+        ticker.addEventListener("pointercancel", stopDragging);
+      })();
+    </script>
+  {{ end }}
+</section>
+{{ end }}

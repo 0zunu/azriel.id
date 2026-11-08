@@ -6,3 +6,7 @@ Hello👋, I am a `{full-stack}` developer, graduate, and `{designer}` who lives
 {{< cta url="/portfolio/" label="Portfolio" >}}
 &nbsp;
 {{< cta url="/contact/" label="Contact me" style="outline" >}}
+
+### Trusted by Companies and Agencies
+
+{{< trusted >}}

@@ -6,3 +6,7 @@ Halo👋, Saya seorang `{full-stack}` developer, lulusan, dan `{designer}` yang 
 {{< cta url="/portfolio/" label="Portofolio" >}}
 &nbsp;
 {{< cta url="/contact/" label="Hubungi saya" style="outline" >}}
+
+### Dipercayai oleh Perusahaan dan Instansi
+
+{{< trusted >}}
