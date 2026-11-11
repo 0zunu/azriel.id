@@ -34,5 +34,8 @@ Create website favicons and icons from your logo directly in your browser.
 {{< feature icon="message" title="WhatsApp Link Generator" url="/tools/whatsapp-link-generator/" label="Open Tool" >}}
 Create a WhatsApp link and QR code to share or print.
 {{< /feature >}}
+{{< feature icon="search" title="Google Index Readiness Checker" url="/tools/check-index-robot/" label="Open Tool" >}}
+Review page robots directives, canonical URL, robots.txt, and sitemap.
+{{< /feature >}}
 
 {{< /feature-grid >}}

@@ -34,5 +34,8 @@ Buat favicon dan ikon website dari logo langsung di browser.
 {{< feature icon="message" title="WhatsApp Link Generator" url="/tools/whatsapp-link-generator/" label="Buka Alat" >}}
 Buat tautan WhatsApp dan QR code untuk dibagikan atau dicetak.
 {{< /feature >}}
+{{< feature icon="search" title="Cek Kesiapan Index Google" url="/tools/check-index-robot/" label="Buka Alat" >}}
+Periksa direktif robots halaman, URL canonical, robots.txt, dan sitemap.
+{{< /feature >}}
 
 {{< /feature-grid >}}

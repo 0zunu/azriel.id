@@ -263,6 +263,27 @@ html:not(.dark) #particles-js {
     overflow-wrap: anywhere;
 }
 
+.check-index-robot {
+    max-width: 64rem;
+}
+
+.check-index-robot #indexCheckUrl {
+    font-size: 1.125rem;
+}
+
+.check-index-robot #indexCheckUrl:focus {
+    background-color: #eff6ff;
+}
+
+.check-index-robot #indexCheckButton {
+    background-color: #ff7f0e;
+    color: #fff;
+}
+
+.check-index-robot #indexCheckButton:hover:not(:disabled) {
+    background-color: #e96d00;
+}
+
 @media (max-width: 640px) {
     .image-compressor {
         margin-top: 1.25rem;
