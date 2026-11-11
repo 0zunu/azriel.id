@@ -169,6 +169,8 @@ html:not(.dark) #particles-js {
   filter: invert(1);
 }
 
+/* Tools */
+
 .image-compressor {
     --compressor-accent: #d94f32;
     max-width: 64rem;
@@ -251,6 +253,10 @@ html:not(.dark) #particles-js {
 
 .whatsapp-link-generator {
     max-width: 64rem;
+}
+
+.whatsapp-link-generator #whatsappCountry {
+    width: 33.333%;
 }
 
 .whatsapp-link-generator #whatsappLink {

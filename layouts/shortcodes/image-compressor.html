@@ -1,0 +1,96 @@
+{{ $isIndonesian := eq .Page.Lang "id" }}
+<div class="image-compressor mx-auto mt-6 max-w-5xl space-y-6">
+  <div id="modeToggleArea" class="hidden rounded-2xl border border-neutral-200 bg-neutral-50 p-4 dark:border-neutral-700 dark:bg-neutral-800 sm:p-6">
+    <p class="mb-3 text-sm font-semibold text-neutral-800 dark:text-neutral-200">{{ if $isIndonesian }}Pilih hasil kompresi{{ else }}Choose a compression setting{{ end }}</p>
+    <div class="flex rounded-xl border border-neutral-200 bg-white p-1 dark:border-neutral-600 dark:bg-neutral-900" role="group" aria-label="{{ if $isIndonesian }}Mode kompresi{{ else }}Compression mode{{ end }}">
+      <button id="btnSmaller" type="button" aria-pressed="false" class="flex flex-1 items-center justify-center gap-2 rounded-lg px-3 py-3 text-sm font-semibold text-neutral-700 transition-colors hover:bg-neutral-100 hover:text-neutral-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 dark:text-neutral-300 dark:hover:bg-neutral-700 dark:hover:text-neutral-100 sm:px-4">
+        <svg class="mode-check hidden h-4 w-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+        <span>{{ if $isIndonesian }}Ukuran lebih kecil{{ else }}Smaller file{{ end }}</span>
+      </button>
+      <button id="btnHigherQuality" type="button" aria-pressed="true" class="flex flex-1 items-center justify-center gap-2 rounded-lg bg-primary-600 px-3 py-3 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-primary-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-offset-2 dark:bg-primary-500 dark:hover:bg-primary-400 dark:focus-visible:ring-offset-neutral-800 sm:px-4">
+        <svg class="mode-check h-4 w-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+        <span>{{ if $isIndonesian }}Kualitas lebih tinggi{{ else }}Higher quality{{ end }}</span>
+      </button>
+    </div>
+    <p id="modeDescription" class="mb-0 mt-3 text-sm text-neutral-600 dark:text-neutral-400">{{ if $isIndonesian }}Kualitas visual lebih tinggi dengan kompresi WebP.{{ else }}Higher visual quality with WebP compression.{{ end }}</p>
+  </div>
+  <div id="uploadSection">
+    <label id="dropzoneLabel" for="imageUpload" class="group flex min-h-72 cursor-pointer flex-col items-center justify-center rounded-xl border-2 border-neutral-300 bg-white px-5 py-10 text-center transition-colors hover:border-primary-500 hover:bg-primary-100 dark:border-neutral-600 dark:bg-neutral-800 dark:hover:border-primary-400 dark:hover:bg-neutral-700 sm:py-14" style="border-style: dashed;">
+      <span class="mb-5 flex h-16 w-16 items-center justify-center rounded-xl bg-primary-100 text-primary-700 transition-transform group-hover:-translate-y-1 dark:bg-primary-900 dark:text-primary-300">
+        <svg class="h-8 w-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+      </span>
+      <span class="text-lg font-bold text-neutral-900 dark:text-neutral-100">{{ if $isIndonesian }}Pilih gambar untuk mulai{{ else }}Choose an image to get started{{ end }}</span>
+      <span class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">{{ if $isIndonesian }}atau seret dan lepaskan file di sini{{ else }}or drag and drop a file here{{ end }}</span>
+      <span class="mt-5 rounded-full bg-neutral-100 px-3 py-1 text-xs font-medium text-neutral-600 dark:bg-neutral-700 dark:text-neutral-300">{{ if $isIndonesian }}JPG, PNG, WebP, AVIF, GIF · maks. 50 MB{{ else }}JPG, PNG, WebP, AVIF, GIF · max. 50 MB{{ end }}</span>
+      <input type="file" id="imageUpload" class="sr-only" accept="image/jpeg, image/png, image/webp, image/avif, image/gif" aria-describedby="uploadError" />
+    </label>
+    <p id="uploadError" class="mt-3 hidden rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700 dark:border-red-800 dark:bg-neutral-900 dark:text-red-300" role="alert"></p>
+  </div>
+  <section id="resultSection" class="hidden overflow-hidden rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm dark:border-neutral-700 dark:bg-neutral-800 sm:p-6">
+    <div class="mb-6 flex items-center justify-between gap-4 border-b border-neutral-200 pb-5 dark:border-neutral-700">
+      <div class="flex min-w-0 items-center gap-4">
+        <div class="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+        </div>
+        <div class="min-w-0">
+          <h3 id="fileName" class="mb-1 max-w-[220px] truncate text-base font-semibold text-neutral-900 dark:text-neutral-100 sm:max-w-sm">{{ if $isIndonesian }}Gambar{{ else }}Image{{ end }}</h3>
+          <p class="m-0 text-sm text-neutral-600 dark:text-neutral-300">
+            <span id="txtSizeOld">0 KB</span> <span class="mx-1 text-neutral-400" aria-hidden="true">→</span> <span id="txtSizeNew" class="font-medium text-neutral-900 dark:text-neutral-100">{{ if $isIndonesian }}Memproses...{{ else }}Processing...{{ end }}</span>
+          </p>
+        </div>
+      </div>
+      <div id="badgePercent" class="rounded-full bg-green-100 px-3 py-1.5 text-sm font-bold text-green-800 dark:bg-green-900 dark:text-green-300" aria-label="{{ if $isIndonesian }}Perubahan ukuran{{ else }}File size change{{ end }}">
+        —
+      </div>
+    </div>
+    <div class="group relative isolate w-full overflow-hidden rounded-xl border border-neutral-200 bg-neutral-100 dark:border-neutral-700 dark:bg-neutral-900" id="sliderContainer">
+      <img id="imgCompressed" class="block h-auto max-h-[60vh] w-full object-contain" alt="{{ if $isIndonesian }}Hasil kompresi{{ else }}Compressed image{{ end }}" />
+      <img id="imgOriginal" class="pointer-events-none absolute inset-0 h-full w-full object-contain" style="clip-path: inset(0 50% 0 0);" alt="" />
+      <div id="sliderLine" class="pointer-events-none absolute inset-y-0 left-1/2 z-10 w-0.5 -translate-x-1/2 bg-white shadow-[0_0_4px_rgba(0,0,0,0.5)] dark:bg-neutral-200"></div>
+      <div id="sliderButton" class="pointer-events-none absolute left-1/2 top-1/2 z-10 flex h-9 w-9 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-white text-neutral-700 shadow-md transition-transform group-hover:scale-110 dark:bg-neutral-700 dark:text-neutral-100">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l-3 3 3 3m8-6l3 3-3 3"></path></svg>
+      </div>
+      <input type="range" id="compareSlider" min="0" max="100" value="50" class="absolute inset-0 z-20 h-full w-full cursor-ew-resize opacity-0" aria-label="{{ if $isIndonesian }}Geser untuk membandingkan gambar asli dan hasil kompresi{{ else }}Slide to compare the original and compressed images{{ end }}">
+      <div class="pointer-events-none absolute bottom-3 left-3 z-10 rounded-full bg-neutral-900/75 px-3 py-1 text-xs font-medium text-white">{{ if $isIndonesian }}Asli{{ else }}Original{{ end }}</div>
+      <div class="pointer-events-none absolute bottom-3 right-3 z-10 rounded-full bg-neutral-900/75 px-3 py-1 text-xs font-medium text-white">{{ if $isIndonesian }}Kompresi{{ else }}Compressed{{ end }}</div>
+    </div>
+    <p id="processingStatus" class="mb-0 mt-3 min-h-5 text-sm text-neutral-500 dark:text-neutral-400" role="status" aria-live="polite"></p>
+    <dl class="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-3">
+      <div class="rounded-xl border border-neutral-200 bg-neutral-50 p-4 dark:border-neutral-700 dark:bg-neutral-900">
+        <dt class="text-sm text-neutral-600 dark:text-neutral-400">{{ if $isIndonesian }}Ukuran asli{{ else }}Original size{{ end }}</dt>
+        <dd id="statSizeOld" class="mb-0 mt-1 text-lg font-bold text-neutral-900 dark:text-neutral-100">0 KB</dd>
+      </div>
+      <div class="rounded-xl border border-neutral-200 bg-neutral-50 p-4 dark:border-neutral-700 dark:bg-neutral-900">
+        <dt class="text-sm text-neutral-600 dark:text-neutral-400">{{ if $isIndonesian }}Ukuran hasil{{ else }}Compressed size{{ end }}</dt>
+        <dd id="statSizeNew" class="mb-0 mt-1 text-lg font-bold text-neutral-900 dark:text-neutral-100">—</dd>
+      </div>
+      <div class="rounded-xl border border-green-200 bg-green-50 p-4 dark:border-green-900 dark:bg-neutral-900">
+        <dt class="text-sm text-green-800 dark:text-green-300">{{ if $isIndonesian }}Perubahan ukuran{{ else }}File size change{{ end }}</dt>
+        <dd id="statPercent" class="mb-0 mt-1 text-lg font-bold text-green-900 dark:text-green-200">—</dd>
+      </div>
+    </dl>
+    <div class="mt-5 flex flex-col gap-4 sm:flex-row">
+      <button id="btnDownload" type="button" disabled class="inline-flex flex-1 items-center justify-center gap-2 rounded-xl bg-primary-600 px-6 py-3 font-semibold text-white shadow-sm transition-colors hover:bg-primary-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:bg-primary-500 dark:hover:bg-primary-400 dark:focus-visible:ring-offset-neutral-800">
+        <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+        {{ if $isIndonesian }}Unduh gambar{{ else }}Download image{{ end }}
+      </button>
+      <button id="btnReset" type="button" class="inline-flex flex-1 items-center justify-center gap-2 rounded-xl border border-neutral-300 bg-white px-6 py-3 font-semibold text-neutral-800 transition-colors hover:bg-neutral-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-offset-2 dark:border-neutral-600 dark:bg-neutral-800 dark:text-neutral-100 dark:hover:bg-neutral-700 dark:focus-visible:ring-offset-neutral-800">
+        <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+        {{ if $isIndonesian }}Kompres gambar lain{{ else }}Compress another image{{ end }}
+      </button>
+    </div>
+  </section>
+  <aside class="flex items-center gap-4 rounded-2xl border border-primary-200 bg-primary-100 p-4 dark:border-primary-900 dark:bg-primary-900 sm:p-6">
+    <span class="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-white text-primary-700 dark:bg-neutral-800 dark:text-primary-300">
+      <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path>
+      </svg>
+    </span>
+    <div>
+      <h3 class="mb-1 text-base font-bold text-neutral-900 dark:text-neutral-100">{{ if $isIndonesian }}Privasi tetap terjaga{{ else }}Your privacy is protected{{ end }}</h3>
+      <p class="mb-0 text-sm leading-6 text-neutral-700 dark:text-neutral-300">{{ if $isIndonesian }}Gambar diproses langsung di perangkat. Tidak ada file yang diunggah atau disimpan di server.{{ else }}Images are processed directly on your device. No files are uploaded to or stored on a server.{{ end }}</p>
+    </div>
+  </aside>
+</div>
+{{ $script := resources.Get "js/image-compressor.js" | js.Build }}
+<script src="{{ $script.RelPermalink }}" defer></script>
