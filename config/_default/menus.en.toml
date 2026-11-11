@@ -78,13 +78,20 @@
   weight = 50
   pageRef = "study/mikrotik"
 
-# =====================Others======================
-
 [[main]]
   pre = "tools"
   name = "Tools"
   weight = 55
-  url = "https://tools.azriel.id"
+  pageRef = "tools"
+
+[[main]]
+  pre = "images-square"
+  name = "Compress Image"
+  parent = "Tools"
+  weight = 55
+  pageRef = "tools/image-compressor"
+
+# =====================Others======================
 
 [[main]]
   pre = "option"
