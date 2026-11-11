@@ -91,6 +91,12 @@
   weight = 55
   pageRef = "tools/image-compressor"
 
+[[main]]
+  pre = "message"
+  name = "WhatsApp Link Generator"
+  parent = "Tools"
+  weight = 55
+  pageRef = "tools/whatsapp-link-generator"
 # =====================Others======================
 
 [[main]]

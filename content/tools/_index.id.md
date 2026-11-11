@@ -26,7 +26,10 @@ showShareLinks: false
 
 {{< feature-grid >}}
 {{< feature icon="images-square" title="Kompresi Gambar" url="/tools/image-compressor/" label="Buka Alat" >}}
-Kurangi ukuran file gambar langsung di browser Anda. Tanpa perlu mengunggah—100% aman.
+Kurangi ukuran file gambar langsung di browser Anda. Tanpa perlu mengunggah, 100% aman.
+{{< /feature >}}
+{{< feature icon="message" title="WhatsApp Link Generator" url="/tools/whatsapp-link-generator/" label="Buka Alat" >}}
+Buat tautan WhatsApp dan QR code untuk dibagikan atau dicetak.
 {{< /feature >}}
 
 {{< /feature-grid >}}

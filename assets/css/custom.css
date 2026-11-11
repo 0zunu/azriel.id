@@ -249,6 +249,14 @@ html:not(.dark) #particles-js {
     background-color: #30211c;
 }
 
+.whatsapp-link-generator {
+    max-width: 64rem;
+}
+
+.whatsapp-link-generator #whatsappLink {
+    overflow-wrap: anywhere;
+}
+
 @media (max-width: 640px) {
     .image-compressor {
         margin-top: 1.25rem;
