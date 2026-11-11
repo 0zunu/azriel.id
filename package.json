@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "jszip": "^3.10.2",
     "libphonenumber-js": "^1.13.16",
     "particles.js": "^2.0.0",
     "qrcode": "^1.5.4"

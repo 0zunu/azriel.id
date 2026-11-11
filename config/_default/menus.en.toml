@@ -92,6 +92,13 @@
   pageRef = "tools/image-compressor"
 
 [[main]]
+  pre = "web-design"
+  name = "Favicon Generator"
+  parent = "Tools"
+  weight = 55
+  pageRef = "tools/favicon-generator"
+
+[[main]]
   pre = "message"
   name = "WhatsApp Link Generator"
   parent = "Tools"
