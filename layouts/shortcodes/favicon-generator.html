@@ -2,14 +2,17 @@
 <div class="favicon-generator mx-auto mt-6 max-w-5xl">
   <section class="rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm dark:border-neutral-700 dark:bg-neutral-800 sm:p-7">
     <div>
-      <label for="faviconUpload" class="mb-2 block text-sm font-semibold text-neutral-800 dark:text-neutral-200">{{ if $isIndonesian }}Logo (maksimal 10 MB){{ else }}Logo (max. 10 MB){{ end }}</label>
-      <input id="faviconUpload" type="file" accept="image/png,image/jpeg,image/webp,image/gif" class="block w-full text-sm text-neutral-700 file:mr-3 file:cursor-pointer file:rounded-lg file:border-0 file:bg-neutral-100 file:px-3 file:py-2 file:font-medium file:text-neutral-800 hover:file:bg-neutral-200 dark:text-neutral-300 dark:file:bg-neutral-700 dark:file:text-neutral-100 dark:hover:file:bg-neutral-600" aria-describedby="faviconStatus">
+      <p id="faviconUploadHelp" class="mb-2 text-sm font-semibold text-neutral-800 dark:text-neutral-200">{{ if $isIndonesian }}Logo (maksimal 10 MB){{ else }}Logo (max. 10 MB){{ end }}</p>
+      <input id="faviconUpload" type="file" accept="image/png,image/jpeg,image/webp,image/gif" class="peer sr-only" aria-describedby="faviconUploadHelp faviconStatus">
+      <label for="faviconUpload" class="inline-flex cursor-pointer items-center rounded-lg border border-neutral-200 bg-white px-3 py-2 text-sm font-semibold text-neutral-700 shadow-sm transition-colors hover:bg-neutral-100 focus-within:outline-none peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-primary-500 dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-200 dark:hover:bg-neutral-700">
+        {{ if $isIndonesian }}Pilih logo{{ else }}Choose logo{{ end }}
+      </label>
     </div>
     <div class="mt-5 flex min-h-20 flex-wrap items-center gap-4">
       <img id="faviconPreview" class="hidden h-20 w-20 rounded-xl border border-neutral-200 object-contain p-1 dark:border-neutral-700" alt="{{ if $isIndonesian }}Pratinjau logo untuk favicon{{ else }}Favicon logo preview{{ end }}">
       <p id="faviconFileName" class="m-0 break-all text-sm text-neutral-600 dark:text-neutral-300"></p>
     </div>
-    <button id="downloadFavicon" type="button" disabled class="mt-5 inline-flex items-center rounded-lg bg-primary-600 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-primary-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:bg-primary-500 dark:hover:bg-primary-400 dark:focus-visible:ring-offset-neutral-800">
+    <button id="downloadFavicon" type="button" disabled class="mt-5 inline-flex cursor-pointer items-center rounded-lg bg-primary-600 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-primary-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:bg-primary-500 dark:hover:bg-primary-400 dark:focus-visible:ring-offset-neutral-800">
       {{ if $isIndonesian }}Unduh paket ICO dan PNG{{ else }}Download ICO and PNG package{{ end }}
     </button>
     <p id="faviconStatus" class="mb-0 mt-3 min-h-5 text-sm text-neutral-500 dark:text-neutral-400" role="status" aria-live="polite">{{ if $isIndonesian }}Pilih logo untuk membuat favicon. File tetap berada di perangkat kamu.{{ else }}Choose a logo to create your favicon. Your file stays on your device.{{ end }}</p>
