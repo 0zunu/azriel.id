@@ -14,7 +14,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-07
+lastmod: 2026-11-12
 showComments: false
 showHeadingAnchors: false
 showPagination: false
@@ -31,10 +31,12 @@ Menggeluti dunia teknologi dan pengembangan perangkat Lunak. Memiliki pengalaman
 ## Keterampilan
 
 {{< keywordList >}}
-{{< keyword icon="microsoft" >}} Microsoft Office (Word, Excel & PowerPoint) {{< /keyword >}}
 {{< keyword icon="canvas" >}} Canva {{< /keyword >}}
+{{< keyword icon="figma" >}} Figma {{< /keyword >}}
 {{< keyword icon="photoshop" >}} Photoshop {{< /keyword >}}
-{{< keyword icon="analysis" >}} Analisis Data {{< /keyword >}}
+{{< keyword icon="analysis" >}} Analis Program {{< /keyword >}}
+{{< keyword icon="web-design" >}} Pengembangan Front-end {{< /keyword >}}
+{{< keyword icon="code" >}} Pengembangan Back-end {{< /keyword >}}
 {{< keyword icon="code" >}} Codeigniter {{< /keyword >}}
 {{< keyword icon="cloud-server" >}} Hosting {{< /keyword >}}
 {{< keyword icon="erp" >}} Cisco Packet Tracer {{< /keyword >}}

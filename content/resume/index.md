@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-07
+lastmod: 2026-11-12
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -31,10 +31,12 @@ Passionate about the world of technology and software development. Experienced i
 ## Skills
 
 {{< keywordList >}}
-{{< keyword icon="microsoft" >}} Microsoft Office (Word, Excel & PowerPoint) {{< /keyword >}}
 {{< keyword icon="canvas" >}} Canva {{< /keyword >}}
+{{< keyword icon="figma" >}} Figma {{< /keyword >}}
 {{< keyword icon="photoshop" >}} Photoshop {{< /keyword >}}
-{{< keyword icon="analysis" >}} Data Analysis {{< /keyword >}}
+{{< keyword icon="analysis" >}} Program Analyst {{< /keyword >}}
+{{< keyword icon="web-design" >}} Front-end Development {{< /keyword >}}
+{{< keyword icon="code" >}} Back-end Development {{< /keyword >}}
 {{< keyword icon="code" >}} Codeigniter {{< /keyword >}}
 {{< keyword icon="cloud-server" >}} Hosting {{< /keyword >}}
 {{< keyword icon="erp" >}} Cisco Packet Tracer {{< /keyword >}}
