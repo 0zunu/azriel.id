@@ -1,7 +1,7 @@
 ---
 title: Free, Fast Tools with No Registration
-summary: A collection of free, fast tools—no registration required. Designed for everyday needs.
-description: A collection of free, fast tools—no registration required. Designed for everyday needs.
+summary: A collection of free, fast tools no registration required. Designed for everyday needs.
+description: A collection of free, fast tools no registration required. Designed for everyday needs.
 layout: simple
 layoutBackgroundHeaderSpace: false
 showViews: false
@@ -25,6 +25,9 @@ showShareLinks: false
 ---
 
 {{< feature-grid >}}
+{{< feature icon="pdf" title="Merge PDF" url="/tools/merge-pdf/" label="Open Tool" >}}
+Combine PDF files in the order you want, directly in your browser.
+{{< /feature >}}
 {{< feature icon="images-square" title="Image Compression" url="/tools/image-compressor/" label="Open Tool" >}}
 Reduce image file sizes directly in your browser. No uploads required, 100% secure.
 {{< /feature >}}

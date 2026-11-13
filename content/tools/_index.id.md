@@ -1,7 +1,7 @@
 ---
 title: Alat Gratis, Cepat, dan Tanpa Registrasi
-summary: Kumpulan alat gratis dan cepat—tanpa registrasi. Dirancang untuk kebutuhan sehari-hari.
-description: Kumpulan alat gratis dan cepat—tanpa registrasi. Dirancang untuk kebutuhan sehari-hari.
+summary: Kumpulan alat gratis dan cepat tanpa registrasi. Dirancang untuk kebutuhan sehari-hari.
+description: Kumpulan alat gratis dan cepat tanpa registrasi. Dirancang untuk kebutuhan sehari-hari.
 layout: simple
 layoutBackgroundHeaderSpace: false
 showViews: false
@@ -25,6 +25,9 @@ showShareLinks: false
 ---
 
 {{< feature-grid >}}
+{{< feature icon="pdf" title="Gabungkan PDF" url="/tools/merge-pdf/" label="Buka Alat" >}}
+Gabungkan file PDF sesuai urutan yang kamu inginkan langsung di browser.
+{{< /feature >}}
 {{< feature icon="images-square" title="Kompresi Gambar" url="/tools/image-compressor/" label="Buka Alat" >}}
 Kurangi ukuran file gambar langsung di browser Anda. Tanpa perlu mengunggah, 100% aman.
 {{< /feature >}}
