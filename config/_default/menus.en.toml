@@ -104,6 +104,13 @@
   parent = "Tools"
   weight = 55
   pageRef = "tools/whatsapp-link-generator"
+
+[[main]]
+  pre = "pdf"
+  name = "Merge PDF"
+  parent = "Tools"
+  weight = 55
+  pageRef = "tools/merge-pdf"
 # =====================Others======================
 
 [[main]]

@@ -158,27 +158,35 @@
   function setActiveMode(mode) {
     currentMode = mode;
     const isHighQuality = mode === 'high';
-    const activeClasses = ['bg-primary-600', 'text-white', 'shadow-sm', 'dark:bg-primary-500'];
-    const inactiveClasses = ['text-neutral-700', 'dark:text-neutral-300'];
-    const activeHoverClasses = ['hover:bg-primary-500', 'dark:hover:bg-primary-400'];
-    const inactiveHoverClasses = [
-      'hover:bg-neutral-100',
-      'dark:hover:bg-neutral-700',
-      'hover:text-neutral-900',
-      'dark:hover:text-neutral-100',
+    const activeClasses = [
+      'bg-primary-600',
+      'text-white',
+      'shadow-sm',
+      'hover:bg-primary-500',
+      'dark:bg-primary-500',
+      'dark:hover:bg-primary-400',
+    ];
+    const inactiveClasses = [
+      'border',
+      'border-neutral-300',
+      'bg-white',
+      'text-neutral-800',
+      'hover:border-primary-400',
+      'hover:text-primary-600',
+      'dark:border-neutral-700',
+      'dark:bg-neutral-900',
+      'dark:text-neutral-100',
+      'dark:hover:border-primary-700',
+      'dark:hover:text-primary-400',
     ];
     const activeButton = isHighQuality ? btnHigherQuality : btnSmaller;
     const inactiveButton = isHighQuality ? btnSmaller : btnHigherQuality;
 
     [btnSmaller, btnHigherQuality].forEach((button) => {
-      button.classList.remove(...activeHoverClasses, ...inactiveHoverClasses);
+      button.classList.remove(...activeClasses, ...inactiveClasses);
     });
     activeButton.classList.add(...activeClasses);
-    activeButton.classList.remove(...inactiveClasses);
-    activeButton.classList.add(...activeHoverClasses);
-    inactiveButton.classList.remove(...activeClasses);
     inactiveButton.classList.add(...inactiveClasses);
-    inactiveButton.classList.add(...inactiveHoverClasses);
     activeButton.setAttribute('aria-pressed', 'true');
     inactiveButton.setAttribute('aria-pressed', 'false');
     activeButton.querySelector('.mode-check').classList.remove('hidden');

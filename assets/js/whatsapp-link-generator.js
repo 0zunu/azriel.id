@@ -68,8 +68,8 @@ import { getCountries, getCountryCallingCode } from 'libphonenumber-js';
   const setStatus = (message, isError = false) => {
     status.textContent = message;
     status.classList.toggle('hidden', !message);
-    status.classList.toggle('text-red-600', isError);
-    status.classList.toggle('dark:text-red-400', isError);
+    status.classList.toggle('text-primary-700', isError);
+    status.classList.toggle('dark:text-primary-300', isError);
     status.classList.toggle('text-neutral-500', !isError);
     status.classList.toggle('dark:text-neutral-400', !isError);
   };

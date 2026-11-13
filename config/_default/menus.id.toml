@@ -105,6 +105,12 @@
   weight = 55
   pageRef = "tools/whatsapp-link-generator"
 
+[[main]]
+  pre = "pdf"
+  name = "Gabungkan PDF"
+  parent = "Alat"
+  weight = 55
+  pageRef = "tools/merge-pdf"
 # =====================Lainnya======================
 
 [[main]]

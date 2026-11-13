@@ -4,7 +4,7 @@
     <div>
       <p id="faviconUploadHelp" class="mb-2 text-sm font-semibold text-neutral-800 dark:text-neutral-200">{{ if $isIndonesian }}Logo (maksimal 10 MB){{ else }}Logo (max. 10 MB){{ end }}</p>
       <input id="faviconUpload" type="file" accept="image/png,image/jpeg,image/webp,image/gif" class="peer sr-only" aria-describedby="faviconUploadHelp faviconStatus">
-      <label for="faviconUpload" class="inline-flex cursor-pointer items-center rounded-lg border border-neutral-200 bg-white px-3 py-2 text-sm font-semibold text-neutral-700 shadow-sm transition-colors hover:bg-neutral-100 focus-within:outline-none peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-primary-500 dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-200 dark:hover:bg-neutral-700">
+      <label for="faviconUpload" class="inline-flex cursor-pointer items-center rounded-lg border border-neutral-300 bg-white px-3 py-2 text-sm font-semibold text-neutral-800 shadow-sm transition-colors hover:border-primary-400 hover:text-primary-600 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100 dark:hover:border-primary-700 dark:hover:text-primary-400">
         {{ if $isIndonesian }}Pilih logo{{ else }}Choose logo{{ end }}
       </label>
     </div>
@@ -19,7 +19,7 @@
     <div class="mt-6">
       <label for="faviconHtml" class="mb-2 block text-sm text-neutral-600 dark:text-neutral-300">{{ if $isIndonesian }}Letakkan file di root website, lalu tambahkan kode ini ke dalam &lt;head&gt;:{{ else }}Place the files in your website root, then add this code inside &lt;head&gt;:{{ end }}</label>
       <textarea id="faviconHtml" rows="3" readonly class="block w-full resize-y rounded-xl border border-neutral-200 bg-neutral-50 px-3 py-3 font-mono text-sm text-neutral-900 outline-none focus:border-primary-500 focus:ring-2 focus:ring-primary-500/20 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100" aria-label="{{ if $isIndonesian }}Kode HTML favicon{{ else }}Favicon HTML code{{ end }}"></textarea>
-      <button id="copyFaviconHtml" type="button" class="mt-3 inline-flex items-center rounded-lg border border-neutral-200 bg-white px-3 py-2 text-sm font-medium text-neutral-700 shadow-sm transition-colors hover:bg-neutral-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-200 dark:hover:bg-neutral-700">
+      <button id="copyFaviconHtml" type="button" class="mt-3 inline-flex items-center rounded-lg border border-neutral-300 bg-white px-3 py-2 text-sm font-medium text-neutral-800 shadow-sm transition-colors hover:border-primary-400 hover:text-primary-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100 dark:hover:border-primary-700 dark:hover:text-primary-400">
         {{ if $isIndonesian }}Salin HTML{{ else }}Copy HTML{{ end }}
       </button>
     </div>

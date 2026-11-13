@@ -70,12 +70,12 @@ import { PDFDocument } from 'pdf-lib';
       const item = document.createElement('li');
       item.draggable = !isProcessing;
       item.dataset.index = String(index);
-      item.className = 'merge-pdf-item flex min-w-0 items-center gap-3 rounded-xl border border-neutral-200 bg-white p-3 shadow-sm transition-colors dark:border-neutral-700 dark:bg-neutral-800';
+      item.className = 'merge-pdf-item flex min-w-0 items-center gap-3 rounded-xl border border-neutral-200 bg-white p-3 shadow-sm transition-colors hover:border-primary-400 dark:border-neutral-700 dark:bg-neutral-800 dark:hover:border-primary-700';
 
       const icon = document.createElement('span');
-      icon.className = 'flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-red-50 text-red-600 dark:bg-red-950 dark:text-red-300';
+      icon.className = 'flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-primary-100 text-primary-700';
       icon.setAttribute('aria-hidden', 'true');
-      icon.innerHTML = '<svg class="h-7 w-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M7 3h7l5 5v13H7a2 2 0 01-2-2V5a2 2 0 012-2z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M14 3v6h6M8 15h8M8 18h6"></path></svg>';
+      icon.innerHTML = '<svg class="h-7 w-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M8 3h6l4 4v13a1 1 0 01-1 1H8a1 1 0 01-1-1V4a1 1 0 011-1z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M14 3v4h4"></path><text x="12" y="16.5" fill="currentColor" stroke="none" text-anchor="middle" font-family="Arial, sans-serif" font-size="4.3" font-weight="700">PDF</text></svg>';
 
       const details = document.createElement('div');
       details.className = 'min-w-0 flex-1';
@@ -112,7 +112,7 @@ import { PDFDocument } from 'pdf-lib';
     button.title = title;
     button.setAttribute('aria-label', title);
     button.disabled = disabled || isProcessing;
-    button.className = 'flex h-6 w-6 items-center justify-center rounded text-sm font-bold text-neutral-600 hover:bg-neutral-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 disabled:cursor-not-allowed disabled:opacity-40 dark:text-neutral-300 dark:hover:bg-neutral-700';
+    button.className = 'flex h-6 w-6 items-center justify-center rounded border border-neutral-300 bg-white text-sm font-bold text-neutral-800 transition-colors hover:border-primary-400 hover:text-primary-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600 disabled:cursor-not-allowed disabled:opacity-40 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100 dark:hover:border-primary-700 dark:hover:text-primary-400';
     button.addEventListener('click', onClick);
     return button;
   }

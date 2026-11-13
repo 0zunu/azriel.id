@@ -1,7 +1,7 @@
 {{ $isIndonesian := eq .Page.Lang "id" }}
 <div class="merge-pdf mx-auto mt-6 max-w-6xl">
   <section class="overflow-hidden rounded-2xl border border-neutral-200 bg-white p-4 shadow-sm dark:border-neutral-700 dark:bg-neutral-800 sm:p-7">
-    <div id="mergePdfDropzone" class="merge-pdf-dropzone flex flex-col items-center justify-center gap-0 rounded-xl border-2 border-dashed border-neutral-300 bg-neutral-50 px-5 py-10 text-center transition-colors dark:border-neutral-600 dark:bg-neutral-900 sm:py-14">
+    <div id="mergePdfDropzone" class="merge-pdf-dropzone flex flex-col items-center justify-center gap-0 rounded-xl border-2 border-dashed border-primary-200 bg-neutral-50 px-5 py-10 text-center transition-colors hover:border-primary-400 hover:bg-primary-100 dark:border-primary-900 dark:bg-neutral-900 dark:hover:border-primary-700 sm:py-14">
       <span class="merge-pdf-upload-icon-wrap mx-auto flex h-14 w-14 items-center justify-center rounded-full bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300">
         <svg class="merge-pdf-upload-icon h-7 w-7" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M12 16V4m0 0L7 9m5-5l5 5M5 14v5a2 2 0 002 2h10a2 2 0 002-2v-5"></path></svg>
       </span>
@@ -21,7 +21,7 @@
         </label>
         <input id="mergePdfMoreInput" class="sr-only" type="file" accept="application/pdf,.pdf" multiple aria-describedby="mergePdfStatus">
       </div>
-      <p class="merge-pdf-order-note mb-4 rounded-lg border border-primary-200 bg-primary-100 px-4 py-3 text-sm text-neutral-800 dark:border-primary-900 dark:bg-primary-900 dark:text-neutral-200" role="note">
+      <p class="merge-pdf-order-note mb-4 rounded-lg border border-primary-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-800 dark:border-primary-900 dark:bg-neutral-900 dark:text-neutral-200" role="note">
         {{ if $isIndonesian }}Seret file untuk mengubah urutan penggabungan. Kamu juga bisa memakai tombol panah pada setiap file. File diproses di perangkatmu.{{ else }}Drag files to change their merge order. You can also use the arrow buttons on each file. Files are processed on your device.{{ end }}
       </p>
       <ol id="mergePdfFileList" class="m-0 grid list-none grid-cols-1 gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3"></ol>
@@ -30,7 +30,7 @@
           <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12M8 12h12M8 17h12M3 7h.01M3 12h.01M3 17h.01"></path></svg>
           {{ if $isIndonesian }}Gabungkan PDF{{ else }}Merge PDF{{ end }}
         </button>
-        <button id="mergePdfClear" type="button" class="merge-pdf-secondary-button inline-flex items-center justify-center rounded-xl border border-neutral-300 bg-white px-6 py-3 font-semibold text-neutral-800 transition-colors hover:bg-neutral-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 dark:border-neutral-600 dark:bg-neutral-800 dark:text-neutral-100 dark:hover:bg-neutral-700">
+        <button id="mergePdfClear" type="button" class="merge-pdf-secondary-button inline-flex items-center justify-center rounded-xl border border-neutral-300 bg-white px-6 py-3 font-semibold text-neutral-800 transition-colors hover:border-primary-400 hover:text-primary-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100 dark:hover:border-primary-700 dark:hover:text-primary-400">
           {{ if $isIndonesian }}Hapus semua{{ else }}Clear all{{ end }}
         </button>
       </div>
