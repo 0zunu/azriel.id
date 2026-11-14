@@ -15,7 +15,7 @@ showDateOnlyInArticle: false
 showDateUpdated: true
 showDate: true
 date: 2025-04-28
-lastmod: 2026-11-12
+lastmod: 2026-11-15
 showComments: false
 showPagination: false
 showReadingTime: false
@@ -166,7 +166,7 @@ This e-commerce website was developed to make online clothing shopping easier. T
 
 Graduated with a Bachelor of Computer Science (S.Kom) degree with a GPA of 3.82.
 
-<p><b>{{< icon "award" >}} Thesis on “Implementation of Online Exam Information System at SMKN 34 Jakarta”.</b></p>
+<p><b>{{< icon "award" >}} Thesis on “Implementation of an Online Exam Information System at SMKN 34 Jakarta”.</b></p>
 
 {{< gallery >}}
 <img class="customEntitityLogo"  src="/resume/ubsi.png" />
