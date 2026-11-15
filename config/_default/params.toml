@@ -186,6 +186,13 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "right"
 
+[kofi]
+  identifier = "ozunu"
+  globalWidget = true
+  globalWidgetText = ""
+  globalWidgetBackgroundColor = "#00B9FE"
+  globalWidgetTextColor = "#FFFFFF"
+
 [verification]
   # google = ""
   # bing = ""
