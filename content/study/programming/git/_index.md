@@ -4,7 +4,8 @@ summary: "Git is a distributed version control software system that is capable o
 type: "programming"
 tags: ["Git", "Version Control System"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-10-17
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

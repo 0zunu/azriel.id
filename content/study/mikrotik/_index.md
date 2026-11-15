@@ -4,7 +4,8 @@ summary: "Learn about MikroTik, a network router and switch manufacturer."
 type: "Study"
 tags: ["mikrotik", "network router", "networking"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-05-30
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

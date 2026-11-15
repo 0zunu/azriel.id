@@ -4,7 +4,8 @@ summary: "Dengan memahami logika dan struktur program yang dipelajari dalam modu
 type: "pemrograman"
 tags: ["HTML", "CSS", "javaScript", "PHP"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-05-01
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

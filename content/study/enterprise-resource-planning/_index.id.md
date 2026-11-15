@@ -4,7 +4,8 @@ summary: "Belajar tentang Enterprise Resource Planning (ERP), sistem manajemen b
 type: "Study"
 tags: ["ERP", "Enterprise Resource Planning", "business management system"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-04-01
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

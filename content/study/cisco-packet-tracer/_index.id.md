@@ -4,7 +4,8 @@ summary: "Pelajari tentang Cisco Packet Tracer, alat simulasi jaringan untuk pen
 type: "Study"
 tags: ["cisco packet tracer", "network simulation", "networking education"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-05-15
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

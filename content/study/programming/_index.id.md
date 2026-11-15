@@ -4,7 +4,8 @@ summary: "Belajar pemrograman untuk pemula, panduan belajar coding, dan sumber d
 type: "Study"
 tags: ["learn programming", "programming for beginners", "learn coding"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-04-17
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

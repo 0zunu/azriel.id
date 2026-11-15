@@ -4,7 +4,8 @@ summary: "Pelajari tentang MikroTik, produsen router dan switch jaringan."
 type: "Study"
 tags: ["mikrotik", "network router", "networking"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-05-31
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

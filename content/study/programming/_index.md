@@ -4,7 +4,8 @@ summary: "Learn programming for beginners, coding study guides, and programming 
 type: "Study"
 tags: ["learn programming", "programming for beginners", "learn coding"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-04-17
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

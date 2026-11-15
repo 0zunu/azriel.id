@@ -4,7 +4,8 @@ summary: "Learn about Cisco Packet Tracer, a network simulation tool for network
 type: "Study"
 tags: ["cisco packet tracer", "network simulation", "networking education"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-05-15
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

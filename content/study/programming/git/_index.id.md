@@ -4,7 +4,8 @@ summary: "Git adalah sistem perangkat lunak kontrol versi terdistribusi yang mam
 type: "programming"
 tags: ["Git", "Version Control System"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-10-17
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

@@ -4,7 +4,8 @@ summary: "By understanding the logic and program structure learned in this modul
 type: "pemrograman"
 tags: ["HTML", "CSS", "javaScript", "PHP"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-05-01
+showDate: true
 showReadingTime: false
 showLikes: false
 ---

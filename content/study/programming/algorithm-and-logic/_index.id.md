@@ -4,7 +4,8 @@ summary: "Belajar Logika dan Algoritma untuk Pemula."
 type: "programming"
 tags: ["logic", "algorithms", "beginners"]
 layoutBackgroundHeaderSpace: false
-showDate: false
+date: 2026-04-17
+showDate: true
 showReadingTime: false
 showLikes: false
 ---
