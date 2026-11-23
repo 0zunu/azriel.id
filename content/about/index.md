@@ -25,7 +25,7 @@ showAuthor: false
 showShareLinks: false
 ---
 
-![profile photo](tree.jpg)
+![profile photo](tree.webp)
 
 ## Profile
 
@@ -46,7 +46,7 @@ showShareLinks: false
 ## Contact
 
 {{< figure
-    src="barcode-azriel.jpg"
+    src="barcode-azriel.webp"
     class="float-left w-32 mr-5 mb-2 rounded-lg bg-white p-2"
     alt="QR Code"
     >}}

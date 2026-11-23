@@ -10,14 +10,14 @@ title = "Azriel Fidzlie"
   isoCode = "id"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "images/logo.png"
-  secondaryLogo = "images/secondary-logo.png"
+  logo = "images/logo.webp"
+  secondaryLogo = "images/secondary-logo.webp"
   copyright = "© { year } Azriel Fidzlie. All rights reserved."
 
 [params.author]
   name = "Azriel Fidzlie, S.Kom"
   headline = "Selalu Belajar Hal Baru"
-  image = "images/authors/azriel.jpg"
+  image = "images/authors/azriel.webp"
   imageQuality = 96
   bio = "Selalu Belajar Hal Baru"
   links = [
