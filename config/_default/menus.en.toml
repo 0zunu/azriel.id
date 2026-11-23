@@ -111,29 +111,13 @@
   parent = "Tools"
   weight = 55
   pageRef = "tools/merge-pdf"
-# =====================Others======================
-
-[[main]]
-  pre = "option"
-  name = "Others"
-  weight = 60
-  pageRef = "others"
-
-[[main]]
-  pre = "images-square"
-  name = "Gallery"
-  parent = "Others"
-  weight = 60
-  pageRef = "others/gallery"
-
-[[main]]
-  pre = "status"
-  name = "Status"
-  parent = "Others"
-  weight = 60
-  url = "https://status.azriel.id"
-
 # =====================Penutup======================
+
+[[main]]
+  identifier = "status"
+  pre = "status"
+  url = "https://status.azriel.id"
+  weight = 60
 
 [[main]]
   identifier = "github"

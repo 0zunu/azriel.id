@@ -111,29 +111,13 @@
   parent = "Alat"
   weight = 55
   pageRef = "tools/merge-pdf"
-# =====================Lainnya======================
-
-[[main]]
-  pre = "option"
-  name = "Lainnya"
-  weight = 60
-  pageRef = "others"
-
-[[main]]
-  pre = "images-square"
-  name = "Galeri"
-  parent = "Lainnya"
-  weight = 60
-  pageRef = "others/gallery"
-
-[[main]]
-  pre = "status"
-  name = "Status"
-  parent = "Lainnya"
-  weight = 60
-  url = "https://status.azriel.id"
-
 # =====================Penutup======================
+
+[[main]]
+  identifier = "status"
+  pre = "status"
+  url = "https://status.azriel.id"
+  weight = 60
 
 [[main]]
   identifier = "github"
